@@ -1,0 +1,239 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_15_u	20	0.95	5	10174	 Henry Baskerville O	 Henry Baskerville. 
+doyle_baskervilles_15_u	20	0.95	1451	10174	 Henry Baskerville, 	 Henry Baskerville. 
+doyle_baskervilles_15_u	21	1.0	1470	10901	 Northumberland Hotel	 Northumberland Hotel
+doyle_baskervilles_15_u	20	1.0	1471	10902	Northumberland Hotel	Northumberland Hotel
+doyle_baskervilles_15_u	28	1.0	1634	10894	 to the Northumberland Hotel	 to the Northumberland Hotel
+doyle_baskervilles_15_u	20	0.95	2402	10174	 Henry Baskerville, 	 Henry Baskerville. 
+doyle_baskervilles_15_u	20	1.0	3258	22227	Might I trouble you 	Might I trouble you 
+doyle_baskervilles_15_u	20	0.95	4045	10174	 Henry Baskerville t	 Henry Baskerville. 
+doyle_baskervilles_15_u	20	0.95	6222	18321	 was that we should 	 was that he should 
+doyle_baskervilles_15_u	20	0.95	6336	10174	 Henry Baskerville, 	 Henry Baskerville. 
+doyle_baskervilles_15_u	22	0.9545454545454546	7270	19930	, therefore, that the 	, therefore, that she 
+doyle_baskervilles_15_u	25	0.96	7848	13896	 it is unlikely that the 	 it is unlikely that he e
+doyle_baskervilles_15_u	20	0.95	11221	7296	 understand that on 	 understand that in 
+doyle_baskervilles_15_u	20	0.95	12357	10174	 Henry Baskerville l	 Henry Baskerville. 
+doyle_baskervilles_15_u	20	0.95	13611	2497	 Baskerville Hall.” 	 Baskerville Hall. T
+doyle_baskervilles_15_u	21	0.9523809523809523	14131	878	 of the Baskervilles 	 of the Baskerville m
+doyle_baskervilles_15_u	22	0.9545454545454546	14131	22379	 of the Baskervilles w	 of the Baskervilles, 
+doyle_baskervilles_15_u	27	0.9629629629629629	17249	10897	 the Northumberland Hotel w	 the Northumberland Hotel. 
+doyle_baskervilles_15_u	30	0.9666666666666667	18769	10894	 to the Northumberland Hotel a	 to the Northumberland Hotel. 
+doyle_baskervilles_15_u	20	0.95	19209	1133	 and Dr. Mortimer, w	 and Dr. Mortimer we
+doyle_baskervilles_15_u	22	0.9545454545454546	19213	7510	 Dr. Mortimer, with hi	 Dr. Mortimer, with wh
+doyle_baskervilles_15_u	23	0.9565217391304348	21857	16766	 the identity of the ca	 the identity of the ma
+doyle_adventures_3_d	22	1.0	325	27182	 thirty years of age, 	 thirty years of age, 
+doyle_adventures_3_d	23	0.9565217391304348	559	18648	 there was something in	 there was something no
+doyle_adventures_3_d	21	1.0	559	19517	 there was something 	 there was something 
+doyle_adventures_3_d	23	0.9565217391304348	1347	18775	 upon the table, and we	 upon the table and wen
+doyle_adventures_3_d	20	0.95	1677	29157	, glancing keenly ac	, glancing keenly at
+doyle_adventures_3_d	20	0.95	2617	1330	 there is nothing su	 there is nothing so
+doyle_adventures_3_d	20	1.0	2822	15751	It seems to me that 	It seems to me that 
+doyle_adventures_3_d	23	0.9565217391304348	3006	38	 said Sherlock Holmes. 	 said Sherlock Holmes a
+doyle_adventures_3_d	20	0.95	6313	34465	, Mr. Holmes,” said 	, Mr. Holmes," said 
+doyle_adventures_3_d	20	0.95	8796	7479	ing that there was v	ing that there was n
+doyle_adventures_3_d	20	0.95	11029	15652	, and I have never h	, and I have never s
+doyle_adventures_3_d	23	0.9565217391304348	11703	38	 said Sherlock Holmes. 	 said Sherlock Holmes a
+doyle_adventures_3_d	20	0.95	11889	15752	t seems to me that I	t seems to me that y
+doyle_adventures_3_d	20	0.95	11940	6891	 the little that I k	 the little that I m
+doyle_adventures_3_d	20	0.95	12375	8522	 listened with the d	 listened with the g
+doyle_adventures_3_d	20	0.95	13160	10789	 said Holmes, “that 	 said Holmes, "that 
+doyle_adventures_3_d	20	0.95	13334	9364	f course, that is po	f course, that is on
+doyle_adventures_3_d	21	1.0	13872	13021	, Mr. Holmes, and the	, Mr. Holmes, and the
+doyle_adventures_3_d	20	0.95	14096	31624	t was evident that t	t was evident that w
+doyle_adventures_3_d	21	1.0	14552	9713	 friend, Dr. Watson, 	 friend, Dr. Watson, 
+doyle_adventures_3_d	20	0.95	18126	12636	 that if they were t	 that if they were s
+doyle_adventures_3_d	21	1.0	21857	25640	 the identity of the 	 the identity of the 
+doyle_adventures_1_d	28	1.0	559	19678	 there was something in his 	 there was something in his 
+doyle_adventures_1_d	22	0.9545454545454546	767	43684	 Mr. Sherlock Holmes, 	 Mr. Sherlock Holmes. 
+doyle_adventures_1_d	22	1.0	767	44345	 Mr. Sherlock Holmes, 	 Mr. Sherlock Holmes, 
+doyle_adventures_1_d	22	0.9545454545454546	767	45874	 Mr. Sherlock Holmes, 	 Mr. Sherlock Holmes w
+doyle_adventures_1_d	20	1.0	898	11901	. I understand that 	. I understand that 
+doyle_adventures_1_d	23	1.0	2002	19319	y deeply interested in 	y deeply interested in 
+doyle_adventures_1_d	22	0.9545454545454546	2560	8163	What do you make of it	What do you make of th
+doyle_adventures_1_d	21	0.9523809523809523	2561	8804	hat do you make of it	hat do you make of th
+doyle_adventures_1_d	21	1.0	7254	32407	. We may take it, the	. We may take it, the
+doyle_adventures_1_d	20	0.95	7854	32169	 unlikely that the c	 unlikely that she c
+doyle_adventures_1_d	28	0.9642857142857143	9676	21798	 anything else of interest h	 anything else of interest. 
+doyle_adventures_1_d	23	0.9565217391304348	9788	6312	You have not observed a	You have not observed. 
+doyle_adventures_1_d	20	0.95	10887	19191	 in the morning. I c	 in the morning. I s
+doyle_adventures_1_d	20	0.95	11219	11902	 I understand that o	 I understand that t
+doyle_adventures_1_d	21	1.0	12268	24576	 from his pocket and 	 from his pocket and 
+doyle_adventures_1_d	21	0.9523809523809523	14368	18967	 I should like to hav	 I should like to cha
+doyle_adventures_1_d	21	0.9523809523809523	15319	10207	n the stairs and into	n the stairs and in t
+doyle_adventures_1_d	24	0.9583333333333334	18506	4638	I fail to see how you co	I fail to see how you wo
+doyle_adventures_1_d	23	0.9565217391304348	19012	38222	 taken advantage of wit	 taken advantage of it.
+doyle_signoffour_11_d	21	0.9523809523809523	1347	7313	 upon the table, and 	 upon the table and s
+doyle_signoffour_11_d	21	0.9523809523809523	3010	8138	d Sherlock Holmes. “W	d Sherlock Holmes. Wi
+doyle_signoffour_11_d	20	0.95	11707	8138	d Sherlock Holmes. “	d Sherlock Holmes. W
+doyle_baskervilles_6_u	23	1.0	1	18	 Sir Henry Baskerville 	 Sir Henry Baskerville 
+doyle_baskervilles_6_u	25	0.96	1	1105	 Sir Henry Baskerville Ou	 Sir Henry Baskerville up
+doyle_baskervilles_6_u	24	0.9583333333333334	1	6644	 Sir Henry Baskerville O	 Sir Henry Baskerville, 
+doyle_baskervilles_6_u	22	1.0	676	18	 Sir Henry Baskerville	 Sir Henry Baskerville
+doyle_baskervilles_6_u	22	1.0	676	1105	 Sir Henry Baskerville	 Sir Henry Baskerville
+doyle_baskervilles_6_u	25	0.96	676	6644	 Sir Henry Baskerville,” 	 Sir Henry Baskerville, a
+doyle_baskervilles_6_u	22	0.9545454545454546	698	2274	,” said Dr. Mortimer. 	,” said Dr. Mortimer i
+doyle_baskervilles_6_u	23	1.0	698	4313	,” said Dr. Mortimer. “	,” said Dr. Mortimer. “
+doyle_baskervilles_6_u	22	0.9545454545454546	698	5024	,” said Dr. Mortimer. 	,” said Dr. Mortimer, 
+doyle_baskervilles_6_u	22	1.0	699	12882	” said Dr. Mortimer. “	” said Dr. Mortimer. “
+doyle_baskervilles_6_u	22	0.9545454545454546	767	135	 Mr. Sherlock Holmes, 	 Mr. Sherlock Holmes d
+doyle_baskervilles_6_u	20	0.95	899	8735	 I understand that y	 I understand that t
+doyle_baskervilles_6_u	23	0.9565217391304348	1448	19	Sir Henry Baskerville, 	Sir Henry Baskerville a
+doyle_baskervilles_6_u	23	0.9565217391304348	1448	1106	Sir Henry Baskerville, 	Sir Henry Baskerville u
+doyle_baskervilles_6_u	23	1.0	1448	6645	Sir Henry Baskerville, 	Sir Henry Baskerville, 
+doyle_baskervilles_6_u	20	0.95	2198	9301	 sentence had been f	 sentence had been d
+doyle_baskervilles_6_u	25	0.96	2397	1104	d Sir Henry Baskerville, 	d Sir Henry Baskerville u
+doyle_baskervilles_6_u	25	1.0	2397	6643	d Sir Henry Baskerville, 	d Sir Henry Baskerville, 
+doyle_baskervilles_6_u	21	0.9523809523809523	3098	3085	is very interesting d	is very interesting. 
+doyle_baskervilles_6_u	27	0.9629629629629629	4039	1103	nd Sir Henry Baskerville tu	nd Sir Henry Baskerville up
+doyle_baskervilles_6_u	25	0.96	4040	6643	d Sir Henry Baskerville t	d Sir Henry Baskerville, 
+doyle_baskervilles_6_u	23	0.9565217391304348	5035	2273	d,” said Dr. Mortimer, 	d,” said Dr. Mortimer i
+doyle_baskervilles_6_u	22	0.9545454545454546	5036	4313	,” said Dr. Mortimer, 	,” said Dr. Mortimer. 
+doyle_baskervilles_6_u	22	1.0	5036	5024	,” said Dr. Mortimer, 	,” said Dr. Mortimer, 
+doyle_baskervilles_6_u	21	0.9523809523809523	5037	12882	” said Dr. Mortimer, 	” said Dr. Mortimer. 
+doyle_baskervilles_6_u	20	0.95	5418	2047	” “Most certainly.” 	” “Most certainly. K
+doyle_baskervilles_6_u	25	0.96	6331	1104	d Sir Henry Baskerville, 	d Sir Henry Baskerville u
+doyle_baskervilles_6_u	25	1.0	6331	6643	d Sir Henry Baskerville, 	d Sir Henry Baskerville, 
+doyle_baskervilles_6_u	20	1.0	7010	1863	here are one or two 	here are one or two 
+doyle_baskervilles_6_u	22	0.9545454545454546	8214	2274	,” said Dr. Mortimer. 	,” said Dr. Mortimer i
+doyle_baskervilles_6_u	23	1.0	8214	4313	,” said Dr. Mortimer. “	,” said Dr. Mortimer. “
+doyle_baskervilles_6_u	22	0.9545454545454546	8214	5024	,” said Dr. Mortimer. 	,” said Dr. Mortimer, 
+doyle_baskervilles_6_u	22	1.0	8215	12882	” said Dr. Mortimer. “	” said Dr. Mortimer. “
+doyle_baskervilles_6_u	23	1.0	10466	8089	” cried Dr. Mortimer, “	” cried Dr. Mortimer, “
+doyle_baskervilles_6_u	20	0.95	10887	17671	 in the morning. I c	 in the morning.” I 
+doyle_baskervilles_6_u	20	0.95	11153	4705	 and had never been 	 and had never seen 
+doyle_baskervilles_6_u	20	0.95	11219	8735	 I understand that o	 I understand that t
+doyle_baskervilles_6_u	23	1.0	12353	18	 Sir Henry Baskerville 	 Sir Henry Baskerville 
+doyle_baskervilles_6_u	23	1.0	12353	1105	 Sir Henry Baskerville 	 Sir Henry Baskerville 
+doyle_baskervilles_6_u	24	0.9583333333333334	12353	6644	 Sir Henry Baskerville l	 Sir Henry Baskerville, 
+doyle_baskervilles_6_u	31	0.967741935483871	13118	5015	 the moor,” said Dr. Mortimer. 	 the moor,” said Dr. Mortimer, 
+doyle_baskervilles_6_u	22	1.0	13128	12882	” said Dr. Mortimer. “	” said Dr. Mortimer. “
+doyle_baskervilles_6_u	23	0.9565217391304348	13608	12589	 to Baskerville Hall.” 	 to Baskerville Hall!” 
+doyle_baskervilles_6_u	21	1.0	13611	15648	 Baskerville Hall.” “	 Baskerville Hall.” “
+doyle_baskervilles_6_u	23	0.9565217391304348	14130	8058	r of the Baskervilles w	r of the Baskervilles. 
+doyle_baskervilles_6_u	22	0.9545454545454546	14131	10970	 of the Baskervilles w	 of the Baskervilles. 
+doyle_baskervilles_6_u	20	1.0	14689	15141	 convenient to you, 	 convenient to you, 
+doyle_baskervilles_6_u	22	0.9545454545454546	17456	3254	 Dr. Mortimer was read	 Dr. Mortimer has read
+doyle_baskervilles_6_u	20	0.95	19209	40	 and Dr. Mortimer, w	 and Dr. Mortimer we
+doyle_baskervilles_6_u	20	0.95	20190	8798	ation.” “Yes, sir, h	ation.” “Yes, sir, b
+doyle_baskervilles_2_u	20	0.95	5	15201	 Henry Baskerville O	 Henry Baskerville, 
+doyle_baskervilles_2_u	21	0.9523809523809523	680	15201	 Henry Baskerville,” 	 Henry Baskerville, i
+doyle_baskervilles_2_u	22	0.9545454545454546	698	16161	,” said Dr. Mortimer. 	,” said Dr. Mortimer, 
+doyle_baskervilles_2_u	22	0.9545454545454546	767	9674	 Mr. Sherlock Holmes, 	 Mr. Sherlock Holmes. 
+doyle_baskervilles_2_u	20	0.95	899	1573	 I understand that y	 I understand that i
+doyle_baskervilles_2_u	20	1.0	1451	15201	 Henry Baskerville, 	 Henry Baskerville, 
+doyle_baskervilles_2_u	20	1.0	2402	15201	 Henry Baskerville, 	 Henry Baskerville, 
+doyle_baskervilles_2_u	26	0.9615384615384616	3004	15611	,” said Sherlock Holmes. “	,” said Sherlock Holmes, “
+doyle_baskervilles_2_u	20	1.0	3073	1841	ith your permission 	ith your permission 
+doyle_baskervilles_2_u	25	0.96	3967	21045	?” Dr. Mortimer looked at	?” Dr. Mortimer looked st
+doyle_baskervilles_2_u	20	0.95	4045	15201	 Henry Baskerville t	 Henry Baskerville, 
+doyle_baskervilles_2_u	22	1.0	5036	16161	,” said Dr. Mortimer, 	,” said Dr. Mortimer, 
+doyle_baskervilles_2_u	20	1.0	6336	15201	 Henry Baskerville, 	 Henry Baskerville, 
+doyle_baskervilles_2_u	22	0.9545454545454546	8214	16161	,” said Dr. Mortimer. 	,” said Dr. Mortimer, 
+doyle_baskervilles_2_u	20	0.95	11219	1573	 I understand that o	 I understand that i
+doyle_baskervilles_2_u	26	0.9615384615384616	11701	15611	,” said Sherlock Holmes. “	,” said Sherlock Holmes, “
+doyle_baskervilles_2_u	21	0.9523809523809523	12357	15201	 Henry Baskerville li	 Henry Baskerville, i
+doyle_baskervilles_2_u	22	0.9545454545454546	13127	16161	,” said Dr. Mortimer. 	,” said Dr. Mortimer, 
+doyle_baskervilles_2_u	21	1.0	13459	15908	 several interesting 	 several interesting 
+doyle_baskervilles_2_u	20	0.95	13611	12868	 Baskerville Hall.” 	 Baskerville Hall. T
+doyle_baskervilles_2_u	20	0.95	13611	15138	 Baskerville Hall.” 	 Baskerville Hall. I
+doyle_baskervilles_2_u	21	1.0	14131	11	 of the Baskervilles 	 of the Baskervilles 
+doyle_baskervilles_2_u	21	1.0	14131	2154	 of the Baskervilles 	 of the Baskervilles 
+doyle_baskervilles_2_u	20	0.95	17113	16494	 that Baskerville ha	 that Baskerville Ha
+doyle_adventures_5_d	27	0.9629629629629629	1179	13934	othing of much importance, 	othing of much importance i
+doyle_adventures_5_d	20	1.0	2732	18984	 convinced that the 	 convinced that the 
+doyle_adventures_5_d	23	0.9565217391304348	3006	29417	 said Sherlock Holmes. 	 said Sherlock Holmes, 
+doyle_adventures_5_d	20	1.0	3126	9914	, which must have be	, which must have be
+doyle_adventures_5_d	29	1.0	5252	13142	 one of the most remarkable t	 one of the most remarkable t
+doyle_adventures_5_d	20	0.95	5286	13172	 which I have ever k	 which I have ever l
+doyle_adventures_5_d	22	1.0	6200	27453	the strong probability	the strong probability
+doyle_adventures_5_d	21	0.9523809523809523	10289	6997	e in the States and i	e in the States, and 
+doyle_adventures_5_d	23	0.9565217391304348	11703	29417	 said Sherlock Holmes. 	 said Sherlock Holmes, 
+doyle_adventures_5_d	22	1.0	14268	21218	hat you have told me. 	hat you have told me. 
+doyle_baskervilles_13_u	24	0.9583333333333334	1	14672	 Sir Henry Baskerville O	 Sir Henry Baskerville, 
+doyle_baskervilles_13_u	25	0.96	676	14672	 Sir Henry Baskerville,” 	 Sir Henry Baskerville, i
+doyle_baskervilles_13_u	20	1.0	686	15926	 Baskerville,” said 	 Baskerville,” said 
+doyle_baskervilles_13_u	20	0.95	861	4323	 I should have come 	 I should have some 
+doyle_baskervilles_13_u	23	1.0	1448	14673	Sir Henry Baskerville, 	Sir Henry Baskerville, 
+doyle_baskervilles_13_u	24	1.0	1614	12071	 that you were going to 	 that you were going to 
+doyle_baskervilles_13_u	25	0.96	2284	13629	s you value your life or 	s you value your life do 
+doyle_baskervilles_13_u	24	1.0	2398	14672	 Sir Henry Baskerville, 	 Sir Henry Baskerville, 
+doyle_baskervilles_13_u	26	1.0	3004	18520	,” said Sherlock Holmes. “	,” said Sherlock Holmes. “
+doyle_baskervilles_13_u	26	1.0	3004	19871	,” said Sherlock Holmes. “	,” said Sherlock Holmes. “
+doyle_baskervilles_13_u	24	0.9583333333333334	4041	14672	 Sir Henry Baskerville t	 Sir Henry Baskerville, 
+doyle_baskervilles_13_u	20	1.0	4116	7176	 know much about the	 know much about the
+doyle_baskervilles_13_u	20	0.95	4501	16348	 no connection.” “An	 no connection.” “In
+doyle_baskervilles_13_u	24	1.0	6332	14672	 Sir Henry Baskerville, 	 Sir Henry Baskerville, 
+doyle_baskervilles_13_u	20	0.95	6417	21345	rs,” said Holmes. “Y	rs,” said Holmes. “W
+doyle_baskervilles_13_u	21	1.0	10128	5285	 anything out of the 	 anything out of the 
+doyle_baskervilles_13_u	26	1.0	11701	18520	,” said Sherlock Holmes. “	,” said Sherlock Holmes. “
+doyle_baskervilles_13_u	26	1.0	11701	19871	,” said Sherlock Holmes. “	,” said Sherlock Holmes. “
+doyle_baskervilles_13_u	21	0.9523809523809523	11852	4294	,” said the baronet w	,” said the baronet. 
+doyle_baskervilles_13_u	21	0.9523809523809523	11852	11490	,” said the baronet w	,” said the baronet. 
+doyle_baskervilles_13_u	21	0.9523809523809523	11852	12982	,” said the baronet w	,” said the baronet. 
+doyle_baskervilles_13_u	25	0.96	12261	17272	 papers from his pocket a	 papers from his pocket. 
+doyle_baskervilles_13_u	25	0.96	12353	14672	 Sir Henry Baskerville li	 Sir Henry Baskerville, i
+doyle_baskervilles_13_u	22	0.9545454545454546	14131	8145	 of the Baskervilles w	 of the Baskervilles. 
+doyle_baskervilles_13_u	22	0.9545454545454546	15123	871	 man of action. “Your 	 man of action. Your i
+doyle_baskervilles_13_u	20	0.95	18328	831	” “My dear Watson, c	” “My dear Watson, y
+doyle_baskervilles_13_u	25	1.0	20023	12192	e.” “My dear fellow, you 	e.” “My dear fellow, you 
+doyle_baskervilles_13_u	21	1.0	20270	13849	 I should be glad to 	 I should be glad to 
+doyle_baskervilles_13_u	20	0.95	20862	12889	 tell him that you w	 tell him that you r
+doyle_baskervilles_13_u	20	1.0	21857	17669	 the identity of the	 the identity of the
+doyle_signoffour_9_d	22	0.9545454545454546	767	3334	 Mr. Sherlock Holmes, 	 Mr. Sherlock Holmes h
+doyle_signoffour_9_d	22	0.9545454545454546	767	12073	 Mr. Sherlock Holmes, 	 Mr. Sherlock Holmes i
+doyle_signoffour_9_d	22	0.9545454545454546	767	14278	 Mr. Sherlock Holmes, 	 Mr. Sherlock Holmes h
+doyle_signoffour_9_d	20	0.95	899	12556	 I understand that y	 I understand that h
+doyle_signoffour_9_d	22	1.0	3170	8112	ed yesterday evening. 	ed yesterday evening. 
+doyle_signoffour_9_d	22	0.9545454545454546	10890	6515	 the morning. I could 	 the morning I could h
+doyle_signoffour_9_d	20	0.95	11219	12556	 I understand that o	 I understand that h
+doyle_signoffour_9_d	20	0.95	13883	17077	s, and there is no m	s, and there is no e
+doyle_signoffour_9_d	22	0.9545454545454546	19283	18466	There is no object in 	There is no objection 
+doyle_adventures_7_d	23	0.9565217391304348	3006	1406	 said Sherlock Holmes. 	 said Sherlock Holmes, 
+doyle_adventures_7_d	23	0.9565217391304348	3071	21322	 with your permission t	 with your permission, 
+doyle_adventures_7_d	20	0.95	7491	9415	, you will observe t	, you will observe, 
+doyle_adventures_7_d	20	0.95	9608	4914	 as much as we can f	 as much as we can d
+doyle_adventures_7_d	23	0.9565217391304348	11703	1406	 said Sherlock Holmes. 	 said Sherlock Holmes, 
+doyle_adventures_7_d	21	0.9523809523809523	11708	30710	 Sherlock Holmes. “I 	 Sherlock Holmes. It 
+doyle_adventures_7_d	21	1.0	12268	28094	 from his pocket and 	 from his pocket and 
+doyle_adventures_7_d	23	1.0	13376	22198	 much indebted to you, 	 much indebted to you, 
+doyle_adventures_7_d	20	0.95	14367	25524	. I should like to h	. I should like to k
+doyle_adventures_7_d	21	1.0	14614	31947	 be able to tell you 	 be able to tell you 
+doyle_adventures_7_d	21	1.0	15436	872	 in the direction of 	 in the direction of 
+doyle_adventures_7_d	21	0.9523809523809523	15830	23076	 into Oxford Street a	 into Oxford Street. 
+doyle_adventures_7_d	20	0.95	16039	875	 the direction of hi	 the direction of th
+doyle_adventures_7_d	20	0.95	19325	24837	 said Holmes. “The s	 said Holmes. The sa
+doyle_baskervilles_11_u	20	0.95	561	2405	here was something i	here was something s
+doyle_baskervilles_11_u	28	0.9642857142857143	3811	12684	What do you think of that, W	What do you think of that? W
+doyle_baskervilles_11_u	20	0.95	6210	9562	 probability was tha	 probability was, th
+doyle_baskervilles_11_u	22	0.9545454545454546	7270	9578	, therefore, that the 	, therefore, that she 
+doyle_baskervilles_11_u	20	0.95	7853	9279	s unlikely that the 	s unlikely that she 
+doyle_baskervilles_11_u	20	0.95	9536	21450	sheet of paper, with	sheet of paper with 
+doyle_baskervilles_11_u	20	1.0	13608	9338	 to Baskerville Hall	 to Baskerville Hall
+doyle_baskervilles_11_u	22	0.9545454545454546	16003	17340	 cry of satisfaction, 	 cry of satisfaction. 
+doyle_baskervilles_11_u	21	0.9523809523809523	17235	15949	ly that it was the No	ly that it was the so
+doyle_baskervilles_11_u	20	0.95	18248	15232	 in the power of the	 in the power of thi
+doyle_adventures_11_d	20	0.95	83	310	 his dressing-gown f	 his dressing-gown, 
+doyle_adventures_11_d	24	1.0	898	33217	. I understand that you 	. I understand that you 
+doyle_adventures_11_d	21	1.0	2117	30176	. This he opened and 	. This he opened and 
+doyle_adventures_11_d	23	0.9565217391304348	3006	39019	 said Sherlock Holmes. 	 said Sherlock Holmes r
+doyle_adventures_11_d	21	0.9523809523809523	3073	32332	ith your permission t	ith your permission, 
+doyle_adventures_11_d	21	0.9523809523809523	3872	1718	, rubbing his hands t	, rubbing his hands. 
+doyle_adventures_11_d	20	1.0	5880	40368	 is one of the most 	 is one of the most 
+doyle_adventures_11_d	21	0.9523809523809523	7282	45572	 that the letter was 	 that the latter was 
+doyle_adventures_11_d	21	0.9523809523809523	7972	47625	tion why he should be	tion why he should re
+doyle_adventures_11_d	20	0.95	10884	26403	one in the morning. 	one in the morning, 
+doyle_adventures_11_d	21	0.9523809523809523	11219	33218	 I understand that on	 I understand that yo
+doyle_adventures_11_d	23	0.9565217391304348	11703	39019	 said Sherlock Holmes. 	 said Sherlock Holmes r
+doyle_adventures_11_d	20	0.95	11899	10966	 me that I have spok	 me that I have spoi
+doyle_adventures_11_d	21	0.9523809523809523	12171	2722	 to tell your story a	 to tell your story, 
+doyle_adventures_11_d	21	0.9523809523809523	12333	36777	 the morning before. 	 the morning before, 
+doyle_adventures_11_d	23	1.0	14031	21290	 brows knitted and his 	 brows knitted and his 
+doyle_adventures_11_d	20	0.95	15224	310	 his dressing-gown a	 his dressing-gown, 
+doyle_adventures_11_d	22	0.9545454545454546	15315	42290	 down the stairs and i	 down the stairs, and 
+doyle_adventures_11_d	20	0.95	16039	841	 the direction of hi	 the direction of th
+doyle_adventures_11_d	23	1.0	16134	34959	 the other side of the 	 the other side of the 
+doyle_adventures_11_d	26	0.9615384615384616	16397	15590	 the side window of the ca	 the side window of the ha
+doyle_adventures_11_d	20	0.95	16675	580	 the traffic, but th	 the traffic, but at
+doyle_adventures_11_d	22	0.9545454545454546	19031	32199	 with extraordinary qu	 with extraordinary lu
+doyle_adventures_11_d	20	0.95	21474	409	 of the day before h	 of the day before s
+doyle_scarlet_9_d	22	0.9545454545454546	19227	10753	 with his companion, h	 with his companions, 

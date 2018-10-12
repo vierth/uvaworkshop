@@ -1,0 +1,181 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_12_d	24	0.9583333333333334	2295	405	s which you have been so	s which you have been go
+doyle_adventures_12_d	25	1.0	2295	2949	s which you have been so 	s which you have been so 
+doyle_adventures_12_d	23	0.9565217391304348	2586	3538	, my dear fellow, that 	, my dear fellow, what 
+doyle_adventures_12_d	21	1.0	2881	12936	 to think that I had 	 to think that I had 
+doyle_adventures_12_d	21	1.0	4963	51605	y at the moment when 	y at the moment when 
+doyle_adventures_12_d	21	1.0	5371	24590	 could not have been 	 could not have been 
+doyle_adventures_12_d	21	1.0	5371	27622	 could not have been 	 could not have been 
+doyle_adventures_12_d	20	1.0	6118	9865	 leaned back in his 	 leaned back in his 
+doyle_adventures_12_d	23	1.0	7233	43173	, if I remember right, 	, if I remember right, 
+doyle_adventures_12_d	22	0.9545454545454546	7302	20469	 my experience that it	 my experience, that t
+doyle_adventures_12_d	21	1.0	8632	52901	 of Sherlock Holmes, 	 of Sherlock Holmes, 
+doyle_adventures_12_d	20	0.95	10292	2479	. Sherlock Holmes wh	. Sherlock Holmes ha
+doyle_baskervilles_3_u	24	1.0	702	13775	hat do you make of it?” 	hat do you make of it?” 
+doyle_baskervilles_3_u	21	0.9523809523809523	702	13954	hat do you make of it	hat do you make of th
+doyle_baskervilles_3_u	20	0.95	1010	13775	hat do you make of o	hat do you make of i
+doyle_baskervilles_3_u	20	0.95	1010	13954	hat do you make of o	hat do you make of t
+doyle_baskervilles_3_u	20	1.0	2283	5292	 the accounts which 	 the accounts which 
+doyle_baskervilles_3_u	20	0.95	2586	8923	, my dear fellow, th	, my dear fellow, it
+doyle_baskervilles_3_u	25	0.96	7233	12373	, if I remember right, am	, if I remember right, wa
+doyle_baskervilles_3_u	20	0.95	10879	2468	.” Sherlock Holmes w	.” Sherlock Holmes s
+doyle_baskervilles_12_u	20	1.0	1	20967	 Mr. Sherlock Holmes	 Mr. Sherlock Holmes
+doyle_baskervilles_12_u	20	1.0	21	20967	 Mr. Sherlock Holmes	 Mr. Sherlock Holmes
+doyle_baskervilles_12_u	20	0.95	2585	4810	s, my dear fellow, t	s, my dear fellow, a
+doyle_baskervilles_12_u	20	0.95	8134	3313	 “My dear fellow, ho	 “My dear fellow, yo
+doyle_baskervilles_12_u	26	0.9615384615384616	9318	13079	 with an exclamation of jo	 with an exclamation of ho
+doyle_baskervilles_12_u	20	1.0	10289	20967	 Mr. Sherlock Holmes	 Mr. Sherlock Holmes
+doyle_adventures_4_d	22	0.9545454545454546	1	715	 Mr. Sherlock Holmes M	 Mr. Sherlock Holmes' 
+doyle_adventures_4_d	20	1.0	1	19560	 Mr. Sherlock Holmes	 Mr. Sherlock Holmes
+doyle_adventures_4_d	20	0.95	23	717	r. Sherlock Holmes, 	r. Sherlock Holmes' 
+doyle_adventures_4_d	20	0.95	24	1157	. Sherlock Holmes, w	. Sherlock Holmes wa
+doyle_adventures_4_d	20	0.95	24	31525	. Sherlock Holmes, w	. Sherlock Holmes wa
+doyle_adventures_4_d	20	0.95	741	25518	ing with his back to	ing with his back tu
+doyle_adventures_4_d	22	0.9545454545454546	1218	40534	y an examination of it	y an examination of th
+doyle_adventures_4_d	20	0.95	1729	7047	 hardly imagine a to	 hardly imagine a mo
+doyle_adventures_4_d	21	0.9523809523809523	2881	48841	 to think that I had 	 to think that I and 
+doyle_adventures_4_d	21	0.9523809523809523	4574	40705	You know my methods. 	You know my method. I
+doyle_adventures_4_d	22	1.0	5370	28418	e could not have been 	e could not have been 
+doyle_adventures_4_d	21	1.0	5371	39024	 could not have been 	 could not have been 
+doyle_adventures_4_d	24	0.9583333333333334	6293	37522	 difficult to find out a	 difficult to find out. 
+doyle_adventures_4_d	20	0.95	8405	22242	 assistance to me. N	 assistance to me." 
+doyle_adventures_4_d	22	0.9545454545454546	10289	715	 Mr. Sherlock Holmes w	 Mr. Sherlock Holmes' 
+doyle_adventures_4_d	20	1.0	10289	19560	 Mr. Sherlock Holmes	 Mr. Sherlock Holmes
+doyle_adventures_4_d	20	0.95	10292	31525	. Sherlock Holmes wh	. Sherlock Holmes wa
+doyle_adventures_4_d	21	1.0	10433	257	d in connection with 	d in connection with 
+doyle_adventures_4_d	22	1.0	10434	7803	 in connection with th	 in connection with th
+doyle_adventures_4_d	20	0.95	10881	1158	 Sherlock Holmes wav	 Sherlock Holmes was
+doyle_adventures_4_d	20	0.95	10881	31526	 Sherlock Holmes wav	 Sherlock Holmes was
+doyle_adventures_4_d	21	0.9523809523809523	11313	38050	. Holmes was silent, 	. Holmes was silent a
+doyle_adventures_4_d	20	1.0	11374	32766	 the interest which 	 the interest which 
+doyle_adventures_4_d	22	0.9545454545454546	11643	2648	 the opportunity of do	 the opportunity of lo
+doyle_adventures_4_d	20	0.95	11823	23943	 and extraordinary p	 and extraordinary c
+doyle_baskervilles_4_u	22	0.9545454545454546	1	767	 Mr. Sherlock Holmes M	 Mr. Sherlock Holmes, 
+doyle_baskervilles_4_u	22	0.9545454545454546	23	769	r. Sherlock Holmes, wh	r. Sherlock Holmes, th
+doyle_baskervilles_4_u	21	1.0	702	2561	hat do you make of it	hat do you make of it
+doyle_baskervilles_4_u	20	0.95	1010	2561	hat do you make of o	hat do you make of i
+doyle_baskervilles_4_u	25	0.96	3332	7018	 one or two indications u	 one or two indications, 
+doyle_baskervilles_4_u	23	1.0	3489	2612	 that there is nothing 	 that there is nothing 
+doyle_baskervilles_4_u	20	1.0	3565	4526	, my dear Watson, th	, my dear Watson, th
+doyle_baskervilles_4_u	20	1.0	4370	8411	 which to start our 	 which to start our 
+doyle_baskervilles_4_u	20	1.0	4978	211	 when Dr. Mortimer w	 when Dr. Mortimer w
+doyle_baskervilles_4_u	28	0.9642857142857143	5345	7491	, you will observe that he c	, you will observe that the 
+doyle_baskervilles_4_u	20	0.95	8134	20026	 “My dear fellow, ho	 “My dear fellow, yo
+doyle_baskervilles_4_u	20	1.0	8635	771	 Sherlock Holmes, th	 Sherlock Holmes, th
+doyle_baskervilles_4_u	22	0.9545454545454546	10289	767	 Mr. Sherlock Holmes w	 Mr. Sherlock Holmes, 
+doyle_baskervilles_4_u	29	1.0	11634	18872	 have had the opportunity of 	 have had the opportunity of 
+doyle_baskervilles_15_u	20	1.0	2759	12136	his indifference to 	his indifference to 
+doyle_baskervilles_15_u	20	0.95	8405	16305	 assistance to me. N	 assistance to me. I
+doyle_baskervilles_15_u	20	0.95	9951	16171	t was necessary to m	t was necessary to b
+doyle_baskervilles_15_u	23	1.0	10433	353	d in connection with th	d in connection with th
+doyle_baskervilles_15_u	22	1.0	10434	535	 in connection with th	 in connection with th
+doyle_baskervilles_15_u	20	0.95	10437	14062	 connection with tha	 connection with the
+doyle_adventures_3_d	20	0.95	24	5773	. Sherlock Holmes, w	. Sherlock Holmes we
+doyle_adventures_3_d	20	0.95	25	7061	 Sherlock Holmes, wh	 Sherlock Holmes, wi
+doyle_adventures_3_d	29	1.0	3030	18895	t for a few minutes with his 	t for a few minutes with his 
+doyle_adventures_3_d	21	0.9523809523809523	3494	1330	 there is nothing of 	 there is nothing so 
+doyle_adventures_3_d	20	0.95	5363	15523	 that he could not h	 that he could not i
+doyle_adventures_3_d	20	0.95	6102	20644	 Sherlock Holmes lea	 Sherlock Holmes cla
+doyle_adventures_3_d	24	0.9583333333333334	9193	20556	 and a general air of pe	 and a general air of be
+doyle_adventures_3_d	20	0.95	10292	5773	. Sherlock Holmes wh	. Sherlock Holmes we
+doyle_adventures_3_d	28	0.9642857142857143	10348	9704	his is my friend Dr. Watson.	his is my friend, Dr. Watson
+doyle_adventures_3_d	22	0.9545454545454546	10434	2336	 in connection with th	 in connection with it
+doyle_adventures_3_d	20	0.95	11823	24923	 and extraordinary p	 and extraordinary e
+doyle_adventures_3_d	22	0.9545454545454546	12350	27514	 said Holmes. “I think	 said Holmes. "I think
+doyle_adventures_1_d	22	0.9545454545454546	1	43684	 Mr. Sherlock Holmes M	 Mr. Sherlock Holmes. 
+doyle_adventures_1_d	22	0.9545454545454546	1	44345	 Mr. Sherlock Holmes M	 Mr. Sherlock Holmes, 
+doyle_adventures_1_d	21	1.0	1	45874	 Mr. Sherlock Holmes 	 Mr. Sherlock Holmes 
+doyle_adventures_1_d	20	1.0	23	41603	r. Sherlock Holmes, 	r. Sherlock Holmes, 
+doyle_adventures_1_d	20	0.95	23	43686	r. Sherlock Holmes, 	r. Sherlock Holmes. 
+doyle_adventures_1_d	20	1.0	23	44347	r. Sherlock Holmes, 	r. Sherlock Holmes, 
+doyle_adventures_1_d	21	0.9523809523809523	23	45876	r. Sherlock Holmes, w	r. Sherlock Holmes we
+doyle_adventures_1_d	24	0.9583333333333334	699	8801	, what do you make of it	, what do you make of th
+doyle_adventures_1_d	22	1.0	1007	8801	, what do you make of 	, what do you make of 
+doyle_adventures_1_d	23	0.9565217391304348	2230	5971	 lighting a cigarette. 	 lighting a cigarette, 
+doyle_adventures_1_d	20	1.0	4388	9034	r construction of th	r construction of th
+doyle_adventures_1_d	20	1.0	6465	40041	 There were several 	 There were several 
+doyle_adventures_1_d	20	1.0	7059	17714	 said Holmes with a 	 said Holmes with a 
+doyle_adventures_1_d	22	0.9545454545454546	8656	30960	 specialist in crime? 	 specialist in crime. 
+doyle_adventures_1_d	20	0.95	9543	41864	rom Charing Cross Ho	rom Charing Cross fo
+doyle_adventures_1_d	22	0.9545454545454546	10289	43684	 Mr. Sherlock Holmes w	 Mr. Sherlock Holmes. 
+doyle_adventures_1_d	22	0.9545454545454546	10289	44345	 Mr. Sherlock Holmes w	 Mr. Sherlock Holmes, 
+doyle_adventures_1_d	22	1.0	10289	45874	 Mr. Sherlock Holmes w	 Mr. Sherlock Holmes w
+doyle_adventures_1_d	24	0.9583333333333334	10901	12663	ed our strange visitor i	ed our strange visitor. 
+doyle_adventures_1_d	23	0.9565217391304348	10902	14189	d our strange visitor i	d our strange visitor, 
+doyle_adventures_1_d	20	1.0	11486	14513	 for the purpose of 	 for the purpose of 
+doyle_adventures_1_d	23	0.9565217391304348	11822	1828	s and extraordinary pro	s and extraordinary pow
+doyle_baskervilles_6_u	24	0.9583333333333334	0	134	. Mr. Sherlock Holmes Mr	. Mr. Sherlock Holmes dr
+doyle_baskervilles_6_u	22	1.0	5370	18692	e could not have been 	e could not have been 
+doyle_baskervilles_6_u	23	0.9565217391304348	7233	1503	, if I remember right, 	, if I remember right. 
+doyle_baskervilles_6_u	20	0.95	9323	7579	 an exclamation of j	 an exclamation of d
+doyle_baskervilles_6_u	33	0.9696969696969697	9660	2852	” said Holmes, shaking his head. 	” said Holmes, shaking his head a
+doyle_baskervilles_6_u	21	1.0	10289	135	 Mr. Sherlock Holmes 	 Mr. Sherlock Holmes 
+doyle_baskervilles_2_u	22	0.9545454545454546	1	9674	 Mr. Sherlock Holmes M	 Mr. Sherlock Holmes. 
+doyle_baskervilles_2_u	20	0.95	23	9676	r. Sherlock Holmes, 	r. Sherlock Holmes. 
+doyle_baskervilles_2_u	23	1.0	3075	18589	 with an expression of 	 with an expression of 
+doyle_baskervilles_2_u	27	1.0	6111	1884	 Holmes leaned back in his 	 Holmes leaned back in his 
+doyle_baskervilles_2_u	20	0.95	6293	15107	 difficult to find o	 difficult to find a
+doyle_baskervilles_2_u	21	0.9523809523809523	8588	72	 Dr. James Mortimer, 	 Dr. James Mortimer. 
+doyle_baskervilles_2_u	25	1.0	8588	12611	 Dr. James Mortimer, the 	 Dr. James Mortimer, the 
+doyle_baskervilles_2_u	20	0.95	10066	72	 Dr. James Mortimer-	 Dr. James Mortimer.
+doyle_baskervilles_2_u	20	0.95	10066	12611	 Dr. James Mortimer-	 Dr. James Mortimer,
+doyle_baskervilles_2_u	22	0.9545454545454546	10289	9674	 Mr. Sherlock Holmes w	 Mr. Sherlock Holmes. 
+doyle_baskervilles_2_u	24	1.0	10432	15055	ed in connection with th	ed in connection with th
+doyle_baskervilles_2_u	22	1.0	10434	15535	 in connection with th	 in connection with th
+doyle_baskervilles_2_u	23	0.9565217391304348	11689	17825	 to you, Mr. Holmes, be	 to you, Mr. Holmes, he
+doyle_baskervilles_2_u	20	0.95	12348	131	,” said Holmes. “I t	,” said Holmes. “It 
+doyle_adventures_5_d	20	0.95	24	32462	. Sherlock Holmes, w	. Sherlock Holmes wa
+doyle_adventures_5_d	25	0.96	163	14661	 at the breakfast table. 	 at the breakfast-table. 
+doyle_adventures_5_d	21	0.9523809523809523	1304	3116	 my companion, “that 	 my companion, "that 
+doyle_adventures_5_d	21	1.0	1505	27430	 that the probability	 that the probability
+doyle_adventures_5_d	20	0.95	4053	3429	 is more likely to c	 is more likely to b
+doyle_adventures_5_d	25	1.0	4319	26887	 as a working hypothesis 	 as a working hypothesis 
+doyle_adventures_5_d	20	1.0	6184	23482	 up to the ceiling. 	 up to the ceiling. 
+doyle_adventures_5_d	23	1.0	7233	31707	, if I remember right, 	, if I remember right, 
+doyle_adventures_5_d	20	0.95	10292	32462	. Sherlock Holmes wh	. Sherlock Holmes wa
+doyle_adventures_5_d	20	0.95	10292	35562	. Sherlock Holmes wh	. Sherlock Holmes ha
+doyle_adventures_5_d	22	0.9545454545454546	10434	979	 in connection with th	 in connection with it
+doyle_adventures_5_d	20	0.95	10881	1631	 Sherlock Holmes wav	 Sherlock Holmes was
+doyle_adventures_5_d	20	0.95	10881	3481	 Sherlock Holmes wav	 Sherlock Holmes was
+doyle_adventures_5_d	20	0.95	10881	32463	 Sherlock Holmes wav	 Sherlock Holmes was
+doyle_baskervilles_13_u	20	0.95	68	4279	 in the mornings, sa	 in the morning,” sa
+doyle_baskervilles_13_u	20	0.95	8134	12195	 “My dear fellow, ho	 “My dear fellow, yo
+doyle_baskervilles_13_u	26	1.0	10433	16059	d in connection with that 	d in connection with that 
+doyle_baskervilles_13_u	20	0.95	10879	17055	.” Sherlock Holmes w	.” Sherlock Holmes s
+doyle_signoffour_9_d	21	1.0	1	3334	 Mr. Sherlock Holmes 	 Mr. Sherlock Holmes 
+doyle_signoffour_9_d	21	1.0	1	12073	 Mr. Sherlock Holmes 	 Mr. Sherlock Holmes 
+doyle_signoffour_9_d	21	1.0	1	14278	 Mr. Sherlock Holmes 	 Mr. Sherlock Holmes 
+doyle_signoffour_9_d	21	0.9523809523809523	22	3335	Mr. Sherlock Holmes, 	Mr. Sherlock Holmes h
+doyle_signoffour_9_d	21	0.9523809523809523	22	11062	Mr. Sherlock Holmes, 	Mr. Sherlock Holmes i
+doyle_signoffour_9_d	21	0.9523809523809523	22	12074	Mr. Sherlock Holmes, 	Mr. Sherlock Holmes i
+doyle_signoffour_9_d	21	0.9523809523809523	22	14279	Mr. Sherlock Holmes, 	Mr. Sherlock Holmes h
+doyle_signoffour_9_d	21	0.9523809523809523	5363	12282	 that he could not ha	 that he could not th
+doyle_signoffour_9_d	22	1.0	9671	18061	es, shaking his head. 	es, shaking his head. 
+doyle_signoffour_9_d	24	0.9583333333333334	10288	14277	s Mr. Sherlock Holmes wh	s Mr. Sherlock Holmes he
+doyle_signoffour_9_d	20	0.95	11989	1091	 asked Holmes with s	 asked Holmes, with 
+doyle_adventures_7_d	20	0.95	1718	21201	 that I can hardly i	 that I can hardly s
+doyle_adventures_7_d	22	1.0	4573	5059	 You know my methods. 	 You know my methods. 
+doyle_adventures_7_d	20	0.95	5345	9415	, you will observe t	, you will observe, 
+doyle_adventures_7_d	20	0.95	6102	1411	 Sherlock Holmes lea	 Sherlock Holmes, la
+doyle_adventures_7_d	20	0.95	6102	8315	 Sherlock Holmes lea	 Sherlock Holmes lau
+doyle_adventures_7_d	21	0.9523809523809523	6102	21433	 Sherlock Holmes lean	 Sherlock Holmes glan
+doyle_adventures_7_d	20	0.95	7151	40453	 I think that I am f	 I think that I am m
+doyle_adventures_7_d	25	0.96	7233	12612	, if I remember right, am	, if I remember aright, a
+doyle_adventures_7_d	21	1.0	8399	30609	 be of assistance to 	 be of assistance to 
+doyle_adventures_7_d	21	0.9523809523809523	8632	40780	 of Sherlock Holmes, 	 of Sherlock Holmes' 
+doyle_adventures_7_d	20	0.95	9382	32121	s not sure whether I	s not sure whether h
+doyle_adventures_7_d	24	0.9583333333333334	9805	15000	 our little deductions. 	 our little deductions h
+doyle_adventures_7_d	22	0.9545454545454546	10434	927	 in connection with th	 in connection with it
+doyle_adventures_7_d	20	0.95	11244	31205	 quivering fingers a	 quivering fingers. 
+doyle_adventures_7_d	26	1.0	11486	650	 for the purpose of examin	 for the purpose of examin
+doyle_baskervilles_11_u	21	0.9523809523809523	1584	3490	 a great deal of his 	 a great deal to his 
+doyle_baskervilles_11_u	21	1.0	4006	13531	t, for example, that 	t, for example, that 
+doyle_baskervilles_11_u	20	0.95	4280	10256	 in that direction. 	 in that direction, 
+doyle_baskervilles_11_u	20	0.95	6466	4619	There were several M	There were several g
+doyle_baskervilles_11_u	31	1.0	11374	3572	 the interest which he took in 	 the interest which he took in 
+doyle_baskervilles_11_u	20	0.95	12294	16680	, sir, that I have n	, sir, that I have v
+doyle_adventures_11_d	20	0.95	277	28479	 the night before. I	 the night before. D
+doyle_adventures_11_d	20	1.0	1063	31262	 been so unfortunate	 been so unfortunate
+doyle_adventures_11_d	23	0.9565217391304348	3037	21268	 few minutes with his n	 few minutes, with his 
+doyle_adventures_11_d	22	1.0	12284	27877	e. I trust, sir, that 	e. I trust, sir, that 
+doyle_scarlet_9_d	22	1.0	10226	4207	 on the shores of the 	 on the shores of the 

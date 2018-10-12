@@ -1,0 +1,2 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+vierth_synthetic_2_m	43	0.9534883720930233	418	383	s a few different variations across all dif	s a few different variations across all of 

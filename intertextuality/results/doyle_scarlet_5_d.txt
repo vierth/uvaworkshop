@@ -1,0 +1,384 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_5_d	20	0.95	12807	2005	d Sherlock Holmes, s	d Sherlock Holmes, g
+doyle_signoffour_5_d	20	0.95	13247	13785	Take my advice and t	Take my advice, and 
+doyle_signoffour_7_d	21	1.0	934	2647	he more I thought of 	he more I thought of 
+doyle_signoffour_7_d	20	0.95	3103	2952	 advertisement,” he 	 advertisement, the 
+doyle_signoffour_7_d	23	1.0	4883	16351	 papers in the hope of 	 papers in the hope of 
+doyle_signoffour_7_d	20	1.0	6190	7384	. That will do. Now 	. That will do. Now 
+doyle_signoffour_7_d	21	0.9523809523809523	7158	6917	d the stairs. The foo	d the stairs. The roo
+doyle_signoffour_7_d	20	0.95	9879	6911	scended the stair. L	scended the stairs. 
+doyle_adventures_9_d	20	0.95	1301	17796	n the other hand, wh	n the other hand, th
+doyle_adventures_9_d	24	0.9583333333333334	4738	17736	 it was possible that he	 it was possible that th
+doyle_adventures_9_d	25	1.0	6880	41451	 in the direction of the 	 in the direction of the 
+doyle_adventures_9_d	21	1.0	6880	42594	 in the direction of 	 in the direction of 
+doyle_adventures_9_d	20	1.0	9905	32581	 through the window 	 through the window 
+doyle_adventures_9_d	25	0.96	11382	4414	e. Presently she came to 	e. Presently he came to h
+doyle_adventures_9_d	20	0.95	12808	37579	 Sherlock Holmes, sh	 Sherlock Holmes, th
+doyle_adventures_9_d	22	1.0	12875	34706	. It must have been a 	. It must have been a 
+doyle_scarlet_7_d	23	0.9565217391304348	5671	371	. “The plot thickens,” 	. “The plot thickens.” 
+doyle_scarlet_7_d	20	0.95	6796	16365	 there was a sharp r	 there was a sharp c
+doyle_scarlet_7_d	20	0.95	6831	10442	. Sherlock Holmes ro	. Sherlock Holmes dr
+doyle_scarlet_7_d	22	1.0	8017	1273	 in the Brixton Road. 	 in the Brixton Road. 
+doyle_scarlet_7_d	25	0.96	8724	17956	,” said Sherlock Holmes s	,” said Sherlock Holmes. 
+doyle_scarlet_7_d	24	1.0	9541	6269	 Sherlock Holmes sprang 	 Sherlock Holmes sprang 
+doyle_scarlet_7_d	36	1.0	9541	16417	 Sherlock Holmes sprang to his feet 	 Sherlock Holmes sprang to his feet 
+doyle_scarlet_7_d	21	0.9523809523809523	9905	17096	 through the window I	 through the window. 
+doyle_scarlet_7_d	20	0.95	11596	3084	 at the other side o	 at the other side. 
+doyle_scarlet_7_d	24	0.9583333333333334	12802	17957	” said Sherlock Holmes, 	” said Sherlock Holmes. 
+doyle_scarlet_13_d	20	0.95	3033	18686	 upon the floor. It 	 upon the floor. I t
+doyle_scarlet_13_d	21	0.9523809523809523	3489	21635	 221B, Baker Street, 	 221B, Baker Street. 
+doyle_scarlet_13_d	21	1.0	4224	19926	 than lose the ring. 	 than lose the ring. 
+doyle_scarlet_13_d	22	1.0	4296	19783	 over Drebber’s body, 	 over Drebber’s body, 
+doyle_scarlet_13_d	20	1.0	5339	1235	.” “You had better c	.” “You had better c
+doyle_scarlet_13_d	22	0.9545454545454546	8017	10479	 in the Brixton Road. 	 in the Brixton Road h
+doyle_scarlet_13_d	22	1.0	8017	15193	 in the Brixton Road. 	 in the Brixton Road. 
+doyle_scarlet_13_d	20	0.95	8731	22469	 Sherlock Holmes sha	 Sherlock Holmes sai
+doyle_scarlet_13_d	22	1.0	10075	825	 I thought to myself, 	 I thought to myself, 
+doyle_scarlet_13_d	20	0.95	10759	16905	 his face that he ha	 his face that he th
+doyle_scarlet_13_d	20	0.95	11077	21213	 would never have le	 would never have al
+doyle_scarlet_13_d	23	1.0	11599	6932	 the other side of the 	 the other side of the 
+doyle_scarlet_13_d	22	1.0	11947	15708	 we came to the door, 	 we came to the door, 
+doyle_scarlet_13_d	20	1.0	13489	20255	 knew that he was st	 knew that he was st
+doyle_scarlet_3_d	34	0.9705882352941176	767	13892	 of Enoch J. Drebber, of Cleveland	 of Enoch J. Drebber of Cleveland,
+doyle_scarlet_3_d	22	1.0	1097	7687	 had no doubt that he 	 had no doubt that he 
+doyle_scarlet_3_d	23	0.9565217391304348	3005	13115	 a woman’s wedding ring	 a woman’s wedding-ring
+doyle_scarlet_3_d	21	0.9523809523809523	3116	5327	t,” he answered. “I h	t,” he answered. “It 
+doyle_scarlet_3_d	20	0.95	7516	18988	he appeared to be da	he appeared to be sa
+doyle_scarlet_3_d	20	0.95	8020	2283	 the Brixton Road. I	 the Brixton Road. O
+doyle_scarlet_3_d	22	1.0	8020	4764	 the Brixton Road. It 	 the Brixton Road. It 
+doyle_scarlet_3_d	24	1.0	8724	21042	,” said Sherlock Holmes 	,” said Sherlock Holmes 
+doyle_scarlet_3_d	20	0.95	9477	18823	 packed it away in h	 packed it away in a
+doyle_scarlet_3_d	20	0.95	9540	11600	. Sherlock Holmes sp	. Sherlock Holmes ap
+doyle_scarlet_3_d	21	1.0	10958	3261	 the Scotland Yarders	 the Scotland Yarders
+doyle_scarlet_3_d	24	0.9583333333333334	12802	21043	” said Sherlock Holmes, 	” said Sherlock Holmes c
+doyle_signoffour_3_d	21	0.9523809523809523	3176	1309	 immediately after th	 immediately after Sh
+doyle_signoffour_3_d	23	0.9565217391304348	8726	1877	 said Sherlock Holmes s	 said Sherlock Holmes, 
+doyle_signoffour_3_d	23	1.0	12803	1877	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_signoffour_1_d	23	0.9565217391304348	8726	6499	 said Sherlock Holmes s	 said Sherlock Holmes, 
+doyle_signoffour_1_d	23	1.0	12803	6499	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_scarlet_1_d	21	0.9523809523809523	4792	6313	 after leaving the ho	 after leaving the Ho
+doyle_scarlet_1_d	20	0.95	7713	6787	d at my companion, a	d at my companion, “
+doyle_scarlet_1_d	20	0.95	8730	12325	d Sherlock Holmes sh	d Sherlock Holmes, s
+doyle_scarlet_1_d	20	1.0	9557	8723	 sprang to his feet 	 sprang to his feet 
+doyle_scarlet_1_d	20	1.0	12807	12325	d Sherlock Holmes, s	d Sherlock Holmes, s
+doyle_baskervilles_8_u	22	0.9545454545454546	315	502	 all that had occurred	 all that has occurred
+doyle_baskervilles_8_u	24	0.9583333333333334	315	7773	 all that had occurred, 	 all that had occurred. 
+doyle_baskervilles_8_u	23	1.0	1296	789	ut, on the other hand, 	ut, on the other hand, 
+doyle_baskervilles_8_u	21	0.9523809523809523	6127	1692	 will probably be her	 will probably be ver
+doyle_scarlet_11_d	21	0.9523809523809523	9557	10127	 sprang to his feet t	 sprang to his feet, 
+doyle_scarlet_11_d	21	0.9523809523809523	9557	15387	 sprang to his feet t	 sprang to his feet, 
+doyle_scarlet_11_d	20	0.95	13483	18490	n, and knew that he 	n, and knew that the
+doyle_adventures_8_d	20	0.95	119	21016	 in the afternoon. A	 in the afternoon. I
+doyle_adventures_8_d	23	1.0	1378	30435	here were no signs of a	here were no signs of a
+doyle_adventures_8_d	21	1.0	1718	17502	, though what it was 	, though what it was 
+doyle_adventures_8_d	37	0.972972972972973	4147	22017	 have every reason to believe that it	 have every reason to believe that th
+doyle_adventures_8_d	25	0.96	4576	22221	 which might have been ar	 which might have been ca
+doyle_adventures_8_d	30	0.9666666666666667	4733	42461	 that it was possible that he 	 that it was possible that we 
+doyle_adventures_8_d	20	0.95	6831	3733	. Sherlock Holmes ro	. Sherlock Holmes ra
+doyle_adventures_8_d	30	1.0	6877	15503	air in the direction of the do	air in the direction of the do
+doyle_adventures_8_d	25	1.0	6880	42066	 in the direction of the 	 in the direction of the 
+doyle_adventures_8_d	25	1.0	6880	45354	 in the direction of the 	 in the direction of the 
+doyle_adventures_8_d	20	1.0	8225	40163	 is more than I can 	 is more than I can 
+doyle_adventures_8_d	21	0.9523809523809523	8730	1335	d Sherlock Holmes sha	d Sherlock Holmes sta
+doyle_adventures_8_d	20	0.95	8731	11584	 Sherlock Holmes sha	 Sherlock Holmes had
+doyle_adventures_8_d	21	0.9523809523809523	9283	22766	n from my companion; 	n from my companion b
+doyle_adventures_8_d	20	1.0	9905	42891	 through the window 	 through the window 
+doyle_adventures_8_d	20	0.95	11596	52430	 at the other side o	 at the other side. 
+doyle_adventures_8_d	20	0.95	12807	163	d Sherlock Holmes, s	d Sherlock Holmes, I
+doyle_adventures_8_d	20	0.95	12807	1335	d Sherlock Holmes, s	d Sherlock Holmes st
+doyle_adventures_8_d	20	0.95	12807	21390	d Sherlock Holmes, s	d Sherlock Holmes, l
+doyle_signoffour_6_d	21	0.9523809523809523	3119	3381	 he answered. “I had 	 he answered. "I had 
+doyle_signoffour_6_d	24	1.0	4111	12947	y view of the case is co	y view of the case is co
+doyle_signoffour_6_d	33	1.0	4145	11815	 I have every reason to believe t	 I have every reason to believe t
+doyle_signoffour_6_d	33	0.9696969696969697	4145	14039	 I have every reason to believe t	 I have every reason to believe, 
+doyle_signoffour_6_d	25	1.0	5767	12944	. My view of the case is 	. My view of the case is 
+doyle_signoffour_6_d	23	0.9565217391304348	8726	4724	 said Sherlock Holmes s	 said Sherlock Holmes, 
+doyle_signoffour_6_d	23	0.9565217391304348	8726	14722	 said Sherlock Holmes s	 said Sherlock Holmes, 
+doyle_signoffour_6_d	23	1.0	12803	4724	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_signoffour_6_d	23	1.0	12803	14722	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_scarlet_6_d	20	1.0	203	13495	 and endeavoured to 	 and endeavoured to 
+doyle_scarlet_6_d	31	1.0	770	8726	 Enoch J. Drebber, of Cleveland	 Enoch J. Drebber, of Cleveland
+doyle_scarlet_6_d	20	0.95	908	10350	 in the eyes of the 	 in the eyes of othe
+doyle_scarlet_6_d	22	0.9545454545454546	1101	6995	 no doubt that he had 	 no doubt that he has 
+doyle_scarlet_6_d	24	0.9583333333333334	2920	129	 account of the affair. 	 account of the affair, 
+doyle_scarlet_6_d	22	0.9545454545454546	8017	1930	 in the Brixton Road. 	 in the Brixton Road, 
+doyle_scarlet_6_d	20	0.95	8020	15687	 the Brixton Road. I	 the Brixton Road. W
+doyle_scarlet_6_d	25	0.96	8724	14347	,” said Sherlock Holmes s	,” said Sherlock Holmes, 
+doyle_scarlet_6_d	20	0.95	9642	5405	d in a few seconds e	d in a few seconds t
+doyle_scarlet_6_d	24	1.0	12802	14348	” said Sherlock Holmes, 	” said Sherlock Holmes, 
+doyle_scarlet_14_d	34	1.0	1378	6725	here were no signs of a struggle, 	here were no signs of a struggle, 
+doyle_scarlet_14_d	24	1.0	4158	8497	 reason to believe that 	 reason to believe that 
+doyle_scarlet_14_d	23	0.9565217391304348	5109	7324	 connected with the mur	 connected with the mar
+doyle_scarlet_14_d	21	0.9523809523809523	6126	10029	e will probably be he	e will probably be ne
+doyle_scarlet_14_d	26	0.9615384615384616	8724	1282	,” said Sherlock Holmes sh	,” said Sherlock Holmes, s
+doyle_scarlet_14_d	20	0.95	9355	1681	 to be able to resto	 to be able to reaso
+doyle_scarlet_14_d	25	1.0	12802	1283	” said Sherlock Holmes, s	” said Sherlock Holmes, s
+doyle_scarlet_14_d	20	0.95	12808	10866	 Sherlock Holmes, sh	 Sherlock Holmes, wh
+doyle_scarlet_14_d	22	1.0	12875	5875	. It must have been a 	. It must have been a 
+doyle_scarlet_4_d	20	0.95	2435	610	e,” he answered. “Wh	e,” he answered. “Th
+doyle_scarlet_4_d	23	1.0	8019	7844	n the Brixton Road. It 	n the Brixton Road. It 
+doyle_scarlet_4_d	20	0.95	9539	86	s. Sherlock Holmes s	s. Sherlock Holmes l
+doyle_scarlet_4_d	20	1.0	9557	9745	 sprang to his feet 	 sprang to his feet 
+doyle_scarlet_4_d	21	0.9523809523809523	12428	6690	 we found that the ho	 we found that the co
+doyle_signoffour_4_d	22	0.9545454545454546	9575	15366	t the moment that she 	t the moment that he d
+doyle_signoffour_4_d	30	1.0	13502	11423	 was still pondering over the 	 was still pondering over the 
+doyle_scarlet_10_d	20	0.95	2549	9150	To tell the truth, i	To tell the truth, L
+doyle_scarlet_10_d	22	0.9545454545454546	6966	3904	 click of the latch as	 click of the latch, a
+doyle_scarlet_10_d	27	0.9629629629629629	9899	3931	ooking through the window I	ooking through the window, 
+doyle_baskervilles_9_u	24	0.9583333333333334	315	9357	 all that had occurred, 	 all that had occurred. 
+doyle_baskervilles_9_u	20	0.95	1242	24340	 there was neither w	 there was neither p
+doyle_baskervilles_9_u	27	1.0	4733	1510	 that it was possible that 	 that it was possible that 
+doyle_baskervilles_9_u	21	1.0	6880	5669	 in the direction of 	 in the direction of 
+doyle_baskervilles_9_u	21	1.0	6880	28944	 in the direction of 	 in the direction of 
+doyle_baskervilles_9_u	20	1.0	9557	30599	 sprang to his feet 	 sprang to his feet 
+doyle_baskervilles_9_u	21	1.0	12367	14457	 some time before he 	 some time before he 
+doyle_baskervilles_9_u	23	1.0	12592	9166	 “You don’t mean to say	 “You don’t mean to say
+doyle_scarlet_2_d	20	1.0	203	6142	 and endeavoured to 	 and endeavoured to 
+doyle_scarlet_2_d	22	1.0	6832	16774	 Sherlock Holmes rose 	 Sherlock Holmes rose 
+doyle_scarlet_2_d	20	0.95	7717	3199	 my companion, and h	 my companion, and s
+doyle_scarlet_2_d	25	0.96	8724	18901	,” said Sherlock Holmes s	,” said Sherlock Holmes. 
+doyle_scarlet_2_d	31	1.0	11599	18710	 the other side of the street, 	 the other side of the street, 
+doyle_scarlet_2_d	24	0.9583333333333334	12802	18902	” said Sherlock Holmes, 	” said Sherlock Holmes. 
+doyle_scarlet_2_d	20	0.95	12808	19254	 Sherlock Holmes, sh	 Sherlock Holmes,” h
+doyle_scarlet_12_d	21	1.0	6883	7445	 the direction of the	 the direction of the
+doyle_scarlet_12_d	21	1.0	10125	12748	to the heart of the m	to the heart of the m
+doyle_scarlet_12_d	20	0.95	12302	8386	here was no sign or 	here was no sign of 
+doyle_scarlet_12_d	23	1.0	13372	7212	 the smouldering fire, 	 the smouldering fire, 
+doyle_scarlet_12_d	23	1.0	13372	9453	 the smouldering fire, 	 the smouldering fire, 
+doyle_signoffour_2_d	23	0.9565217391304348	8726	5144	 said Sherlock Holmes s	 said Sherlock Holmes. 
+doyle_signoffour_2_d	20	1.0	12565	3168	 ever been heard of 	 ever been heard of 
+doyle_signoffour_2_d	23	0.9565217391304348	12803	5144	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_baskervilles_7_u	21	0.9523809523809523	522	133	 impression which tha	 impression which had
+doyle_baskervilles_7_u	21	0.9523809523809523	7276	1448	 as he listened to it	 as he listened to hi
+doyle_baskervilles_7_u	20	0.95	9540	8653	. Sherlock Holmes sp	. Sherlock Holmes is
+doyle_signoffour_10_d	31	0.967741935483871	5288	1090	I have my old service revolver 	I have my old service-revolver 
+doyle_signoffour_10_d	21	0.9523809523809523	12302	17290	here was no sign or t	here was no sign of t
+doyle_baskervilles_5_u	24	0.9583333333333334	8725	11450	” said Sherlock Holmes s	” said Sherlock Holmes. 
+doyle_baskervilles_5_u	34	0.9705882352941176	10911	15258	 he burst into a hearty laugh. “I 	 he burst into a hearty laugh. “A 
+doyle_baskervilles_5_u	20	1.0	12595	2865	ou don’t mean to say	ou don’t mean to say
+doyle_baskervilles_5_u	25	0.96	12801	11449	!” said Sherlock Holmes, 	!” said Sherlock Holmes. 
+doyle_signoffour_12_d	24	0.9583333333333334	481	31628	 of the murdered man. So	 of the murdered man. No
+doyle_signoffour_12_d	24	1.0	7323	25026	 passage, and there was 	 passage, and there was 
+doyle_signoffour_12_d	23	0.9565217391304348	8726	49486	 said Sherlock Holmes s	 said Sherlock Holmes. 
+doyle_signoffour_12_d	23	0.9565217391304348	8726	52745	 said Sherlock Holmes s	 said Sherlock Holmes, 
+doyle_signoffour_12_d	29	0.9655172413793104	9899	46356	ooking through the window I c	ooking through the window, I 
+doyle_signoffour_12_d	21	1.0	11144	17686	 because I know that 	 because I know that 
+doyle_signoffour_12_d	26	1.0	11596	22070	 at the other side of the 	 at the other side of the 
+doyle_signoffour_12_d	23	1.0	11599	22581	 the other side of the 	 the other side of the 
+doyle_signoffour_12_d	23	0.9565217391304348	12803	49486	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_signoffour_12_d	23	1.0	12803	52745	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_adventures_2_d	20	0.95	119	36124	 in the afternoon. A	 in the afternoon. W
+doyle_adventures_2_d	20	0.95	3098	7368	 this advertisement,	 this advertisement 
+doyle_adventures_2_d	20	0.95	3897	7368	 this advertisement.	 this advertisement 
+doyle_adventures_2_d	37	1.0	4145	31592	 I have every reason to believe that 	 I have every reason to believe that 
+doyle_adventures_2_d	23	0.9565217391304348	4806	46553	 the house. What would 	 the house. What could 
+doyle_adventures_2_d	20	0.95	6831	55	. Sherlock Holmes ro	. Sherlock Holmes, o
+doyle_adventures_2_d	25	1.0	6880	41685	 in the direction of the 	 in the direction of the 
+doyle_adventures_2_d	20	0.95	7895	8621	our advertisement. “	our advertisement." 
+doyle_adventures_2_d	23	0.9565217391304348	8726	34755	 said Sherlock Holmes s	 said Sherlock Holmes, 
+doyle_adventures_2_d	20	0.95	8731	42998	 Sherlock Holmes sha	 Sherlock Holmes had
+doyle_adventures_2_d	20	0.95	9539	4229	s. Sherlock Holmes s	s. Sherlock Holmes' 
+doyle_adventures_2_d	20	1.0	9539	27173	s. Sherlock Holmes s	s. Sherlock Holmes s
+doyle_adventures_2_d	20	1.0	9557	38145	 sprang to his feet 	 sprang to his feet 
+doyle_adventures_2_d	20	0.95	10486	43098	, and I heard the fo	, and I heard the so
+doyle_adventures_2_d	23	1.0	12803	34755	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_adventures_2_d	26	0.9615384615384616	13553	31301	 he had set himself to unr	 he had set himself to hun
+doyle_baskervilles_14_u	20	0.95	834	12536	 must be done, and t	 must be done, and e
+doyle_baskervilles_14_u	25	0.96	5462	12076	 be ready for anything.” 	 be ready for anything. S
+doyle_baskervilles_14_u	21	1.0	6955	7815	d the sharp click of 	d the sharp click of 
+doyle_baskervilles_14_u	20	0.95	10127	16055	 the heart of the my	 the heart of the mi
+doyle_baskervilles_14_u	20	0.95	10685	7808	 I heard the sharp s	 I heard the sharp c
+doyle_baskervilles_14_u	20	0.95	11079	19013	ould never have let 	ould never have set 
+doyle_baskervilles_14_u	23	1.0	11599	3925	 the other side of the 	 the other side of the 
+doyle_baskervilles_14_u	20	0.95	12302	10651	here was no sign or 	here was no sign of 
+doyle_baskervilles_10_u	25	0.96	577	16671	 found it difficult to fe	 found it difficult to ex
+doyle_baskervilles_10_u	21	0.9523809523809523	1352	12098	 thickly upon the flo	 thickly upon the slo
+doyle_baskervilles_10_u	21	1.0	3176	9293	 immediately after th	 immediately after th
+doyle_baskervilles_10_u	20	0.95	9449	6951	s of gratitude the o	s of gratitude the m
+doyle_baskervilles_10_u	26	1.0	10127	18915	 the heart of the mystery.	 the heart of the mystery.
+doyle_adventures_6_d	20	0.95	581	48031	nd it difficult to f	nd it difficult to p
+doyle_adventures_6_d	24	1.0	1376	18545	 There were no signs of 	 There were no signs of 
+doyle_adventures_6_d	23	0.9565217391304348	1446	22043	 which he might have wo	 which he might have co
+doyle_adventures_6_d	20	0.95	1821	46542	t I knew that the co	t I knew that she co
+doyle_adventures_6_d	20	1.0	4612	19188	s appearance at the 	s appearance at the 
+doyle_adventures_6_d	26	0.9615384615384616	4816	23994	. What would he do, then? 	. What would he do then? I
+doyle_adventures_6_d	23	1.0	4890	15444	 in the hope of seeing 	 in the hope of seeing 
+doyle_adventures_6_d	20	0.95	5539	35783	 returned with the p	 returned with the n
+doyle_adventures_6_d	23	0.9565217391304348	7149	16415	 to ascend the stairs. 	 to ascend the stairs w
+doyle_adventures_6_d	25	0.96	7494	35094	 into the apartment. She 	 into the apartment. The 
+doyle_adventures_6_d	20	0.95	8731	25652	 Sherlock Holmes sha	 Sherlock Holmes had
+doyle_adventures_6_d	20	0.95	8731	42235	 Sherlock Holmes sha	 Sherlock Holmes sat
+doyle_adventures_6_d	26	0.9615384615384616	9541	29297	 Sherlock Holmes sprang to	 Sherlock Holmes sprang ou
+doyle_adventures_6_d	21	0.9523809523809523	9905	23921	 through the window I	 through the window, 
+doyle_adventures_6_d	20	1.0	10008	19931	ome little distance 	ome little distance 
+doyle_adventures_6_d	21	1.0	10914	9327	 burst into a hearty 	 burst into a hearty 
+doyle_adventures_6_d	23	0.9565217391304348	12299	17036	. There was no sign or 	. There was no sign of 
+doyle_adventures_6_d	21	0.9523809523809523	12808	28362	 Sherlock Holmes, sha	 Sherlock Holmes," sa
+doyle_signoffour_8_d	20	0.95	3051	13178	t is just as well it	t is just as well th
+doyle_signoffour_8_d	24	1.0	3509	8378	 between eight and nine 	 between eight and nine 
+doyle_signoffour_8_d	21	1.0	4112	7350	 view of the case is 	 view of the case is 
+doyle_signoffour_8_d	21	1.0	5771	7350	 view of the case is 	 view of the case is 
+doyle_signoffour_8_d	20	0.95	6784	12432	 As he spoke there w	 As he spoke, there 
+doyle_signoffour_8_d	20	0.95	6831	2093	. Sherlock Holmes ro	. Sherlock Holmes lo
+doyle_signoffour_8_d	21	1.0	8225	17562	 is more than I can t	 is more than I can t
+doyle_signoffour_8_d	21	1.0	11605	6521	ther side of the stre	ther side of the stre
+doyle_scarlet_8_d	23	1.0	577	3029	 found it difficult to 	 found it difficult to 
+doyle_scarlet_8_d	21	1.0	3117	9392	,” he answered. “I ha	,” he answered. “I ha
+doyle_scarlet_8_d	22	0.9545454545454546	6447	18735	 brown-backed volume w	 brown-backed volume, 
+doyle_adventures_10_d	20	0.95	2550	20227	o tell the truth, it	o tell the truth, th
+doyle_adventures_10_d	21	0.9523809523809523	4158	341	 reason to believe th	 reason to believe, h
+doyle_adventures_10_d	21	0.9523809523809523	4743	21484	as possible that he h	as possible that the 
+doyle_adventures_10_d	27	1.0	8225	38136	 is more than I can think, 	 is more than I can think, 
+doyle_adventures_10_d	23	0.9565217391304348	8726	22795	 said Sherlock Holmes s	 said Sherlock Holmes, 
+doyle_adventures_10_d	23	0.9565217391304348	8726	39511	 said Sherlock Holmes s	 said Sherlock Holmes. 
+doyle_adventures_10_d	22	1.0	10768	29583	 that he had not been 	 that he had not been 
+doyle_adventures_10_d	26	1.0	11596	36564	 at the other side of the 	 at the other side of the 
+doyle_adventures_10_d	23	1.0	12803	22795	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_adventures_10_d	23	0.9565217391304348	12803	39511	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_baskervilles_1_u	20	0.95	808	11717	 I recognized that j	 I recognized that I
+doyle_baskervilles_1_u	20	0.95	6831	4	. Sherlock Holmes ro	. Sherlock Holmes Mr
+doyle_baskervilles_1_u	20	0.95	12808	25	 Sherlock Holmes, sh	 Sherlock Holmes, wh
+doyle_baskervilles_1_u	20	0.95	12808	8635	 Sherlock Holmes, sh	 Sherlock Holmes, th
+doyle_adventures_12_d	21	1.0	5109	3205	 connected with the m	 connected with the m
+doyle_adventures_12_d	20	0.95	8731	2480	 Sherlock Holmes sha	 Sherlock Holmes had
+doyle_adventures_12_d	26	0.9615384615384616	9541	47414	 Sherlock Holmes sprang to	 Sherlock Holmes sprang fo
+doyle_adventures_12_d	20	0.95	10685	31623	 I heard the sharp s	 I heard the sharp r
+doyle_adventures_12_d	23	1.0	11599	28135	 the other side of the 	 the other side of the 
+doyle_adventures_12_d	20	0.95	12807	90	d Sherlock Holmes, s	d Sherlock Holmes, t
+doyle_adventures_12_d	20	0.95	13489	41188	 knew that he was st	 knew that he was th
+doyle_baskervilles_3_u	20	0.95	9541	2470	 Sherlock Holmes spr	 Sherlock Holmes str
+doyle_baskervilles_12_u	23	0.9565217391304348	1050	16902	. I remembered how he h	. I remembered how the 
+doyle_baskervilles_12_u	21	1.0	6880	15373	 in the direction of 	 in the direction of 
+doyle_adventures_4_d	20	0.95	189	23451	 upon the sofa and e	 upon the sofa and t
+doyle_adventures_4_d	20	0.95	319	5137	 that had occurred, 	 that had occurred. 
+doyle_adventures_4_d	23	0.9565217391304348	481	2521	 of the murdered man. S	 of the murdered man." 
+doyle_adventures_4_d	21	0.9523809523809523	581	30489	nd it difficult to fe	nd it difficult to ge
+doyle_adventures_4_d	22	1.0	1101	11037	 no doubt that he had 	 no doubt that he had 
+doyle_adventures_4_d	20	0.95	1160	30084	se to the idea. Then	se to the idea. The 
+doyle_adventures_4_d	20	0.95	1301	27500	n the other hand, wh	n the other hand, he
+doyle_adventures_4_d	20	0.95	4576	9995	 which might have be	 which might have re
+doyle_adventures_4_d	20	0.95	6830	31524	l. Sherlock Holmes r	l. Sherlock Holmes w
+doyle_adventures_4_d	27	0.9629629629629629	6880	12688	 in the direction of the do	 in the direction of the Bo
+doyle_adventures_4_d	23	0.9565217391304348	8726	20155	 said Sherlock Holmes s	 said Sherlock Holmes. 
+doyle_adventures_4_d	23	0.9565217391304348	12299	36576	. There was no sign or 	. There was no sign of 
+doyle_adventures_4_d	23	0.9565217391304348	12803	20155	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_baskervilles_4_u	21	1.0	6880	15436	 in the direction of 	 in the direction of 
+doyle_baskervilles_4_u	20	0.95	6883	16039	 the direction of th	 the direction of hi
+doyle_baskervilles_4_u	25	0.96	8724	3004	,” said Sherlock Holmes s	,” said Sherlock Holmes. 
+doyle_baskervilles_4_u	25	0.96	8724	11701	,” said Sherlock Holmes s	,” said Sherlock Holmes. 
+doyle_baskervilles_4_u	23	0.9565217391304348	9609	15200	 rushed into his room. 	 rushed into his room i
+doyle_baskervilles_4_u	20	0.95	9643	15261	 in a few seconds en	 in a few seconds in
+doyle_baskervilles_4_u	31	0.967741935483871	11599	16134	 the other side of the street, 	 the other side of the street w
+doyle_baskervilles_4_u	24	0.9583333333333334	12802	3005	” said Sherlock Holmes, 	” said Sherlock Holmes. 
+doyle_baskervilles_4_u	24	0.9583333333333334	12802	11702	” said Sherlock Holmes, 	” said Sherlock Holmes. 
+doyle_adventures_3_d	22	0.9545454545454546	2730	18113	 understand. There is 	 understand. Where is 
+doyle_adventures_3_d	23	0.9565217391304348	3048	24630	. It is just as well it	. It is just as well th
+doyle_adventures_3_d	36	1.0	4146	28359	I have every reason to believe that 	I have every reason to believe that 
+doyle_adventures_3_d	20	1.0	5109	25333	 connected with the 	 connected with the 
+doyle_adventures_3_d	20	1.0	5109	28119	 connected with the 	 connected with the 
+doyle_adventures_3_d	25	1.0	6784	5550	 As he spoke there was a 	 As he spoke there was a 
+doyle_adventures_3_d	24	0.9583333333333334	8726	38	 said Sherlock Holmes sh	 said Sherlock Holmes as
+doyle_adventures_3_d	20	0.95	8731	18869	 Sherlock Holmes sha	 Sherlock Holmes sat
+doyle_adventures_3_d	20	0.95	9540	18868	. Sherlock Holmes sp	. Sherlock Holmes sa
+doyle_adventures_3_d	21	1.0	10156	12082	here was no need for 	here was no need for 
+doyle_adventures_3_d	23	0.9565217391304348	11425	15247	 a four-wheeler which w	 a four-wheeler, which 
+doyle_adventures_3_d	24	0.9583333333333334	12803	38	 said Sherlock Holmes, s	 said Sherlock Holmes as
+doyle_adventures_3_d	20	0.95	12807	7060	d Sherlock Holmes, s	d Sherlock Holmes, w
+doyle_adventures_3_d	20	1.0	12875	22712	. It must have been 	. It must have been 
+doyle_adventures_1_d	20	0.95	1647	19131	ed me that he had al	ed me that he had le
+doyle_adventures_1_d	20	0.95	6126	29168	e will probably be h	e will probably be s
+doyle_adventures_1_d	23	1.0	6784	9446	 As he spoke there was 	 As he spoke there was 
+doyle_adventures_1_d	20	0.95	7516	11315	he appeared to be da	he appeared to be a 
+doyle_adventures_1_d	20	0.95	8731	28	 Sherlock Holmes sha	 Sherlock Holmes she
+doyle_adventures_1_d	20	0.95	8731	41909	 Sherlock Holmes sha	 Sherlock Holmes sta
+doyle_adventures_1_d	20	0.95	9634	30441	 returned in a few s	 returned in a few m
+doyle_adventures_1_d	20	1.0	10289	20048	. It was close upon 	. It was close upon 
+doyle_adventures_1_d	20	1.0	10652	20048	. It was close upon 	. It was close upon 
+doyle_adventures_1_d	21	1.0	10693	9468	 the sharp sound of h	 the sharp sound of h
+doyle_adventures_1_d	24	0.9583333333333334	11975	18871	rolled down the street i	rolled down the street. 
+doyle_adventures_1_d	21	0.9523809523809523	11979	21839	ed down the street in	ed down the street an
+doyle_adventures_1_d	20	0.95	12808	28	 Sherlock Holmes, sh	 Sherlock Holmes she
+doyle_signoffour_11_d	22	0.9545454545454546	4863	6274	 out for the evening p	 out for the evening, 
+doyle_signoffour_11_d	21	1.0	8225	3127	 is more than I can t	 is more than I can t
+doyle_signoffour_11_d	22	0.9545454545454546	9905	2861	 through the window I 	 through the window. I
+doyle_baskervilles_6_u	20	0.95	521	16349	e impression which t	e impression which o
+doyle_baskervilles_6_u	20	0.95	2550	15443	o tell the truth, it	o tell the truth, si
+doyle_baskervilles_6_u	22	1.0	5226	397	 you can leave me to d	 you can leave me to d
+doyle_baskervilles_6_u	21	0.9523809523809523	6831	138	. Sherlock Holmes ros	. Sherlock Holmes dro
+doyle_baskervilles_6_u	20	0.95	6942	13273	 the hall, and the s	 the hall, and the d
+doyle_baskervilles_2_u	20	1.0	4165	14378	 to believe that it 	 to believe that it 
+doyle_baskervilles_2_u	20	1.0	5109	1812	 connected with the 	 connected with the 
+doyle_baskervilles_2_u	20	1.0	5109	11673	 connected with the 	 connected with the 
+doyle_baskervilles_2_u	25	0.96	8724	15611	,” said Sherlock Holmes s	,” said Sherlock Holmes, 
+doyle_baskervilles_2_u	21	1.0	10007	20948	some little distance 	some little distance 
+doyle_baskervilles_2_u	24	1.0	12802	15612	” said Sherlock Holmes, 	” said Sherlock Holmes, 
+doyle_adventures_5_d	24	1.0	1376	17115	 There were no signs of 	 There were no signs of 
+doyle_adventures_5_d	23	1.0	5106	19173	 be connected with the 	 be connected with the 
+doyle_adventures_5_d	23	0.9565217391304348	8726	29417	 said Sherlock Holmes s	 said Sherlock Holmes, 
+doyle_adventures_5_d	20	0.95	8731	35563	 Sherlock Holmes sha	 Sherlock Holmes had
+doyle_adventures_5_d	20	0.95	9540	2645	. Sherlock Holmes sp	. Sherlock Holmes sa
+doyle_adventures_5_d	20	0.95	9540	23249	. Sherlock Holmes sp	. Sherlock Holmes sa
+doyle_adventures_5_d	23	0.9565217391304348	12299	12627	. There was no sign or 	. There was no sign of 
+doyle_adventures_5_d	23	1.0	12803	29417	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_baskervilles_13_u	20	0.95	119	13937	 in the afternoon. A	 in the afternoon.” 
+doyle_baskervilles_13_u	20	0.95	226	14395	 a couple of hours’ 	 a couple of hours a
+doyle_baskervilles_13_u	23	0.9565217391304348	7418	4000	 the man of violence wh	 the man of violence, h
+doyle_baskervilles_13_u	20	0.95	7712	21080	ed at my companion, 	ed at my companion t
+doyle_baskervilles_13_u	25	0.96	8724	18520	,” said Sherlock Holmes s	,” said Sherlock Holmes. 
+doyle_baskervilles_13_u	25	0.96	8724	19871	,” said Sherlock Holmes s	,” said Sherlock Holmes. 
+doyle_baskervilles_13_u	20	0.95	9541	17057	 Sherlock Holmes spr	 Sherlock Holmes shr
+doyle_baskervilles_13_u	24	0.9583333333333334	12802	18521	” said Sherlock Holmes, 	” said Sherlock Holmes. 
+doyle_baskervilles_13_u	24	0.9583333333333334	12802	19872	” said Sherlock Holmes, 	” said Sherlock Holmes. 
+doyle_baskervilles_13_u	20	0.95	12878	180	t must have been a y	t must have been a p
+doyle_signoffour_9_d	20	0.95	393	9404	. Every time that I 	. Every time that a 
+doyle_signoffour_9_d	22	1.0	1297	10242	t, on the other hand, 	t, on the other hand, 
+doyle_signoffour_9_d	20	0.95	3899	9549	his advertisement.” 	his advertisement. I
+doyle_signoffour_9_d	26	0.9615384615384616	4158	7813	 reason to believe that it	 reason to believe that th
+doyle_signoffour_9_d	23	1.0	4890	3268	 in the hope of seeing 	 in the hope of seeing 
+doyle_signoffour_9_d	20	0.95	8731	3338	 Sherlock Holmes sha	 Sherlock Holmes has
+doyle_signoffour_9_d	20	0.95	9540	91	. Sherlock Holmes sp	. Sherlock Holmes st
+doyle_signoffour_9_d	20	0.95	9540	11064	. Sherlock Holmes sp	. Sherlock Holmes is
+doyle_signoffour_9_d	20	0.95	9540	12076	. Sherlock Holmes sp	. Sherlock Holmes is
+doyle_signoffour_9_d	20	0.95	11950	9429	 came to the door, a	 came to the door, o
+doyle_signoffour_9_d	20	0.95	13494	6585	 that he was still p	 that he was still e
+doyle_adventures_7_d	23	0.9565217391304348	1097	20390	 had no doubt that he h	 had no doubt that the 
+doyle_adventures_7_d	20	0.95	1301	8812	n the other hand, wh	n the other hand, he
+doyle_adventures_7_d	20	0.95	2869	16413	n the evening paper?	n the evening papers
+doyle_adventures_7_d	20	0.95	3489	15803	 221B, Baker Street,	 221B, Baker Street.
+doyle_adventures_7_d	21	0.9523809523809523	4871	15515	 the evening papers i	 the evening papers. 
+doyle_adventures_7_d	20	0.95	4871	16414	 the evening papers 	 the evening papers.
+doyle_adventures_7_d	27	0.9629629629629629	6880	872	 in the direction of the do	 in the direction of the ol
+doyle_adventures_7_d	23	0.9565217391304348	7492	11002	ed into the apartment. 	ed into the apartment w
+doyle_adventures_7_d	21	0.9523809523809523	7894	18229	 our advertisement. “	 our advertisement." 
+doyle_adventures_7_d	20	0.95	8020	36661	 the Brixton Road. I	 the Brixton Road. M
+doyle_adventures_7_d	23	0.9565217391304348	8726	1406	 said Sherlock Holmes s	 said Sherlock Holmes, 
+doyle_adventures_7_d	20	0.95	8731	10891	 Sherlock Holmes sha	 Sherlock Holmes had
+doyle_adventures_7_d	20	0.95	8731	11628	 Sherlock Holmes sha	 Sherlock Holmes sat
+doyle_adventures_7_d	20	0.95	8731	31290	 Sherlock Holmes sha	 Sherlock Holmes hai
+doyle_adventures_7_d	20	0.95	9540	11627	. Sherlock Holmes sp	. Sherlock Holmes sa
+doyle_adventures_7_d	28	1.0	10914	21097	 burst into a hearty laugh. 	 burst into a hearty laugh. 
+doyle_adventures_7_d	46	0.9565217391304348	11418	31306	 hailed a four-wheeler which was passing. I ma	 hailed a four-wheeler which was passing. "In 
+doyle_adventures_7_d	21	0.9523809523809523	12302	39632	here was no sign or t	here was no sign of t
+doyle_adventures_7_d	23	1.0	12803	1406	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_baskervilles_11_u	23	0.9565217391304348	934	9841	he more I thought of it	he more I thought of th
+doyle_baskervilles_11_u	20	0.95	6956	23661	 the sharp click of 	 the sharp clink of 
+doyle_adventures_11_d	20	1.0	319	49330	 that had occurred, 	 that had occurred, 
+doyle_adventures_11_d	21	0.9523809523809523	1101	15856	 no doubt that he had	 no doubt that she ha
+doyle_adventures_11_d	21	1.0	1298	6812	, on the other hand, 	, on the other hand, 
+doyle_adventures_11_d	20	0.95	5539	23694	 returned with the p	 returned with the o
+doyle_adventures_11_d	22	0.9545454545454546	5539	47024	 returned with the pis	 returned with the pri
+doyle_adventures_11_d	20	0.95	5574	46350	 had been cleared, a	 had been cleared, s
+doyle_adventures_11_d	22	1.0	6883	841	 the direction of the 	 the direction of the 
+doyle_adventures_11_d	20	0.95	7073	14978	 could not hear the 	 could not bear the 
+doyle_adventures_11_d	22	0.9545454545454546	7311	41930	ly along the passage, 	ly along the passage u
+doyle_adventures_11_d	22	1.0	8726	39019	 said Sherlock Holmes 	 said Sherlock Holmes 
+doyle_adventures_11_d	20	1.0	9539	21230	s. Sherlock Holmes s	s. Sherlock Holmes s
+doyle_adventures_11_d	21	1.0	9585	42781	nt that she was gone 	nt that she was gone 
+doyle_adventures_11_d	20	1.0	9905	41035	 through the window 	 through the window 
+doyle_adventures_11_d	23	1.0	11599	34959	 the other side of the 	 the other side of the 
+doyle_adventures_11_d	20	0.95	12302	35797	here was no sign or 	here was no sign of 
+doyle_adventures_11_d	21	1.0	12364	34998	 be some time before 	 be some time before 
+doyle_adventures_11_d	20	0.95	12742	23207	 either you or the d	 either you or the p
+doyle_adventures_11_d	23	0.9565217391304348	12803	39019	 said Sherlock Holmes, 	 said Sherlock Holmes r
+doyle_adventures_11_d	21	1.0	12874	48198	n. It must have been 	n. It must have been 
+doyle_scarlet_9_d	22	0.9545454545454546	9164	2274	t with the women and w	t with the women, and 

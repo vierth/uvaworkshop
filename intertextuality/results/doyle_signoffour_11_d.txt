@@ -1,0 +1,47 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_6_u	22	1.0	5104	11992	 I could see that the 	 I could see that the 
+doyle_baskervilles_6_u	24	0.9583333333333334	8361	4093	t it, Dr. Watson," said 	t it, Dr. Watson,” said 
+doyle_baskervilles_6_u	20	0.95	8644	10752	s and shining eyes t	s and shining eyes. 
+doyle_baskervilles_2_u	20	0.95	8566	19013	 the evening, and th	 the evening, and it
+doyle_adventures_5_d	23	0.9565217391304348	855	16328	t seemed to me that the	t seemed to me that he 
+doyle_adventures_5_d	20	0.95	5104	4096	 I could see that th	 I could see that hi
+doyle_adventures_5_d	22	0.9545454545454546	5104	33226	 I could see that the 	 I could see that he w
+doyle_adventures_5_d	21	0.9523809523809523	6010	35161	 to the station." The	 to the station. The 
+doyle_adventures_5_d	21	0.9523809523809523	7241	4338	I have brought someth	I have brought some t
+doyle_adventures_5_d	20	0.95	8138	18784	d Sherlock Holmes. W	d Sherlock Holmes. "
+doyle_baskervilles_13_u	20	0.95	2621	11129	. I think I can prov	. I think I can prom
+doyle_baskervilles_13_u	22	1.0	2687	1839	 was dead before ever 	 was dead before ever 
+doyle_baskervilles_13_u	23	0.9565217391304348	5948	10423	 to the Baker Street ro	 to the Baker Street co
+doyle_baskervilles_13_u	20	0.95	7508	17700	 She glanced at the 	 She glanced at them
+doyle_baskervilles_13_u	20	0.95	8137	15737	nd Sherlock Holmes. 	nd Sherlock Holmes o
+doyle_baskervilles_13_u	20	0.95	8138	18526	d Sherlock Holmes. W	d Sherlock Holmes. “
+doyle_baskervilles_13_u	20	0.95	8138	19877	d Sherlock Holmes. W	d Sherlock Holmes. “
+doyle_signoffour_9_d	23	0.9565217391304348	1008	1133	 in his eyes. "Well, Jo	 in his eyes. "Well, of
+doyle_signoffour_9_d	39	0.9743589743589743	2403	8246	 Mr. Athelney Jones, of Scotland Yard. 	 Mr. Athelney Jones, of Scotland Yard, 
+doyle_signoffour_9_d	21	0.9523809523809523	2403	10764	 Mr. Athelney Jones, 	 Mr. Athelney Jones w
+doyle_signoffour_9_d	22	0.9545454545454546	5285	14449	 tell you that I am ta	 tell you that I am ac
+doyle_signoffour_9_d	21	1.0	6174	1013	 Mrs. Cecil Forrester	 Mrs. Cecil Forrester
+doyle_signoffour_9_d	21	1.0	6174	1068	 Mrs. Cecil Forrester	 Mrs. Cecil Forrester
+doyle_signoffour_9_d	23	0.9565217391304348	6249	1013	 Mrs. Cecil Forrester w	 Mrs. Cecil Forrester. 
+doyle_signoffour_9_d	21	1.0	6249	1068	 Mrs. Cecil Forrester	 Mrs. Cecil Forrester
+doyle_signoffour_9_d	22	0.9545454545454546	8370	6846	 Watson," said she. I 	 Watson," said he. "I 
+doyle_adventures_7_d	22	0.9545454545454546	855	36067	t seemed to me that th	t seemed to me that it
+doyle_adventures_7_d	20	0.95	1157	26504	 "I don't believe th	 "I don't believe it
+doyle_adventures_7_d	24	1.0	2505	35756	r a true account of the 	r a true account of the 
+doyle_adventures_7_d	21	0.9523809523809523	3877	20372	," he remarked. "I th	," he remarked. "I ha
+doyle_adventures_7_d	20	0.95	4075	7527	 must confess that y	 must confess that I
+doyle_adventures_7_d	20	0.95	5080	40783	 Sherlock Holmes's f	 Sherlock Holmes' fi
+doyle_adventures_7_d	20	0.95	6133	23101	 quarter of an hour'	 quarter of an hour 
+doyle_adventures_7_d	28	0.9642857142857143	8129	55	 my friend Sherlock Holmes. 	 my friend Sherlock Holmes u
+doyle_adventures_7_d	20	0.95	8514	3685	 the appearance of A	 the appearance of P
+doyle_adventures_7_d	20	0.95	10088	11083	 astonishment. The b	 astonishment. "The 
+doyle_adventures_11_d	22	0.9545454545454546	1567	3721	r," said Holmes; "and 	r," said Holmes, "and 
+doyle_adventures_11_d	20	0.95	2288	7929	 that I should be la	 that I should be ab
+doyle_adventures_11_d	22	1.0	2586	34456	 I hope that I may be 	 I hope that I may be 
+doyle_adventures_11_d	21	0.9523809523809523	2861	41035	 through the window. 	 through the window w
+doyle_adventures_11_d	21	0.9523809523809523	5955	33106	 Baker Street rooms. 	 Baker Street rooms t
+doyle_adventures_11_d	22	0.9545454545454546	6365	13691	 in the drawing-room: 	 in the drawing-room t
+doyle_adventures_11_d	22	0.9545454545454546	6365	28746	 in the drawing-room: 	 in the drawing-room, 
+doyle_adventures_11_d	20	1.0	7183	22630	ed that it might be 	ed that it might be 
+doyle_adventures_11_d	20	0.95	8408	46724	 what had occurred s	 what had occurred. 
+doyle_scarlet_9_d	20	1.0	2197	9087	 would have thought 	 would have thought 

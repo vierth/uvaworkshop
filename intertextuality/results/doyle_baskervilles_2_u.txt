@@ -1,0 +1,124 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_5_d	20	0.95	1061	3602	 stretched out his h	 stretched out his l
+doyle_adventures_5_d	20	0.95	1288	15269	 over his shoulder a	 over his shoulder. 
+doyle_adventures_5_d	20	1.0	1812	1411	 connected with the 	 connected with the 
+doyle_adventures_5_d	22	0.9545454545454546	1812	19176	 connected with the af	 connected with the wa
+doyle_adventures_5_d	20	0.95	1898	23406	 back in his chair, 	 back in his chair h
+doyle_adventures_5_d	27	0.9629629629629629	1924	24099	 his finger-tips together, 	 his finger-tips together. 
+doyle_adventures_5_d	20	0.95	4346	33707	 by the aid of the g	 by the aid of the w
+doyle_adventures_5_d	20	0.95	5641	13837	 the nature of the d	 the nature of the p
+doyle_adventures_5_d	20	0.95	6736	3534	, for there came a g	, for there came a s
+doyle_adventures_5_d	20	0.95	8705	16136	 the coming of the h	 the coming of the l
+doyle_adventures_5_d	21	1.0	11672	1410	s connected with the 	s connected with the 
+doyle_adventures_5_d	20	1.0	11673	19176	 connected with the 	 connected with the 
+doyle_adventures_5_d	22	0.9545454545454546	11741	1052	 entirely cleared up b	 entirely cleared up. 
+doyle_adventures_5_d	21	0.9523809523809523	14182	17128	o signs of violence w	o signs of violence, 
+doyle_adventures_5_d	22	0.9545454545454546	15057	979	 in connection with th	 in connection with it
+doyle_adventures_5_d	22	0.9545454545454546	15535	979	 in connection with th	 in connection with it
+doyle_adventures_5_d	23	1.0	15613	29417	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_adventures_5_d	27	0.9629629629629629	16066	24099	 his finger-tips together, 	 his finger-tips together. 
+doyle_adventures_5_d	20	0.95	18963	11202	st impression upon h	st impression upon m
+doyle_adventures_5_d	21	1.0	20136	24901	 all the facts which 	 all the facts which 
+doyle_baskervilles_13_u	22	0.9545454545454546	11	8145	 of the Baskervilles “	 of the Baskervilles. 
+doyle_baskervilles_13_u	20	0.95	333	19968	ou have been talking	ou have been walking
+doyle_baskervilles_13_u	27	0.9629629629629629	649	15914	 Sir Charles Baskerville, w	 Sir Charles Baskerville,” 
+doyle_baskervilles_13_u	32	0.96875	2144	8135	 the Hound of the Baskervilles t	 the Hound of the Baskervilles. 
+doyle_baskervilles_13_u	23	0.9565217391304348	9678	18527	 Sherlock Holmes. The l	 Sherlock Holmes. “The 
+doyle_baskervilles_13_u	24	1.0	10092	15914	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_13_u	27	0.9629629629629629	10303	15914	 Sir Charles Baskerville, w	 Sir Charles Baskerville,” 
+doyle_baskervilles_13_u	24	1.0	12755	15914	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_13_u	20	0.95	13548	1822	 that Sir Charles ha	 that Sir Charles wa
+doyle_baskervilles_13_u	20	0.95	13906	19970	 have been walking u	 have been walking f
+doyle_baskervilles_13_u	23	1.0	15056	16059	d in connection with th	d in connection with th
+doyle_baskervilles_13_u	20	1.0	15088	6467	 it might have been 	 it might have been 
+doyle_baskervilles_13_u	23	0.9565217391304348	15201	14676	 Henry Baskerville, if 	 Henry Baskerville, in 
+doyle_baskervilles_13_u	24	1.0	15253	15914	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_13_u	22	1.0	15535	16060	 in connection with th	 in connection with th
+doyle_baskervilles_13_u	27	0.9629629629629629	15567	15914	 Sir Charles Baskerville.” 	 Sir Charles Baskerville,” 
+doyle_baskervilles_13_u	26	0.9615384615384616	15611	18520	,” said Sherlock Holmes, “	,” said Sherlock Holmes. “
+doyle_baskervilles_13_u	26	0.9615384615384616	15611	19871	,” said Sherlock Holmes, “	,” said Sherlock Holmes. “
+doyle_baskervilles_13_u	21	1.0	16455	5772	 superstition. I had 	 superstition. I had 
+doyle_baskervilles_13_u	21	0.9523809523809523	16825	16516	 be perfectly frank. 	 be perfectly frank w
+doyle_baskervilles_13_u	24	1.0	16986	15914	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_13_u	22	1.0	19422	1822	 that Sir Charles was 	 that Sir Charles was 
+doyle_baskervilles_13_u	20	1.0	19905	1496	 Sir Charles’s death	 Sir Charles’s death
+doyle_signoffour_9_d	20	0.95	1573	12556	 I understand that i	 I understand that h
+doyle_signoffour_9_d	24	0.9583333333333334	9672	3332	at Mr. Sherlock Holmes. 	at Mr. Sherlock Holmes h
+doyle_signoffour_9_d	22	0.9545454545454546	9674	12073	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes i
+doyle_signoffour_9_d	22	0.9545454545454546	9674	14278	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes h
+doyle_signoffour_9_d	20	0.95	9885	12663	 out of his pocket. 	 out of his pocket, 
+doyle_signoffour_9_d	20	1.0	9939	18991	 something a little 	 something a little 
+doyle_signoffour_9_d	21	1.0	13821	11751	rom the time that he 	rom the time that he 
+doyle_adventures_7_d	20	0.95	1288	3041	 over his shoulder a	 over his shoulder. 
+doyle_adventures_7_d	28	0.9642857142857143	1841	21324	ith your permission I will r	ith your permission, I will 
+doyle_adventures_7_d	20	0.95	9885	28408	 out of his pocket. 	 out of his pocket, 
+doyle_adventures_7_d	24	0.9583333333333334	10797	6520	 fallen upon evil days i	 fallen upon evil days. 
+doyle_adventures_7_d	20	1.0	11731	1971	 have been entirely 	 have been entirely 
+doyle_adventures_7_d	20	0.95	13578	13606	r some little time h	r some little time, 
+doyle_adventures_7_d	22	0.9545454545454546	15057	927	 in connection with th	 in connection with it
+doyle_adventures_7_d	20	0.95	15088	6183	 it might have been 	 it might have been,
+doyle_adventures_7_d	22	0.9545454545454546	15535	927	 in connection with th	 in connection with it
+doyle_adventures_7_d	23	1.0	15613	1406	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_adventures_7_d	23	0.9565217391304348	16664	27139	I thought that I was ju	I thought that I was ou
+doyle_adventures_7_d	20	0.95	17479	7098	ithin the last few m	ithin the last few d
+doyle_adventures_7_d	20	0.95	18502	28516	 in front of him, wh	 in front of him, th
+doyle_adventures_7_d	20	0.95	20318	3805	 in the shape of the	 in the shape of thi
+doyle_baskervilles_11_u	26	0.9615384615384616	649	547	 Sir Charles Baskerville, 	 Sir Charles Baskerville a
+doyle_baskervilles_11_u	26	0.9615384615384616	649	3088	 Sir Charles Baskerville, 	 Sir Charles Baskerville a
+doyle_baskervilles_11_u	26	0.9615384615384616	649	3214	 Sir Charles Baskerville, 	 Sir Charles Baskerville t
+doyle_baskervilles_11_u	26	0.9615384615384616	649	4879	 Sir Charles Baskerville, 	 Sir Charles Baskerville h
+doyle_baskervilles_11_u	23	0.9565217391304348	1375	23080	Baskerville Hall,” and 	Baskerville Hall, and t
+doyle_baskervilles_11_u	20	1.0	2273	8755	d the story from my 	d the story from my 
+doyle_baskervilles_11_u	20	0.95	5217	13644	t that they should p	t that they should s
+doyle_baskervilles_11_u	20	0.95	5314	13645	 that they should sa	 that they should st
+doyle_baskervilles_11_u	22	0.9545454545454546	6764	18656	 across the moor, and 	 across the moor and m
+doyle_baskervilles_11_u	25	1.0	10092	547	 Sir Charles Baskerville 	 Sir Charles Baskerville 
+doyle_baskervilles_11_u	25	1.0	10092	3088	 Sir Charles Baskerville 	 Sir Charles Baskerville 
+doyle_baskervilles_11_u	27	0.9629629629629629	10092	3214	 Sir Charles Baskerville wh	 Sir Charles Baskerville th
+doyle_baskervilles_11_u	27	0.9629629629629629	10092	4879	 Sir Charles Baskerville wh	 Sir Charles Baskerville ha
+doyle_baskervilles_11_u	26	0.9615384615384616	10303	547	 Sir Charles Baskerville, 	 Sir Charles Baskerville a
+doyle_baskervilles_11_u	26	0.9615384615384616	10303	3088	 Sir Charles Baskerville, 	 Sir Charles Baskerville a
+doyle_baskervilles_11_u	26	0.9615384615384616	10303	3214	 Sir Charles Baskerville, 	 Sir Charles Baskerville t
+doyle_baskervilles_11_u	26	0.9615384615384616	10303	4879	 Sir Charles Baskerville, 	 Sir Charles Baskerville h
+doyle_baskervilles_11_u	20	0.95	10496	9341	 Baskerville Hall fo	 Baskerville Hall if
+doyle_baskervilles_11_u	25	0.96	11190	23079	 Baskerville Hall, and it	 Baskerville Hall, and th
+doyle_baskervilles_11_u	27	0.9629629629629629	12755	547	 Sir Charles Baskerville wa	 Sir Charles Baskerville an
+doyle_baskervilles_11_u	27	0.9629629629629629	12755	3088	 Sir Charles Baskerville wa	 Sir Charles Baskerville an
+doyle_baskervilles_11_u	25	1.0	12755	3214	 Sir Charles Baskerville 	 Sir Charles Baskerville 
+doyle_baskervilles_11_u	27	0.9629629629629629	12755	4879	 Sir Charles Baskerville wa	 Sir Charles Baskerville ha
+doyle_baskervilles_11_u	22	0.9545454545454546	12865	23076	 of Baskerville Hall. 	 of Baskerville Hall, 
+doyle_baskervilles_11_u	20	0.95	13548	4874	 that Sir Charles ha	 that Sir Charles Ba
+doyle_baskervilles_11_u	20	0.95	13548	7607	 that Sir Charles ha	 that Sir Charles sh
+doyle_baskervilles_11_u	20	0.95	13548	7922	 that Sir Charles ha	 that Sir Charles sh
+doyle_baskervilles_11_u	20	1.0	15088	18279	 it might have been 	 it might have been 
+doyle_baskervilles_11_u	24	1.0	15253	547	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_11_u	24	1.0	15253	3088	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_11_u	24	1.0	15253	3214	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_11_u	24	1.0	15253	4879	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_11_u	24	1.0	15567	547	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_11_u	24	1.0	15567	3088	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_11_u	24	1.0	15567	3214	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_11_u	24	1.0	15567	4879	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_11_u	20	1.0	16499	23079	 Baskerville Hall, a	 Baskerville Hall, a
+doyle_baskervilles_11_u	26	0.9615384615384616	16986	547	 Sir Charles Baskerville. 	 Sir Charles Baskerville a
+doyle_baskervilles_11_u	26	0.9615384615384616	16986	3088	 Sir Charles Baskerville. 	 Sir Charles Baskerville a
+doyle_baskervilles_11_u	26	0.9615384615384616	16986	3214	 Sir Charles Baskerville. 	 Sir Charles Baskerville t
+doyle_baskervilles_11_u	26	0.9615384615384616	16986	4879	 Sir Charles Baskerville. 	 Sir Charles Baskerville h
+doyle_baskervilles_11_u	22	1.0	17738	14147	 nothing would induce 	 nothing would induce 
+doyle_baskervilles_11_u	20	1.0	17740	18207	othing would induce 	othing would induce 
+doyle_baskervilles_11_u	21	0.9523809523809523	19422	4874	 that Sir Charles was	 that Sir Charles Bas
+doyle_baskervilles_11_u	23	1.0	19902	5277	 of Sir Charles’s death	 of Sir Charles’s death
+doyle_baskervilles_11_u	20	0.95	20063	9341	 Baskerville Hall wi	 Baskerville Hall if
+doyle_baskervilles_11_u	22	0.9545454545454546	20493	21945	 which had not been to	 which had not been ob
+doyle_adventures_11_d	20	0.95	1573	33218	 I understand that i	 I understand that y
+doyle_adventures_11_d	24	0.9583333333333334	1838	32329	. With your permission I	. With your permission, 
+doyle_adventures_11_d	22	0.9545454545454546	10961	11473	 large sums of money i	 large sums of money. 
+doyle_adventures_11_d	22	1.0	13179	40742	 was in the habit of s	 was in the habit of s
+doyle_adventures_11_d	20	0.95	14908	31252	 which has been so s	 which has been so u
+doyle_adventures_11_d	23	0.9565217391304348	15613	39019	 said Sherlock Holmes, 	 said Sherlock Holmes r
+doyle_adventures_11_d	20	1.0	18703	45248	 which I took to be 	 which I took to be 
+doyle_adventures_11_d	20	1.0	19306	45045	 at the time that th	 at the time that th
+doyle_adventures_11_d	23	0.9565217391304348	19316	45570	me that the matter was 	me that the latter was 
+doyle_adventures_11_d	21	1.0	20684	12253	 that I could hardly 	 that I could hardly 
+doyle_scarlet_9_d	20	1.0	3823	8877	 brought her to the 	 brought her to the 
+doyle_scarlet_9_d	21	1.0	17013	2730	ith the exception of 	ith the exception of 

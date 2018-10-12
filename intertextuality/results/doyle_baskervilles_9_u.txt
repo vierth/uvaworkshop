@@ -1,0 +1,570 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_2_d	25	0.96	2269	8452	 was more than I could be	 was more than I could de
+doyle_scarlet_2_d	23	1.0	2299	9427	 had an interview with 	 had an interview with 
+doyle_scarlet_2_d	21	0.9523809523809523	17813	19290	 into the room, and a	 into the room and ha
+doyle_scarlet_2_d	20	1.0	24669	19405	e thought of this wh	e thought of this wh
+doyle_scarlet_2_d	22	0.9545454545454546	30793	18705	 down the other side, 	 down the other side o
+doyle_scarlet_12_d	20	0.95	5431	18872	 had to return to yo	 had to return to wo
+doyle_scarlet_12_d	20	0.95	7135	8818	 there was nothing m	 there was nothing e
+doyle_scarlet_12_d	21	0.9523809523809523	17192	15135	 the precaution of le	 the precaution of ne
+doyle_scarlet_12_d	20	0.95	18033	13497	r and astonishment a	r and astonishment, 
+doyle_scarlet_12_d	20	0.95	19349	3253	k of the trees and t	k of the trees, and 
+doyle_scarlet_12_d	21	0.9523809523809523	21831	2057	 to think that the wo	 to think that they w
+doyle_scarlet_12_d	21	1.0	27078	7445	 the direction of the	 the direction of the
+doyle_scarlet_12_d	20	0.95	29147	2278	 the middle of the m	 the middle of the s
+doyle_scarlet_12_d	20	0.95	32273	12491	e might have been th	e might have been ch
+doyle_signoffour_2_d	22	1.0	1433	1467	 I can hardly imagine 	 I can hardly imagine 
+doyle_signoffour_2_d	23	1.0	1903	2859	 that he had gone out t	 that he had gone out t
+doyle_signoffour_2_d	20	0.95	6081	8529	 a quarter of a mile	 a quarter of a mill
+doyle_signoffour_2_d	20	0.95	17557	7619	ing at the window, c	ing at the window, I
+doyle_signoffour_2_d	20	1.0	31963	8314	. I assure you that 	. I assure you that 
+doyle_baskervilles_7_u	20	0.95	1787	2983	 have something to s	 have something to r
+doyle_baskervilles_7_u	20	0.95	3424	2404	 Sir Charles, and wi	 Sir Charles, and we
+doyle_baskervilles_7_u	20	0.95	4117	2450	 the circumstances e	 the circumstances w
+doyle_baskervilles_7_u	20	0.95	4943	24034	 since I have been o	 since I have been h
+doyle_baskervilles_7_u	20	0.95	5651	22838	 I set off at once i	 I set off at once u
+doyle_baskervilles_7_u	24	0.9583333333333334	5682	16413	tion of Merripit House. 	tion of Merripit House, 
+doyle_baskervilles_7_u	20	0.95	6151	25630	 Miss Stapleton. It 	 Miss Stapleton. If 
+doyle_baskervilles_7_u	26	1.0	7180	9374	 friend, Sir Henry, and th	 friend, Sir Henry, and th
+doyle_baskervilles_7_u	26	0.9615384615384616	7763	18440	 it seemed to me that she 	 it seemed to me that the 
+doyle_baskervilles_7_u	24	0.9583333333333334	8209	18440	 it seemed to me that St	 it seemed to me that th
+doyle_baskervilles_7_u	20	0.95	8532	23105	 by the side of her 	 by the side of the 
+doyle_baskervilles_7_u	20	1.0	9399	17597	 eyes blazed at me, 	 eyes blazed at me, 
+doyle_baskervilles_7_u	20	1.0	13947	1207	 that it was really 	 that it was really 
+doyle_baskervilles_7_u	21	1.0	20565	17090	 were it not for the 	 were it not for the 
+doyle_baskervilles_7_u	21	0.9523809523809523	21263	10360	 that I could not tel	 that I could not hel
+doyle_baskervilles_7_u	25	0.96	21542	2504	. Was it possible that th	. Was it possible that it
+doyle_baskervilles_7_u	23	0.9565217391304348	23215	22701	 intense earnestness wh	 intense earnestness th
+doyle_baskervilles_7_u	21	0.9523809523809523	23398	18103	 what I have said. Go	 what I have said. Wo
+doyle_baskervilles_7_u	21	0.9523809523809523	25168	8232	 for an instant, but 	 for an instant but a
+doyle_baskervilles_7_u	20	0.95	25168	15897	 for an instant, but	 for an instant, bou
+doyle_baskervilles_7_u	21	0.9523809523809523	25560	652	” said the baronet, “	” said the baronet. “
+doyle_baskervilles_7_u	23	1.0	25829	11581	 the great Grimpen Mire	 the great Grimpen Mire
+doyle_baskervilles_7_u	26	0.9615384615384616	25829	12538	 the great Grimpen Mire. I	 the great Grimpen Mire.” 
+doyle_baskervilles_7_u	21	0.9523809523809523	25833	24130	 great Grimpen Mire. 	 great Grimpen Mire, 
+doyle_baskervilles_7_u	21	0.9523809523809523	26386	652	” said the baronet, “	” said the baronet. “
+doyle_baskervilles_7_u	20	0.95	26808	14587	 is the cry of the H	 is the cry of the l
+doyle_baskervilles_7_u	24	1.0	26828	13746	ound of the Baskervilles	ound of the Baskervilles
+doyle_baskervilles_7_u	22	1.0	26830	22484	nd of the Baskervilles	nd of the Baskervilles
+doyle_baskervilles_7_u	25	0.96	27010	13464	 to say whence it came.” 	 to say whence it came. F
+doyle_baskervilles_7_u	26	0.9615384615384616	27095	11581	 the great Grimpen Mire?” 	 the great Grimpen Mire,” 
+doyle_baskervilles_7_u	27	0.9629629629629629	27095	12538	 the great Grimpen Mire?” “	 the great Grimpen Mire.” “
+doyle_baskervilles_7_u	20	0.95	27099	24130	 great Grimpen Mire?	 great Grimpen Mire,
+doyle_baskervilles_7_u	20	0.95	27343	21418	d that it might be t	d that it might be a
+doyle_baskervilles_7_u	20	0.95	27474	2508	s it possible that I	s it possible that i
+doyle_baskervilles_7_u	20	0.95	27536	14104	 You don’t believe i	 You don’t believe s
+doyle_baskervilles_7_u	21	0.9523809523809523	27583	825	.” “And yet it was on	.” “And yet it was no
+doyle_baskervilles_7_u	22	0.9545454545454546	28317	7387	e upon the moor.” We s	e upon the moor.” He s
+doyle_baskervilles_7_u	21	0.9523809523809523	28484	25769	 There is nothing so 	 There is nothing to 
+doyle_baskervilles_7_u	25	0.96	28961	204	 of Baskerville Hall. A b	 of Baskerville Hall. As 
+doyle_baskervilles_7_u	20	0.95	29707	2611	 might well have bel	 might well have bee
+doyle_baskervilles_7_u	22	0.9545454545454546	30064	4338	 that Barrymore had so	 that Barrymore had no
+doyle_baskervilles_7_u	20	1.0	31921	7126	o not think that it 	o not think that it 
+doyle_baskervilles_7_u	20	1.0	31963	13160	. I assure you that 	. I assure you that 
+doyle_signoffour_10_d	20	0.95	10242	1388	Is there anything th	Is there anything to
+doyle_signoffour_10_d	20	1.0	17855	13818	 sprang up from the 	 sprang up from the 
+doyle_signoffour_10_d	20	0.95	21886	3702	 that he could do wh	 that he could do wi
+doyle_signoffour_10_d	27	0.9629629629629629	25883	13221	 the silence of the night, 	 the silence of the night w
+doyle_signoffour_10_d	21	0.9523809523809523	30149	12685	 may have had some ot	 may have had some do
+doyle_signoffour_10_d	27	0.9629629629629629	30388	15617	. At the same moment the co	. At the same moment the wo
+doyle_signoffour_10_d	30	1.0	30528	15529	. I caught one glimpse of his 	. I caught one glimpse of his 
+doyle_signoffour_10_d	21	1.0	30636	15617	. At the same moment 	. At the same moment 
+doyle_baskervilles_5_u	23	1.0	2903	15702	 would do exactly what 	 would do exactly what 
+doyle_baskervilles_5_u	20	0.95	8326	8231	 refused to accept t	 refused to accept a
+doyle_baskervilles_5_u	42	0.9523809523809523	9002	2099	. His face was flushed with anger and his 	. His face was flushed with anger, and he 
+doyle_baskervilles_5_u	20	1.0	9169	2865	ou don’t mean to say	ou don’t mean to say
+doyle_baskervilles_5_u	23	1.0	10629	17925	e. I tell you, Watson, 	e. I tell you, Watson, 
+doyle_baskervilles_5_u	22	1.0	17424	203	, and he was entirely 	, and he was entirely 
+doyle_baskervilles_5_u	21	0.9523809523809523	18908	18302	 I give you my word, 	 I give you my word t
+doyle_baskervilles_5_u	20	0.95	21546	9501	s it possible that t	s it possible that y
+doyle_baskervilles_5_u	21	1.0	23321	3314	 word of it.” “Well, 	 word of it.” “Well, 
+doyle_baskervilles_5_u	20	1.0	26832	8895	 of the Baskervilles	 of the Baskervilles
+doyle_baskervilles_5_u	20	1.0	27473	9500	Is it possible that 	Is it possible that 
+doyle_baskervilles_5_u	21	0.9523809523809523	28483	12950	. There is nothing so	. There is nothing mo
+doyle_baskervilles_5_u	20	0.95	28964	4721	 Baskerville Hall. A	 Baskerville Hall.” 
+doyle_baskervilles_5_u	20	0.95	28964	5782	 Baskerville Hall. A	 Baskerville Hall. W
+doyle_signoffour_12_d	20	1.0	1166	51519	 from all the other 	 from all the other 
+doyle_signoffour_12_d	20	0.95	7135	10830	 there was nothing m	 there was nothing b
+doyle_signoffour_12_d	20	0.95	7762	32684	t it seemed to me th	t it seemed to me to
+doyle_signoffour_12_d	20	1.0	7765	47921	t seemed to me that 	t seemed to me that 
+doyle_signoffour_12_d	20	0.95	8208	32684	t it seemed to me th	t it seemed to me to
+doyle_signoffour_12_d	20	1.0	8211	47921	t seemed to me that 	t seemed to me that 
+doyle_signoffour_12_d	27	0.9629629629629629	8728	48738	 the way that he had come, 	 the way that he had come. 
+doyle_signoffour_12_d	26	0.9615384615384616	16955	27907	, and the light of the can	, and the light of the lan
+doyle_signoffour_12_d	21	1.0	16994	44326	 in the darkness and 	 in the darkness and 
+doyle_signoffour_12_d	21	0.9523809523809523	18908	15058	 I give you my word, 	 I give you my word t
+doyle_signoffour_12_d	20	0.95	19293	14355	ness of the night. V	ness of the night. F
+doyle_signoffour_12_d	20	0.95	21327	10647	 you will see that i	 you will see that w
+doyle_signoffour_12_d	20	0.95	23044	10647	 you will see that i	 you will see that w
+doyle_signoffour_12_d	22	0.9545454545454546	24665	25453	n the thought of this 	n the thought of his t
+doyle_signoffour_12_d	20	0.95	25814	7821	 the borders of the 	 the border of the N
+doyle_signoffour_12_d	20	0.95	28483	49560	. There is nothing s	. There is nothing a
+doyle_signoffour_12_d	22	0.9545454545454546	29088	21893	. It was strange to se	. It was strange to me
+doyle_signoffour_12_d	25	0.96	29143	12469	e in the middle of the mo	e in the middle of the fo
+doyle_signoffour_12_d	21	0.9523809523809523	30210	13486	 well, but I could re	 well, but I could ge
+doyle_signoffour_12_d	20	0.95	31119	46017	 soon found that we 	 soon found that he 
+doyle_signoffour_12_d	20	0.95	31365	12952	 the space between u	 the space between w
+doyle_signoffour_12_d	20	0.95	31977	29949	 that I have never i	 that I have never b
+doyle_signoffour_12_d	20	1.0	32801	27378	t was some distance 	t was some distance 
+doyle_signoffour_12_d	22	0.9545454545454546	33134	26693	, no doubt,” said he. 	, no doubt," said he. 
+doyle_adventures_2_d	20	0.95	2758	16616	 should be able to s	 should be able to l
+doyle_adventures_2_d	26	0.9615384615384616	3242	32268	 it was evident that he ha	 it was evident that he sa
+doyle_adventures_2_d	20	1.0	4993	28190	 I am sure that you 	 I am sure that you 
+doyle_adventures_2_d	22	1.0	5668	41684	e in the direction of 	e in the direction of 
+doyle_adventures_2_d	23	0.9565217391304348	6302	122	 in deep conversation, 	 in deep conversation w
+doyle_adventures_2_d	22	0.9545454545454546	7050	28190	 I am sure that you wi	 I am sure that you in
+doyle_adventures_2_d	24	1.0	7130	6016	 that there was nothing 	 that there was nothing 
+doyle_adventures_2_d	20	0.95	7135	46393	 there was nothing m	 there was nothing i
+doyle_adventures_2_d	23	1.0	7762	12179	t it seemed to me that 	t it seemed to me that 
+doyle_adventures_2_d	27	1.0	8183	13336	t I could not imagine, but 	t I could not imagine, but 
+doyle_adventures_2_d	22	0.9545454545454546	8184	18403	 I could not imagine, 	 I could not imagine. 
+doyle_adventures_2_d	21	1.0	8210	12181	it seemed to me that 	it seemed to me that 
+doyle_adventures_2_d	21	1.0	8703	27320	hen he walked slowly 	hen he walked slowly 
+doyle_adventures_2_d	27	1.0	8822	13336	t I could not imagine, but 	t I could not imagine, but 
+doyle_adventures_2_d	22	0.9545454545454546	8823	18403	 I could not imagine, 	 I could not imagine. 
+doyle_adventures_2_d	21	0.9523809523809523	11241	16966	, and that she would 	, and that he would s
+doyle_adventures_2_d	26	0.9615384615384616	16307	13262	e given it up in despair w	e given it up in despair; 
+doyle_adventures_2_d	20	0.95	17813	304	 into the room, and 	 into the room and c
+doyle_adventures_2_d	20	0.95	19086	22488	e, and I took the ca	e, and I took the ad
+doyle_adventures_2_d	24	0.9583333333333334	19568	42005	 in the centre of the bl	 in the centre of the li
+doyle_adventures_2_d	23	0.9565217391304348	20483	33167	 standing at the door. 	 standing at the door, 
+doyle_adventures_2_d	20	1.0	21339	12195	e that if there was 	e that if there was 
+doyle_adventures_2_d	20	0.95	21881	16966	, and that he could 	, and that he would 
+doyle_adventures_2_d	22	1.0	27078	41688	 the direction of the 	 the direction of the 
+doyle_adventures_2_d	22	1.0	28943	41684	e in the direction of 	e in the direction of 
+doyle_adventures_2_d	20	0.95	29147	20447	 the middle of the m	 the middle of the p
+doyle_adventures_2_d	24	1.0	30596	38142	 he sprang to his feet a	 he sprang to his feet a
+doyle_adventures_2_d	20	0.95	31977	2551	 that I have never i	 that I have ever li
+doyle_baskervilles_14_u	25	0.96	5804	17742	 to the point where the m	 to the point where they 
+doyle_baskervilles_14_u	20	0.95	7188	9990	 Sir Henry, and the 	 Sir Henry and the d
+doyle_baskervilles_14_u	22	0.9545454545454546	13157	1094	r conversation was tha	r conversation was ham
+doyle_baskervilles_14_u	22	1.0	16453	3822	 heard the creak of a 	 heard the creak of a 
+doyle_baskervilles_14_u	20	1.0	16882	3086	 tiptoed down the pa	 tiptoed down the pa
+doyle_baskervilles_14_u	20	0.95	17720	3530	n, but the baronet i	n, but the baronet l
+doyle_baskervilles_14_u	21	1.0	19284	21583	 the darkness of the 	 the darkness of the 
+doyle_baskervilles_14_u	22	0.9545454545454546	19665	15463	 is nothing--nothing a	 is nothing--nothing! 
+doyle_baskervilles_14_u	28	0.9642857142857143	25826	20029	 of the great Grimpen Mire. 	 of the great Grimpen Mire, 
+doyle_baskervilles_14_u	20	1.0	25883	7284	 the silence of the 	 the silence of the 
+doyle_baskervilles_14_u	23	0.9565217391304348	26144	21575	 through the darkness. 	 through the darkness o
+doyle_baskervilles_14_u	28	1.0	26824	3	he Hound of the Baskervilles	he Hound of the Baskervilles
+doyle_baskervilles_14_u	26	1.0	27092	20029	 of the great Grimpen Mire	 of the great Grimpen Mire
+doyle_baskervilles_14_u	26	1.0	27679	21583	 the darkness of the moor 	 the darkness of the moor 
+doyle_baskervilles_14_u	20	0.95	28743	1383	 knew that we were i	 knew that we were d
+doyle_baskervilles_14_u	20	0.95	28964	16909	 Baskerville Hall. A	 Baskerville Hall. T
+doyle_baskervilles_14_u	22	1.0	29906	21575	 through the darkness 	 through the darkness 
+doyle_baskervilles_14_u	20	0.95	31197	9496	e in the moonlight u	e in the moonlight, 
+doyle_baskervilles_10_u	21	0.9523809523809523	429	10347	 I am much mistaken, 	 I am much mistaken i
+doyle_baskervilles_10_u	21	0.9523809523809523	7188	4190	 Sir Henry, and the l	 Sir Henry, and they 
+doyle_baskervilles_10_u	20	0.95	13322	6591	,” said Sir Henry; “	,” said Sir Henry. “
+doyle_baskervilles_10_u	21	1.0	16594	4436	 opened his door and 	 opened his door and 
+doyle_baskervilles_10_u	20	1.0	17666	12216	 two nights before. 	 two nights before. 
+doyle_baskervilles_10_u	20	0.95	18411	6590	e,” said Sir Henry s	e,” said Sir Henry. 
+doyle_baskervilles_10_u	21	0.9523809523809523	19087	15421	, and I took the cand	, and I took the chan
+doyle_baskervilles_10_u	21	0.9523809523809523	19919	17269	 out yonder, and what	 out yonder, and watc
+doyle_baskervilles_10_u	21	0.9523809523809523	20875	17330	 What does it mean?” 	 What does it mean? I
+doyle_baskervilles_10_u	20	0.95	20924	13584	ing on the moor. We 	ing on the moor. He 
+doyle_baskervilles_10_u	21	0.9523809523809523	21295	9697	. But now you have he	. But now you have be
+doyle_baskervilles_10_u	20	1.0	23741	6591	,” said Sir Henry. “	,” said Sir Henry. “
+doyle_baskervilles_10_u	22	1.0	25559	5125	,” said the baronet, “	,” said the baronet, “
+doyle_baskervilles_10_u	22	1.0	26385	5125	,” said the baronet, “	,” said the baronet, “
+doyle_baskervilles_10_u	20	1.0	28645	2860	 it might have been 	 it might have been 
+doyle_baskervilles_10_u	22	0.9545454545454546	28961	11955	 of Baskerville Hall. 	 of Baskerville Hall r
+doyle_baskervilles_10_u	20	0.95	29158	751	 of the moor, with n	 of the moor, with t
+doyle_baskervilles_10_u	20	1.0	29387	5485	 get a glimpse of hi	 get a glimpse of hi
+doyle_baskervilles_10_u	22	0.9545454545454546	30733	803	 of the hill, and ther	 of the hills, and the
+doyle_baskervilles_10_u	20	0.95	31280	787	s upon the side of a	s upon the sides of 
+doyle_baskervilles_10_u	21	1.0	32274	2863	 might have been the 	 might have been the 
+doyle_baskervilles_10_u	20	0.95	33273	7055	t I should like to h	t I should like to d
+doyle_adventures_6_d	20	0.95	817	16985	 the room in which B	 the room in which M
+doyle_adventures_6_d	24	0.9583333333333334	7074	38518	 agree with me that the 	 agree with me that he n
+doyle_adventures_6_d	21	0.9523809523809523	7272	5055	 their conversation, 	 their conversation c
+doyle_adventures_6_d	20	0.95	7773	34288	 to me that she was 	 to me that he was n
+doyle_adventures_6_d	20	0.95	10633	21447	 tell you, Watson, I	 tell you, Watson, t
+doyle_adventures_6_d	21	1.0	10944	2175	 the first time that 	 the first time that 
+doyle_adventures_6_d	21	0.9523809523809523	11241	14569	, and that she would 	, and that he would b
+doyle_adventures_6_d	20	1.0	13152	5055	 their conversation 	 their conversation 
+doyle_adventures_6_d	20	1.0	16803	4569	 catch a glimpse of 	 catch a glimpse of 
+doyle_adventures_6_d	26	0.9615384615384616	18027	46252	 horror and astonishment a	 horror and astonishment, 
+doyle_adventures_6_d	23	1.0	20198	6326	 be ashamed of yourself	 be ashamed of yourself
+doyle_adventures_6_d	22	1.0	21543	2408	 Was it possible that 	 Was it possible that 
+doyle_adventures_6_d	20	0.95	21881	14569	, and that he could 	, and that he would 
+doyle_adventures_6_d	22	0.9545454545454546	21881	19406	, and that he could do	, and that he could no
+doyle_adventures_6_d	23	0.9565217391304348	22367	19407	 and that we could not 	 and that he could not 
+doyle_adventures_6_d	20	0.95	22804	47125	 the window, and if 	 the window, and it 
+doyle_adventures_6_d	21	0.9523809523809523	23533	47118	 out of the window ag	 out of the window, a
+doyle_adventures_6_d	23	1.0	26144	9042	 through the darkness. 	 through the darkness. 
+doyle_adventures_6_d	20	0.95	27474	2411	s it possible that I	s it possible that w
+doyle_adventures_6_d	20	0.95	28486	30525	here is nothing so d	here is nothing so i
+doyle_adventures_6_d	20	1.0	28645	32962	 it might have been 	 it might have been 
+doyle_adventures_6_d	23	0.9565217391304348	29906	9042	 through the darkness l	 through the darkness. 
+doyle_adventures_6_d	22	0.9545454545454546	30046	31622	. It may have been tha	. It may have been tak
+doyle_adventures_6_d	20	0.95	32460	32981	 a cry of surprise I	 a cry of surprise. 
+doyle_adventures_6_d	20	0.95	32460	46359	 a cry of surprise I	 a cry of surprise, 
+doyle_adventures_6_d	20	0.95	32486	9000	ed him out to the ba	ed him out to the ca
+doyle_signoffour_8_d	21	0.9523809523809523	5042	11651	 who would wish to be	 who would wish to se
+doyle_signoffour_8_d	25	1.0	13659	17048	e. They have always been 	e. They have always been 
+doyle_signoffour_8_d	20	0.95	13696	106	d according to his a	d according to his l
+doyle_signoffour_8_d	21	0.9523809523809523	22926	7221	e, but as long as he 	e, but as long as the
+doyle_signoffour_8_d	21	0.9523809523809523	32376	792	 the place where the 	 the place where he h
+doyle_signoffour_8_d	21	1.0	32376	964	 the place where the 	 the place where the 
+doyle_scarlet_8_d	20	0.95	15164	7584	 tear-stained face o	 tear-stained face. 
+doyle_scarlet_8_d	20	1.0	22096	10608	nk lower and lower u	nk lower and lower u
+doyle_scarlet_8_d	20	0.95	23632	10868	es. Far away in the 	es. Far away on the 
+doyle_scarlet_8_d	20	0.95	27821	7384	 together. I don’t t	 together. It don’t 
+doyle_scarlet_8_d	20	0.95	27975	6075	ou’ll be all right t	ou’ll be all right. 
+doyle_scarlet_8_d	21	0.9523809523809523	29718	2613	 have belonged to one	 have belonged to oxe
+doyle_scarlet_8_d	27	1.0	32273	2949	e might have been the very 	e might have been the very 
+doyle_adventures_10_d	27	1.0	3361	10740	 in communication with the 	 in communication with the 
+doyle_adventures_10_d	21	0.9523809523809523	3881	2253	 not be wanting if th	 not be wanting in th
+doyle_adventures_10_d	21	0.9523809523809523	4686	37887	 that I should not le	 that I should not be
+doyle_adventures_10_d	22	1.0	7763	25693	 it seemed to me that 	 it seemed to me that 
+doyle_adventures_10_d	22	1.0	8209	25693	 it seemed to me that 	 it seemed to me that 
+doyle_adventures_10_d	26	0.9615384615384616	15771	29915	 upon the stairs. It was a	 upon the stairs." It was 
+doyle_adventures_10_d	20	0.95	17805	19039	e walked into the ro	e walked into the br
+doyle_adventures_10_d	21	0.9523809523809523	21304	38460	 you have heard it, a	 you have heard it al
+doyle_adventures_10_d	20	1.0	23533	36546	 out of the window a	 out of the window a
+doyle_adventures_10_d	20	0.95	28647	42022	t might have been wi	t might have been di
+doyle_adventures_10_d	21	0.9523809523809523	32400	10639	ter had disappeared. 	ter had disappeared, 
+doyle_adventures_10_d	20	1.0	33236	40020	 explanation may be 	 explanation may be 
+doyle_adventures_10_d	20	0.95	33274	37559	 I should like to ha	 I should like to va
+doyle_baskervilles_1_u	20	0.95	857	277	 the night before. T	 the night before. I
+doyle_baskervilles_1_u	27	1.0	1428	1718	 that I can hardly imagine 	 that I can hardly imagine 
+doyle_baskervilles_1_u	20	1.0	3248	1822	s evident that he ha	s evident that he ha
+doyle_baskervilles_1_u	20	1.0	3592	1817	 it is evident that 	 it is evident that 
+doyle_baskervilles_1_u	21	0.9523809523809523	4836	8132	e. “My dear fellow,” 	e. “My dear fellow, h
+doyle_baskervilles_1_u	20	0.95	16149	11378	 interest which the 	 interest which he t
+doyle_baskervilles_1_u	20	0.95	19612	8042	 the window. “There 	 the window. There w
+doyle_baskervilles_1_u	20	0.95	31365	7795	 the space between u	 the space between t
+doyle_baskervilles_1_u	20	0.95	32754	4280	 in that direction a	 in that direction. 
+doyle_adventures_12_d	29	1.0	421	4983	, unless I am much mistaken, 	, unless I am much mistaken, 
+doyle_adventures_12_d	20	0.95	430	17122	I am much mistaken, 	I am much mistaken i
+doyle_adventures_12_d	25	0.96	731	18383	 breakfast on the morning	 breakfast in the morning
+doyle_adventures_12_d	21	0.9523809523809523	894	43380	 through which he had	 through which she ha
+doyle_adventures_12_d	20	0.95	1500	33738	 struck me that it w	 struck me that it m
+doyle_adventures_12_d	22	0.9545454545454546	2346	26965	 after breakfast, and 	 after breakfast and w
+doyle_adventures_12_d	20	0.95	4117	15929	 the circumstances e	 the circumstances y
+doyle_adventures_12_d	20	0.95	4943	26463	 since I have been o	 since I have been w
+doyle_adventures_12_d	20	1.0	4993	33960	 I am sure that you 	 I am sure that you 
+doyle_adventures_12_d	23	1.0	4994	44576	I am sure that you are 	I am sure that you are 
+doyle_adventures_12_d	20	1.0	5941	35533	 from which I could 	 from which I could 
+doyle_adventures_12_d	26	0.9615384615384616	6569	6324	d as to what I should do n	d as to what I should do. 
+doyle_adventures_12_d	22	1.0	7049	33959	t I am sure that you w	t I am sure that you w
+doyle_adventures_12_d	20	0.95	7051	44576	I am sure that you w	I am sure that you a
+doyle_adventures_12_d	21	0.9523809523809523	7272	24250	 their conversation, 	 their conversation I
+doyle_adventures_12_d	20	1.0	7765	9101	t seemed to me that 	t seemed to me that 
+doyle_adventures_12_d	20	1.0	8211	9101	t seemed to me that 	t seemed to me that 
+doyle_adventures_12_d	30	0.9666666666666667	12388	41738	 tell me what it all means, Wa	 tell me what it all means, an
+doyle_adventures_12_d	20	1.0	13152	24250	 their conversation 	 their conversation 
+doyle_adventures_12_d	26	1.0	13395	41474	 this morning, but I must 	 this morning, but I must 
+doyle_adventures_12_d	22	1.0	14396	15570	e. But in any case it 	e. But in any case it 
+doyle_adventures_12_d	22	1.0	14831	4084	 have touched bottom a	 have touched bottom a
+doyle_adventures_12_d	21	1.0	15119	52043	 the mystery of the s	 the mystery of the s
+doyle_adventures_12_d	22	0.9545454545454546	15688	32544	clock in the morning, 	clock in the morning. 
+doyle_adventures_12_d	20	0.95	15771	47102	 upon the stairs. It	 upon the stair. I t
+doyle_adventures_12_d	21	0.9523809523809523	16888	39050	ed down the passage. 	ed down the passage, 
+doyle_adventures_12_d	22	0.9545454545454546	18673	7408	 his hands together li	 his hands together in
+doyle_adventures_12_d	20	0.95	20461	24144	 than her husband, w	 than her husband, n
+doyle_adventures_12_d	21	0.9523809523809523	21263	11880	 that I could not tel	 that I could not hel
+doyle_adventures_12_d	21	0.9523809523809523	21549	15285	t possible that this 	t possible that his w
+doyle_adventures_12_d	21	1.0	22800	28788	t in the window, and 	t in the window, and 
+doyle_adventures_12_d	28	0.9642857142857143	23339	3770	l, I cannot blame you for st	l, I cannot blame you, for t
+doyle_adventures_12_d	20	0.95	23468	49328	 about this matter i	 about this matter t
+doyle_adventures_12_d	20	0.95	26780	8132	e the question. “The	e the question. The 
+doyle_adventures_12_d	20	1.0	28645	33753	 it might have been 	 it might have been 
+doyle_adventures_12_d	30	1.0	29410	47196	 The words were hardly out of 	 The words were hardly out of 
+doyle_adventures_12_d	20	1.0	31963	16123	. I assure you that 	. I assure you that 
+doyle_adventures_12_d	20	1.0	31963	27161	. I assure you that 	. I assure you that 
+doyle_adventures_12_d	20	0.95	31964	34377	 I assure you that I	 I assure you that t
+doyle_adventures_12_d	22	1.0	33608	1450	 that I have done you 	 that I have done you 
+doyle_baskervilles_3_u	21	1.0	4730	2891	 that you should not 	 that you should not 
+doyle_baskervilles_3_u	24	1.0	6570	4993	 as to what I should do 	 as to what I should do 
+doyle_baskervilles_3_u	20	0.95	12938	10055	s were set at rest b	s were set at rest, 
+doyle_baskervilles_3_u	20	0.95	16960	9968	 the light of the ca	 the light of the la
+doyle_baskervilles_3_u	23	0.9565217391304348	26832	6016	 of the Baskervilles.” 	 of the Baskervilles. I
+doyle_baskervilles_3_u	20	1.0	31963	4016	. I assure you that 	. I assure you that 
+doyle_baskervilles_3_u	22	1.0	34324	13745	 in the course of the 	 in the course of the 
+doyle_baskervilles_12_u	20	0.95	55	22074	 Baskerville Hall, O	 Baskerville Hall, l
+doyle_baskervilles_12_u	20	1.0	2197	2902	 the responsibility 	 the responsibility 
+doyle_baskervilles_12_u	22	0.9545454545454546	2306	8781	 interview with the ba	 interview with the la
+doyle_baskervilles_12_u	20	0.95	4686	5318	 that I should not l	 that I should not h
+doyle_baskervilles_12_u	20	1.0	4753	14133	 alone upon the moor	 alone upon the moor
+doyle_baskervilles_12_u	20	1.0	5010	19138	ou are the last man 	ou are the last man 
+doyle_baskervilles_12_u	21	1.0	5669	15373	 in the direction of 	 in the direction of 
+doyle_baskervilles_12_u	29	0.9655172413793104	6206	6435	 understanding between them a	 understanding between them. 
+doyle_baskervilles_12_u	26	0.9615384615384616	7505	11395	 among the broken ground. 	 among the broken ground i
+doyle_baskervilles_12_u	20	0.95	7552	7367	 his butterfly-net. 	 his butterfly-net, 
+doyle_baskervilles_12_u	20	1.0	13947	5278	 that it was really 	 that it was really 
+doyle_baskervilles_12_u	20	0.95	15145	2087	n the night, of the 	n the night of the c
+doyle_baskervilles_12_u	20	1.0	16858	12735	 shoulders rounded a	 shoulders rounded a
+doyle_baskervilles_12_u	29	0.9655172413793104	16960	16782	 the light of the candle fram	 the light of the candle from
+doyle_baskervilles_12_u	21	0.9523809523809523	17899	19399	 of his breath and st	 of his breath and th
+doyle_baskervilles_12_u	20	0.95	19279	10533	 into the darkness o	 into the darkness. 
+doyle_baskervilles_12_u	20	0.95	19279	10943	 into the darkness o	 into the darkness. 
+doyle_baskervilles_12_u	21	1.0	20875	10355	 What does it mean?” 	 What does it mean?” 
+doyle_baskervilles_12_u	23	0.9565217391304348	21162	16839	Selden, the criminal.” 	Selden, the criminal. T
+doyle_baskervilles_12_u	20	0.95	24453	6873	e could do no harm. 	e could do no harm t
+doyle_baskervilles_12_u	20	0.95	24967	7728	ed through the dark 	ed through the darkn
+doyle_baskervilles_12_u	24	0.9583333333333334	25253	19191	e out on the moor a thin	e out on the moor at thi
+doyle_baskervilles_12_u	20	1.0	25883	10237	 the silence of the 	 the silence of the 
+doyle_baskervilles_12_u	53	1.0	26115	13694	 and his face glimmered white through the darkness. “	 and his face glimmered white through the darkness. “
+doyle_baskervilles_12_u	23	0.9565217391304348	27760	1373	 the footprint of the h	 the footprints of the 
+doyle_baskervilles_12_u	23	0.9565217391304348	28312	18140	 loose upon the moor.” 	 loose upon the moor. S
+doyle_baskervilles_12_u	21	1.0	28944	15373	 in the direction of 	 in the direction of 
+doyle_baskervilles_12_u	22	1.0	29906	7730	 through the darkness 	 through the darkness 
+doyle_baskervilles_12_u	23	0.9565217391304348	29906	13723	 through the darkness l	 through the darkness. 
+doyle_baskervilles_12_u	20	0.95	30604	10391	ng to his feet and t	ng to his feet, and 
+doyle_baskervilles_12_u	26	1.0	34044	8817	 the situation very much. 	 the situation very much. 
+doyle_baskervilles_12_u	21	0.9523809523809523	34203	21404	 some light upon this	 some light upon thos
+doyle_adventures_4_d	20	0.95	501	47956	 which I could not h	 which I could not g
+doyle_adventures_4_d	20	0.95	1337	596	 have been looking o	 have been looking a
+doyle_adventures_4_d	23	1.0	2269	49361	 was more than I could 	 was more than I could 
+doyle_adventures_4_d	26	0.9615384615384616	4111	10667	 under the circumstances e	 under the circumstances, 
+doyle_adventures_4_d	21	1.0	5669	12688	 in the direction of 	 in the direction of 
+doyle_adventures_4_d	22	0.9545454545454546	6081	4521	 a quarter of a mile o	 a quarter of a mile, 
+doyle_adventures_4_d	24	1.0	7130	19148	 that there was nothing 	 that there was nothing 
+doyle_adventures_4_d	22	0.9545454545454546	8184	9224	 I could not imagine, 	 I could not imagine a
+doyle_adventures_4_d	22	0.9545454545454546	8823	9224	 I could not imagine, 	 I could not imagine a
+doyle_adventures_4_d	20	1.0	9361	5137	 that had occurred. 	 that had occurred. 
+doyle_adventures_4_d	20	0.95	12638	38568	 in his favour, and 	 in his favour and y
+doyle_adventures_4_d	27	0.9629629629629629	13697	38644	 according to his account h	 according to his account, 
+doyle_adventures_4_d	23	0.9565217391304348	18711	44633	 the last extremity of 	 the last extremity to 
+doyle_adventures_4_d	21	0.9523809523809523	18908	43688	 I give you my word, 	 I give you my word t
+doyle_adventures_4_d	22	1.0	19350	33360	 of the trees and the 	 of the trees and the 
+doyle_adventures_4_d	20	1.0	21817	35783	 until he came to th	 until he came to th
+doyle_adventures_4_d	20	0.95	25814	5555	 the borders of the 	 the border of the w
+doyle_adventures_4_d	22	1.0	27078	12691	 the direction of the 	 the direction of the 
+doyle_adventures_4_d	21	1.0	28944	12688	 in the direction of 	 in the direction of 
+doyle_adventures_4_d	20	1.0	31186	44963	 a long time in the 	 a long time in the 
+doyle_adventures_4_d	20	1.0	31921	18712	o not think that it 	o not think that it 
+doyle_baskervilles_4_u	23	0.9565217391304348	3244	14096	t was evident that he h	t was evident that the 
+doyle_baskervilles_4_u	20	0.95	4543	13116	on the moor,” said I	on the moor,” said D
+doyle_baskervilles_4_u	20	0.95	5198	17677	 made up my mind he 	 made up my mind whe
+doyle_baskervilles_4_u	21	1.0	5669	15436	 in the direction of 	 in the direction of 
+doyle_baskervilles_4_u	20	0.95	6310	19195	 conversation, and I	 conversation, and D
+doyle_baskervilles_4_u	20	0.95	7212	16120	 had halted on the p	 had halted on the o
+doyle_baskervilles_4_u	20	0.95	14194	6222	 was that he should 	 was that we should 
+doyle_baskervilles_4_u	24	0.9583333333333334	18442	12852	 have made up our minds 	 have made up your mind 
+doyle_baskervilles_4_u	24	0.9583333333333334	18671	3879	ng his hands together li	ng his hands together wi
+doyle_baskervilles_4_u	20	0.95	21327	8623	 you will see that i	 you will see that b
+doyle_baskervilles_4_u	20	0.95	23044	8623	 you will see that i	 you will see that b
+doyle_baskervilles_4_u	21	0.9523809523809523	23739	6323	es,” said Sir Henry. 	es,” said Sir Henry B
+doyle_baskervilles_4_u	22	0.9545454545454546	25558	11851	n,” said the baronet, 	n,” said the baronet w
+doyle_baskervilles_4_u	22	0.9545454545454546	26384	11851	n,” said the baronet, 	n,” said the baronet w
+doyle_baskervilles_4_u	20	1.0	26832	14131	 of the Baskervilles	 of the Baskervilles
+doyle_baskervilles_4_u	20	0.95	27078	16039	 the direction of th	 the direction of hi
+doyle_baskervilles_4_u	21	1.0	28944	15436	 in the direction of 	 in the direction of 
+doyle_baskervilles_4_u	20	1.0	29967	14976	 heard the steps of 	 heard the steps of 
+doyle_baskervilles_4_u	23	1.0	33274	14368	 I should like to have 	 I should like to have 
+doyle_baskervilles_15_u	20	0.95	2758	15333	 should be able to s	 should be able to d
+doyle_baskervilles_15_u	24	0.9583333333333334	4714	16660	, and especially that yo	, and especially that on
+doyle_baskervilles_15_u	20	0.95	6156	15717	 Stapleton. It was c	 Stapleton. It was e
+doyle_baskervilles_15_u	20	0.95	7188	19983	 Sir Henry, and the 	 Sir Henry, and he h
+doyle_baskervilles_15_u	23	1.0	9628	20028	 the whole countryside 	 the whole countryside 
+doyle_baskervilles_15_u	20	0.95	9651	18977	seems to have been o	seems to have been c
+doyle_baskervilles_15_u	25	1.0	10940	19772	 for the first time that 	 for the first time that 
+doyle_baskervilles_15_u	20	0.95	11242	19362	 and that she would 	 and that he would s
+doyle_baskervilles_15_u	20	0.95	12972	18958	 Stapleton himself t	 Stapleton himself s
+doyle_baskervilles_15_u	20	0.95	12992	1307	hat very afternoon. 	hat very afternoon, 
+doyle_baskervilles_15_u	20	0.95	13232	14015	 at Merripit House n	 at Merripit House, 
+doyle_baskervilles_15_u	20	1.0	14194	18321	 was that he should 	 was that he should 
+doyle_baskervilles_15_u	20	0.95	21137	16911	he escaped convict, 	he escaped convict a
+doyle_baskervilles_15_u	28	1.0	26824	22371	he Hound of the Baskervilles	he Hound of the Baskervilles
+doyle_baskervilles_15_u	28	1.0	28955	2488	ection of Baskerville Hall. 	ection of Baskerville Hall. 
+doyle_baskervilles_15_u	20	0.95	34019	1009	, and that has clear	, and that his clear
+doyle_adventures_3_d	22	0.9545454545454546	195	2708	 acknowledge that I am	 acknowledge that I ha
+doyle_adventures_3_d	20	0.95	429	4244	 I am much mistaken,	 I am much mistaken.
+doyle_adventures_3_d	20	0.95	2886	16352	I believe that he wo	I believe that he fo
+doyle_adventures_3_d	21	1.0	3242	31622	 it was evident that 	 it was evident that 
+doyle_adventures_3_d	22	0.9545454545454546	4840	22	My dear fellow,” said 	My dear fellow," said 
+doyle_adventures_3_d	23	0.9565217391304348	6212	4302	standing between them a	standing between the pa
+doyle_adventures_3_d	22	1.0	6708	32927	 never for an instant 	 never for an instant 
+doyle_adventures_3_d	20	0.95	7130	7482	 that there was noth	 that there was no h
+doyle_adventures_3_d	20	0.95	8186	15531	 could not imagine, 	 could not imagine w
+doyle_adventures_3_d	20	0.95	8825	15531	 could not imagine, 	 could not imagine w
+doyle_adventures_3_d	20	0.95	9063	31000	, like one who is at	, like one who is ut
+doyle_adventures_3_d	21	0.9523809523809523	11241	16082	, and that she would 	, and that he would c
+doyle_adventures_3_d	23	0.9565217391304348	11517	35258	, but before she could 	, but before he could g
+doyle_adventures_3_d	20	0.95	12634	14202	 all in his favour, 	 all in his favour f
+doyle_adventures_3_d	20	0.95	13929	15600	 with his own eyes t	 with his own eyes. 
+doyle_adventures_3_d	20	0.95	18033	6301	r and astonishment a	r and astonishment u
+doyle_adventures_3_d	24	0.9583333333333334	19568	2826	 in the centre of the bl	 in the centre of the li
+doyle_adventures_3_d	21	0.9523809523809523	21263	2922	 that I could not tel	 that I could not hel
+doyle_adventures_3_d	20	0.95	21881	16082	, and that he could 	, and that he would 
+doyle_adventures_3_d	20	0.95	22072	35602	rom crime to crime h	rom crime to crime u
+doyle_adventures_3_d	20	0.95	26873	18889	 silent for a few mo	 silent for a few mi
+doyle_adventures_3_d	22	1.0	26942	12867	 seemed to come from m	 seemed to come from m
+doyle_adventures_3_d	20	0.95	28486	1332	here is nothing so d	here is nothing so u
+doyle_adventures_3_d	25	0.96	29425	26844	 hardly out of my mouth w	 hardly out of my mouth, 
+doyle_adventures_1_d	21	1.0	103	22292	 I was compelled to l	 I was compelled to l
+doyle_adventures_1_d	20	0.95	4189	27539	 a very unexpected r	 a very unexpected t
+doyle_adventures_1_d	20	0.95	7135	21602	 there was nothing m	 there was nothing r
+doyle_adventures_1_d	20	0.95	7623	11314	 he appeared to be m	 he appeared to be a
+doyle_adventures_1_d	20	0.95	8138	26209	t in front of the lo	t in front of the al
+doyle_adventures_1_d	22	0.9545454545454546	15688	19186	clock in the morning, 	clock in the morning. 
+doyle_adventures_1_d	23	0.9565217391304348	17806	20203	 walked into the room, 	 walked into the room. 
+doyle_adventures_1_d	20	0.95	19609	35299	 by the window. “The	 by the window. The 
+doyle_adventures_1_d	20	0.95	21840	431	 that the world was 	 that the world has 
+doyle_adventures_1_d	20	0.95	23533	9656	 out of the window a	 out of the window. 
+doyle_adventures_1_d	20	0.95	32594	9460	here was the sharp p	here was the sharp s
+doyle_adventures_1_d	21	0.9523809523809523	33274	18967	 I should like to hav	 I should like to cha
+doyle_signoffour_11_d	23	0.9565217391304348	7765	855	t seemed to me that she	t seemed to me that the
+doyle_signoffour_11_d	22	0.9545454545454546	8211	855	t seemed to me that St	t seemed to me that th
+doyle_signoffour_11_d	20	1.0	9509	2197	 would have thought 	 would have thought 
+doyle_signoffour_11_d	22	1.0	11313	8426	 since I had seen her 	 since I had seen her 
+doyle_signoffour_11_d	21	0.9523809523809523	18908	1205	 I give you my word, 	 I give you my word o
+doyle_signoffour_11_d	20	0.95	27343	7184	d that it might be t	d that it might be y
+doyle_baskervilles_6_u	20	0.95	55	4614	 Baskerville Hall, O	 Baskerville Hall, w
+doyle_baskervilles_6_u	20	0.95	3424	15500	 Sir Charles, and wi	 Sir Charles, and hi
+doyle_baskervilles_6_u	20	0.95	4714	542	, and especially tha	, and especially the
+doyle_baskervilles_6_u	20	0.95	6442	18664	 listened intently, 	 listened intently. 
+doyle_baskervilles_6_u	21	1.0	8772	13885	 the very picture of 	 the very picture of 
+doyle_baskervilles_6_u	21	0.9523809523809523	13322	13856	,” said Sir Henry; “I	,” said Sir Henry. “I
+doyle_baskervilles_6_u	22	0.9545454545454546	13322	17376	,” said Sir Henry; “I 	,” said Sir Henry. “I 
+doyle_baskervilles_6_u	20	0.95	15753	18846	 the chiming clock u	 the chiming clock a
+doyle_baskervilles_6_u	20	0.95	18411	17375	e,” said Sir Henry s	e,” said Sir Henry. 
+doyle_baskervilles_6_u	24	0.9583333333333334	19379	9460	 expanse of the moor, fo	 expanse of the moor, mo
+doyle_baskervilles_6_u	20	1.0	23533	3932	 out of the window a	 out of the window a
+doyle_baskervilles_6_u	23	0.9565217391304348	23741	13856	,” said Sir Henry. “It 	,” said Sir Henry. “Is 
+doyle_baskervilles_6_u	23	0.9565217391304348	23741	17376	,” said Sir Henry. “It 	,” said Sir Henry. “I s
+doyle_baskervilles_6_u	23	1.0	25038	18864	 and the rustle of the 	 and the rustle of the 
+doyle_baskervilles_6_u	20	0.95	25551	301	, Watson,” said the 	, Watson,” said he; 
+doyle_baskervilles_6_u	20	0.95	25652	3334	 the power of evil i	 the powers of evil 
+doyle_baskervilles_6_u	24	0.9583333333333334	26832	8059	 of the Baskervilles.” H	 of the Baskervilles. “H
+doyle_baskervilles_6_u	23	0.9565217391304348	26832	10970	 of the Baskervilles.” 	 of the Baskervilles. T
+doyle_baskervilles_6_u	20	0.95	28317	1126	e upon the moor.” We	e upon the moor.” “W
+doyle_baskervilles_6_u	20	0.95	28964	15648	 Baskerville Hall. A	 Baskerville Hall.” 
+doyle_baskervilles_6_u	24	1.0	30678	17904	 moon broke through the 	 moon broke through the 
+doyle_baskervilles_6_u	20	0.95	33442	2368	s that we have not a	s that we have not b
+doyle_baskervilles_2_u	20	0.95	55	11190	 Baskerville Hall, O	 Baskerville Hall, a
+doyle_baskervilles_2_u	20	0.95	55	16499	 Baskerville Hall, O	 Baskerville Hall, a
+doyle_baskervilles_2_u	20	1.0	103	18810	 I was compelled to 	 I was compelled to 
+doyle_baskervilles_2_u	21	0.9523809523809523	347	20820	 Barrymore at the win	 Barrymore at the inq
+doyle_baskervilles_2_u	23	1.0	1036	13509	 on to the moor. There 	 on to the moor. There 
+doyle_baskervilles_2_u	20	0.95	6054	13973	 was on the moor pat	 was on the moor at 
+doyle_baskervilles_2_u	20	0.95	8121	18302	ed with excitement i	ed with excitement. 
+doyle_baskervilles_2_u	24	1.0	9628	11400	 the whole countryside s	 the whole countryside s
+doyle_baskervilles_2_u	28	1.0	16795	18666	 time to catch a glimpse of 	 time to catch a glimpse of 
+doyle_baskervilles_2_u	20	1.0	21953	3679	 wicked companions, 	 wicked companions, 
+doyle_baskervilles_2_u	20	0.95	25652	9379	 the power of evil i	 the powers of evil 
+doyle_baskervilles_2_u	33	1.0	26819	2141	 of the Hound of the Baskervilles	 of the Hound of the Baskervilles
+doyle_baskervilles_2_u	22	0.9545454545454546	28645	15088	 it might have been wi	 it might have been di
+doyle_baskervilles_2_u	22	1.0	28961	12865	 of Baskerville Hall. 	 of Baskerville Hall. 
+doyle_baskervilles_2_u	20	0.95	28964	15138	 Baskerville Hall. A	 Baskerville Hall. I
+doyle_baskervilles_2_u	20	0.95	34324	13153	 in the course of th	 in the course of wh
+doyle_adventures_5_d	20	0.95	157	25348	 the early days of m	 the early days of o
+doyle_adventures_5_d	22	1.0	894	4009	 through which he had 	 through which he had 
+doyle_adventures_5_d	23	0.9565217391304348	1774	23089	ory seemed to have some	ory seemed to have come
+doyle_adventures_5_d	25	0.96	1903	12888	 that he had gone out to 	 that he had gone out of 
+doyle_adventures_5_d	21	1.0	1988	32343	 in the morning, and 	 in the morning, and 
+doyle_adventures_5_d	20	0.95	2758	24520	 should be able to s	 should be able to a
+doyle_adventures_5_d	20	0.95	2758	24875	 should be able to s	 should be able to u
+doyle_adventures_5_d	20	0.95	2886	32031	I believe that he wo	I believe that the o
+doyle_adventures_5_d	24	0.9583333333333334	4923	5591	 which have happened sin	 which have happened in 
+doyle_adventures_5_d	21	0.9523809523809523	7135	13922	 there was nothing mo	 there was nothing of
+doyle_adventures_5_d	30	0.9666666666666667	7763	16326	 it seemed to me that she was 	 it seemed to me that he was f
+doyle_adventures_5_d	22	1.0	8209	16326	 it seemed to me that 	 it seemed to me that 
+doyle_adventures_5_d	21	0.9523809523809523	10408	12880	e myself that he has 	e myself that he had 
+doyle_adventures_5_d	21	1.0	13619	16298	 glad that he should 	 glad that he should 
+doyle_adventures_5_d	24	0.9583333333333334	16472	3550	 a step in the passage. 	 a step in the passage a
+doyle_adventures_5_d	21	0.9523809523809523	20489	3583	ing at the door. Her 	ing at the door. He s
+doyle_adventures_5_d	23	1.0	23249	21636	 conviction with them. 	 conviction with them. 
+doyle_adventures_5_d	21	0.9523809523809523	28483	32126	. There is nothing so	. There is nothing mo
+doyle_baskervilles_13_u	23	0.9565217391304348	853	14049	n on the night before. 	n on the night before t
+doyle_baskervilles_13_u	23	1.0	3206	10792	 rubbed his hands with 	 rubbed his hands with 
+doyle_baskervilles_13_u	20	0.95	4117	15859	 the circumstances e	 the circumstances w
+doyle_baskervilles_13_u	20	0.95	5772	9311	thing of Sir Henry, 	thing of Sir Henry a
+doyle_baskervilles_13_u	20	0.95	7137	14292	here was nothing mor	here was nothing for
+doyle_baskervilles_13_u	22	0.9545454545454546	12664	1074	 nothing against him u	 nothing against him. 
+doyle_baskervilles_13_u	20	0.95	15093	5294	 out of the tangled 	 out of the tangle? 
+doyle_baskervilles_13_u	23	0.9565217391304348	15693	10631	 in the morning, but no	 in the morning, but Ho
+doyle_baskervilles_13_u	20	0.95	17335	3785	ble that he should f	ble that he should k
+doyle_baskervilles_13_u	20	0.95	22975	8061	t him. That is the w	t him. That is the c
+doyle_baskervilles_13_u	22	0.9545454545454546	25559	4294	,” said the baronet, “	,” said the baronet. “
+doyle_baskervilles_13_u	22	0.9545454545454546	25559	11490	,” said the baronet, “	,” said the baronet. “
+doyle_baskervilles_13_u	22	0.9545454545454546	25559	12982	,” said the baronet, “	,” said the baronet. “
+doyle_baskervilles_13_u	22	0.9545454545454546	26385	4294	,” said the baronet, “	,” said the baronet. “
+doyle_baskervilles_13_u	22	0.9545454545454546	26385	11490	,” said the baronet, “	,” said the baronet. “
+doyle_baskervilles_13_u	22	0.9545454545454546	26385	12982	,” said the baronet, “	,” said the baronet. “
+doyle_baskervilles_13_u	33	0.9696969696969697	26822	8135	 the Hound of the Baskervilles.” 	 the Hound of the Baskervilles. W
+doyle_baskervilles_13_u	20	1.0	28645	6467	 it might have been 	 it might have been 
+doyle_baskervilles_13_u	20	0.95	32274	6470	 might have been the	 might have been tha
+doyle_signoffour_9_d	21	0.9523809523809523	2303	18779	 an interview with th	 an interview with hi
+doyle_signoffour_9_d	20	0.95	10241	18843	 Is there anything t	 Is there anything e
+doyle_signoffour_9_d	20	0.95	17640	118	 exactly as I had se	 exactly as I had le
+doyle_signoffour_9_d	21	0.9523809523809523	21549	9843	t possible that this 	t possible that his n
+doyle_signoffour_9_d	20	0.95	23468	18354	 about this matter i	 about this matter f
+doyle_signoffour_9_d	21	0.9523809523809523	29143	11670	e in the middle of th	e in the middle of it
+doyle_adventures_7_d	20	0.95	1428	21201	 that I can hardly i	 that I can hardly s
+doyle_adventures_7_d	22	1.0	3924	21686	 I have seldom seen a 	 I have seldom seen a 
+doyle_adventures_7_d	21	1.0	5669	872	 in the direction of 	 in the direction of 
+doyle_adventures_7_d	22	1.0	7763	36065	 it seemed to me that 	 it seemed to me that 
+doyle_adventures_7_d	24	0.9583333333333334	8209	36065	 it seemed to me that St	 it seemed to me that it
+doyle_adventures_7_d	20	0.95	19279	29959	 into the darkness o	 into the darkness. 
+doyle_adventures_7_d	22	1.0	19568	29175	 in the centre of the 	 in the centre of the 
+doyle_adventures_7_d	20	0.95	19902	34880	 your confederate ou	 your confederate Cu
+doyle_adventures_7_d	20	0.95	21546	7376	s it possible that t	s it possible that e
+doyle_adventures_7_d	21	0.9523809523809523	21960	32373	 companions, and the 	 companion, and the c
+doyle_adventures_7_d	22	1.0	27078	875	 the direction of the 	 the direction of the 
+doyle_adventures_7_d	21	1.0	27472	7374	 Is it possible that 	 Is it possible that 
+doyle_adventures_7_d	21	1.0	27477	41437	t possible that I am 	t possible that I am 
+doyle_adventures_7_d	20	0.95	28645	6183	 it might have been 	 it might have been,
+doyle_adventures_7_d	21	1.0	28944	872	 in the direction of 	 in the direction of 
+doyle_adventures_7_d	22	1.0	29144	39272	 in the middle of the 	 in the middle of the 
+doyle_adventures_7_d	21	1.0	31697	273	 upon the right, and 	 upon the right, and 
+doyle_adventures_7_d	20	0.95	32401	13692	er had disappeared. 	er had disappeared, 
+doyle_baskervilles_11_u	20	0.95	55	23079	 Baskerville Hall, O	 Baskerville Hall, a
+doyle_baskervilles_11_u	22	0.9545454545454546	704	17174	 judge for yourself. B	 judge for yourself.” 
+doyle_baskervilles_11_u	20	0.95	1255	9577	s, therefore, that B	s, therefore, that s
+doyle_baskervilles_11_u	20	1.0	2297	6117	 I had an interview 	 I had an interview 
+doyle_baskervilles_11_u	24	0.9583333333333334	4815	1887	 with a pleasant smile. 	 with a pleasant smile o
+doyle_baskervilles_11_u	21	0.9523809523809523	8591	20877	s showed that the lad	s showed that the pla
+doyle_baskervilles_11_u	22	1.0	9015	5100	s flushed with anger a	s flushed with anger a
+doyle_baskervilles_11_u	20	0.95	9165	14662	. “You don’t mean to	. “You don’t mean th
+doyle_baskervilles_11_u	23	0.9565217391304348	11975	11945	y feelings towards his 	y feelings towards him 
+doyle_baskervilles_11_u	20	0.95	16149	3576	 interest which the 	 interest which he t
+doyle_baskervilles_11_u	23	0.9565217391304348	18815	7575	.” “And why were you ho	.” “And why were you so
+doyle_baskervilles_11_u	20	0.95	18968	6735	 I cannot tell it. I	 I cannot tell it.” 
+doyle_baskervilles_11_u	20	1.0	21406	10131	 the explanation of 	 the explanation of 
+doyle_baskervilles_11_u	25	1.0	25829	23026	 the great Grimpen Mire. 	 the great Grimpen Mire. 
+doyle_baskervilles_11_u	23	1.0	27095	23026	 the great Grimpen Mire	 the great Grimpen Mire
+doyle_baskervilles_11_u	20	1.0	28645	18279	 it might have been 	 it might have been 
+doyle_baskervilles_11_u	22	0.9545454545454546	28961	23076	 of Baskerville Hall. 	 of Baskerville Hall, 
+doyle_baskervilles_11_u	23	0.9565217391304348	29144	19658	 in the middle of the m	 in the middle of them 
+doyle_baskervilles_11_u	20	1.0	29146	21068	n the middle of the 	n the middle of the 
+doyle_baskervilles_11_u	21	1.0	30733	18966	 of the hill, and the	 of the hill, and the
+doyle_baskervilles_11_u	21	1.0	31261	20154	y among the boulders 	y among the boulders 
+doyle_baskervilles_11_u	20	0.95	32754	10256	 in that direction a	 in that direction, 
+doyle_baskervilles_11_u	21	1.0	34338	245	 of the next few days	 of the next few days
+doyle_adventures_11_d	26	0.9615384615384616	731	36061	 breakfast on the morning 	 breakfast in the morning 
+doyle_adventures_11_d	20	0.95	817	23734	 the room in which B	 the room in which h
+doyle_adventures_11_d	20	0.95	857	28479	 the night before. T	 the night before. D
+doyle_adventures_11_d	21	0.9523809523809523	1988	18186	 in the morning, and 	 in the morning and m
+doyle_adventures_11_d	21	1.0	1988	26406	 in the morning, and 	 in the morning, and 
+doyle_adventures_11_d	25	0.96	2269	33679	 was more than I could be	 was more than I could ev
+doyle_adventures_11_d	27	0.9629629629629629	2297	39571	 I had an interview with th	 I had an interview with hi
+doyle_adventures_11_d	20	0.95	4682	4424	sted that I should n	sted that I should s
+doyle_adventures_11_d	27	0.9629629629629629	5753	45199	 without seeing anything of	 without seeing anything mo
+doyle_adventures_11_d	26	1.0	6203	40082	 an understanding between 	 an understanding between 
+doyle_adventures_11_d	20	0.95	9361	49330	 that had occurred. 	 that had occurred, 
+doyle_adventures_11_d	20	1.0	9650	21787	 seems to have been 	 seems to have been 
+doyle_adventures_11_d	21	1.0	15305	10961	 tell me that I have 	 tell me that I have 
+doyle_adventures_11_d	22	1.0	15382	8116	 the confidence which 	 the confidence which 
+doyle_adventures_11_d	20	0.95	16960	42184	 the light of the ca	 the light of the pa
+doyle_adventures_11_d	20	0.95	19571	2498	 the centre of the b	 the centre of the r
+doyle_adventures_11_d	24	0.9583333333333334	20482	25663	s standing at the door. 	s standing at the door a
+doyle_adventures_11_d	20	0.95	21799	19248	 way in everything u	 way in everything. 
+doyle_adventures_11_d	20	0.95	22823	29803	 there was an answer	 there was no answer
+doyle_adventures_11_d	20	0.95	22932	24582	 as long as he was t	 as long as he was d
+doyle_adventures_11_d	22	1.0	27078	841	 the direction of the 	 the direction of the 
+doyle_adventures_11_d	20	0.95	27270	11412	 to speak the truth.	 to speak the truth,
+doyle_adventures_11_d	20	0.95	27343	22631	d that it might be t	d that it might be c
+doyle_adventures_11_d	20	0.95	27477	33499	t possible that I am	t possible that I ma
+doyle_adventures_11_d	23	1.0	28664	31795	 within a few yards of 	 within a few yards of 
+doyle_adventures_11_d	20	1.0	29146	41785	n the middle of the 	n the middle of the 
+doyle_adventures_11_d	20	0.95	31197	43058	e in the moonlight u	e in the moonlight. 
+doyle_adventures_11_d	20	0.95	32273	22164	e might have been th	e might have been tr
+doyle_adventures_11_d	26	1.0	34136	32632	s as inscrutable as ever. 	s as inscrutable as ever. 
+doyle_scarlet_9_d	22	1.0	9509	9087	 would have thought th	 would have thought th
+doyle_scarlet_9_d	22	1.0	19568	1499	 in the centre of the 	 in the centre of the 
+doyle_scarlet_9_d	22	1.0	30387	8753	e. At the same moment 	e. At the same moment 
+doyle_scarlet_9_d	21	1.0	30636	8754	. At the same moment 	. At the same moment 

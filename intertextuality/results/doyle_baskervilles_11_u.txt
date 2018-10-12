@@ -1,0 +1,18 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_11_d	20	0.95	248	9663	 the next few days a	 the next few days I
+doyle_adventures_11_d	21	1.0	1006	44474	 the evening before, 	 the evening before, 
+doyle_adventures_11_d	20	0.95	2208	26272	 were flushed with t	 were flushed with c
+doyle_adventures_11_d	20	1.0	6117	39571	 I had an interview 	 I had an interview 
+doyle_adventures_11_d	20	0.95	7360	22350	 innocent, why did y	 innocent, why did h
+doyle_adventures_11_d	23	0.9565217391304348	8111	40875	I will tell you, then. 	I will tell you, then, 
+doyle_adventures_11_d	20	0.95	12012	48127	 I had heard of his 	 I had heard of him 
+doyle_adventures_11_d	20	0.95	12644	45941	 a hundred yards of 	 a hundred yards or 
+doyle_adventures_11_d	21	0.9523809523809523	12682	31956	. What do you think o	. What do you think, 
+doyle_adventures_11_d	20	0.95	15037	29766	ow do you know that 	ow do you know that?
+doyle_adventures_11_d	21	0.9523809523809523	19660	41785	n the middle of them 	n the middle of the n
+doyle_adventures_11_d	23	1.0	21065	41782	. In the middle of the 	. In the middle of the 
+doyle_adventures_11_d	20	1.0	23967	44793	 showed that he had 	 showed that he had 
+doyle_adventures_11_d	21	0.9523809523809523	24167	26929	 that you will be mor	 that you will be sor
+doyle_scarlet_9_d	21	1.0	2212	6686	e flushed with the ex	e flushed with the ex
+doyle_scarlet_9_d	20	0.95	2294	546	 the heart of the su	 the hearts of the s
+doyle_scarlet_9_d	20	1.0	22295	12486	 in search of them. 	 in search of them. 

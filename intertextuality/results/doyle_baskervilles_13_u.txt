@@ -1,0 +1,43 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_9_d	20	0.95	8754	3444	 gone to his room, t	 gone to his room, s
+doyle_signoffour_9_d	21	0.9523809523809523	11854	11980	ould be very glad to 	ould be very glad of 
+doyle_signoffour_9_d	20	0.95	17057	14282	 Sherlock Holmes shr	 Sherlock Holmes her
+doyle_adventures_7_d	21	1.0	4518	2195	I have no doubt that 	I have no doubt that 
+doyle_adventures_7_d	21	1.0	4518	7483	I have no doubt that 	I have no doubt that 
+doyle_adventures_7_d	21	1.0	6275	1747	 little problem will 	 little problem will 
+doyle_adventures_7_d	20	0.95	6467	6183	 it might have been 	 it might have been,
+doyle_adventures_7_d	20	1.0	7463	15187	 gentleman with the 	 gentleman with the 
+doyle_adventures_7_d	24	1.0	7687	15183	 the gentleman with the 	 the gentleman with the 
+doyle_adventures_7_d	22	0.9545454545454546	11863	18488	ery glad to see you.” 	ery glad to see you. I
+doyle_adventures_7_d	21	0.9523809523809523	15737	63	nd Sherlock Holmes op	nd Sherlock Holmes up
+doyle_adventures_7_d	22	0.9545454545454546	16060	927	 in connection with th	 in connection with it
+doyle_adventures_7_d	23	0.9565217391304348	18522	1406	 said Sherlock Holmes. 	 said Sherlock Holmes, 
+doyle_adventures_7_d	23	0.9565217391304348	19873	1406	 said Sherlock Holmes. 	 said Sherlock Holmes, 
+doyle_adventures_7_d	20	0.95	20420	41671	 most singular and s	 most singular and w
+doyle_baskervilles_11_u	23	0.9565217391304348	1496	5280	 Sir Charles’s death.” 	 Sir Charles’s death?” 
+doyle_baskervilles_11_u	21	0.9523809523809523	1822	4874	 that Sir Charles was	 that Sir Charles Bas
+doyle_baskervilles_11_u	21	1.0	2462	495	hat Mrs. Laura Lyons 	hat Mrs. Laura Lyons 
+doyle_baskervilles_11_u	20	1.0	2967	19988	 as Stapleton would 	 as Stapleton would 
+doyle_baskervilles_11_u	20	0.95	3540	1935	, however, when he f	, however, when she 
+doyle_baskervilles_11_u	20	1.0	6467	18279	 it might have been 	 it might have been 
+doyle_baskervilles_11_u	22	1.0	11987	16914	 there at the present 	 there at the present 
+doyle_baskervilles_11_u	22	0.9545454545454546	14447	515	 of Coombe Tracey and 	 of Coombe Tracey had 
+doyle_baskervilles_11_u	33	1.0	15905	3079	 the late Sir Charles Baskerville	 the late Sir Charles Baskerville
+doyle_baskervilles_11_u	33	1.0	15905	3205	 the late Sir Charles Baskerville	 the late Sir Charles Baskerville
+doyle_baskervilles_11_u	24	1.0	15914	4879	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_11_u	20	0.95	19018	6903	 the appointment?” “	 the appointment.” “
+doyle_baskervilles_11_u	20	0.95	19371	9008	 death in the paper?	 death in the paper 
+doyle_baskervilles_11_u	20	0.95	19447	583	 appointment with Si	 appointment with hi
+doyle_baskervilles_11_u	29	1.0	19447	6793	 appointment with Sir Charles	 appointment with Sir Charles
+doyle_adventures_11_d	20	0.95	3387	41880	 surprised to see Sh	 surprised to see hi
+doyle_adventures_11_d	21	1.0	4518	10912	I have no doubt that 	I have no doubt that 
+doyle_adventures_11_d	21	1.0	4518	15850	I have no doubt that 	I have no doubt that 
+doyle_adventures_11_d	21	1.0	4518	41271	I have no doubt that 	I have no doubt that 
+doyle_adventures_11_d	21	1.0	5549	22490	s. There are several 	s. There are several 
+doyle_adventures_11_d	20	1.0	11376	7842	 mind at rest about 	 mind at rest about 
+doyle_adventures_11_d	20	0.95	11854	29867	ould be very glad to	ould be very glad no
+doyle_adventures_11_d	21	0.9523809523809523	14003	47716	 I remembered that Ho	 I remembered that yo
+doyle_adventures_11_d	20	1.0	15762	41690	 his interview with 	 his interview with 
+doyle_adventures_11_d	23	0.9565217391304348	18522	39019	 said Sherlock Holmes. 	 said Sherlock Holmes r
+doyle_adventures_11_d	20	0.95	19319	31835	 you heard nothing u	 you heard nothing o
+doyle_adventures_11_d	23	0.9565217391304348	19873	39019	 said Sherlock Holmes. 	 said Sherlock Holmes r

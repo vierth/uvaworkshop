@@ -1,0 +1,73 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_11_u	20	0.95	2633	13516	 I have no doubt, ro	 I have no doubt, fo
+doyle_baskervilles_11_u	20	0.95	6183	18279	 it might have been,	 it might have been 
+doyle_baskervilles_11_u	21	1.0	8809	11209	. On the other hand, 	. On the other hand, 
+doyle_baskervilles_11_u	20	0.95	10401	12915	 think that there ca	 think that there ar
+doyle_baskervilles_11_u	23	0.9565217391304348	15046	14578	 much more important an	 much more important ma
+doyle_baskervilles_11_u	23	1.0	17966	15934	 much more likely that 	 much more likely that 
+doyle_baskervilles_11_u	25	0.96	18773	19944	. As I approached the hou	. As I approached the hut
+doyle_baskervilles_11_u	20	0.95	30258	21236	 upon the shoulder. 	 upon the shoulder o
+doyle_baskervilles_11_u	20	0.95	31513	2830	I have the pleasure 	I have the pleasure,
+doyle_baskervilles_11_u	21	0.9523809523809523	32259	1805	 the sitting-room at 	 the sitting-room a l
+doyle_baskervilles_11_u	20	0.95	37388	9848	 I thought of the ag	 I thought of the la
+doyle_baskervilles_11_u	23	0.9565217391304348	39272	19658	 in the middle of the f	 in the middle of them 
+doyle_baskervilles_11_u	20	1.0	39274	21068	n the middle of the 	n the middle of the 
+doyle_baskervilles_11_u	20	0.95	40690	23937	. There was a long s	. There was a long p
+doyle_adventures_11_d	24	1.0	0	0	. THE ADVENTURE OF THE B	. THE ADVENTURE OF THE B
+doyle_adventures_11_d	22	1.0	875	841	 the direction of the 	 the direction of the 
+doyle_adventures_11_d	25	0.96	1404	39017	," said Sherlock Holmes, 	," said Sherlock Holmes r
+doyle_adventures_11_d	22	1.0	2194	10911	 I have no doubt that 	 I have no doubt that 
+doyle_adventures_11_d	24	0.9583333333333334	2194	15849	 I have no doubt that th	 I have no doubt that sh
+doyle_adventures_11_d	24	0.9583333333333334	2194	41270	 I have no doubt that th	 I have no doubt that sh
+doyle_adventures_11_d	21	1.0	2425	16304	 I beg that you will 	 I beg that you will 
+doyle_adventures_11_d	21	1.0	2425	31296	 I beg that you will 	 I beg that you will 
+doyle_adventures_11_d	20	0.95	3439	42473	en the window, and s	en the window, hand 
+doyle_adventures_11_d	20	0.95	3736	7195	 possession of the f	 possessions of the 
+doyle_adventures_11_d	20	0.95	5833	16379	 "On the contrary, W	 "On the contrary, y
+doyle_adventures_11_d	26	1.0	7483	10912	I have no doubt that I am 	I have no doubt that I am 
+doyle_adventures_11_d	21	1.0	7483	15850	I have no doubt that 	I have no doubt that 
+doyle_adventures_11_d	21	1.0	7483	41271	I have no doubt that 	I have no doubt that 
+doyle_adventures_11_d	22	0.9545454545454546	8706	45742	s obvious that he has 	s obvious that he had 
+doyle_adventures_11_d	20	1.0	9194	30216	 examination of the 	 examination of the 
+doyle_adventures_11_d	20	0.95	10889	30680	." Sherlock Holmes h	." Sherlock Holmes t
+doyle_adventures_11_d	22	0.9545454545454546	11076	42005	ed with astonishment. 	ed with astonishment, 
+doyle_adventures_11_d	20	0.95	11425	2498	 the centre of the p	 the centre of the r
+doyle_adventures_11_d	22	1.0	11627	21231	. Sherlock Holmes sat 	. Sherlock Holmes sat 
+doyle_adventures_11_d	20	0.95	11628	39024	 Sherlock Holmes sat	 Sherlock Holmes rat
+doyle_adventures_11_d	25	0.96	12365	30074	d from one to the other o	d from one to the other, 
+doyle_adventures_11_d	20	0.95	13400	49667	 that he had shown H	 that he had shown. 
+doyle_adventures_11_d	24	0.9583333333333334	13888	30659	on the dressing-table. R	on the dressing-table." 
+doyle_adventures_11_d	20	1.0	17831	32826	?" "I cannot tell." 	?" "I cannot tell." 
+doyle_adventures_11_d	23	1.0	19091	249	 from his armchair and 	 from his armchair and 
+doyle_adventures_11_d	20	0.95	19795	34062	 collar turned up, a	 collar turned up, h
+doyle_adventures_11_d	20	1.0	20714	11187	 it would have been 	 it would have been 
+doyle_adventures_11_d	20	1.0	20714	13425	 it would have been 	 it would have been 
+doyle_adventures_11_d	21	1.0	20809	34537	 upon the sideboard, 	 upon the sideboard, 
+doyle_adventures_11_d	21	1.0	21324	32332	ith your permission, 	ith your permission, 
+doyle_adventures_11_d	20	0.95	21412	34537	 upon the sideboard.	 upon the sideboard,
+doyle_adventures_11_d	20	0.95	22383	10684	 way. "So much for M	 way. "So much for t
+doyle_adventures_11_d	22	1.0	24942	44310	e," continued Holmes, 	e," continued Holmes, 
+doyle_adventures_11_d	23	0.9565217391304348	26467	38067	 nothing of the kind." 	 nothing of the kind. I
+doyle_adventures_11_d	22	0.9545454545454546	28032	30681	" Sherlock Holmes look	" Sherlock Holmes took
+doyle_adventures_11_d	28	1.0	28110	38729	 and threw it down upon the 	 and threw it down upon the 
+doyle_adventures_11_d	26	1.0	28156	5777	 with the air of a man who	 with the air of a man who
+doyle_adventures_11_d	25	0.96	28690	38164	 nearing the end of our q	 nearing the end of your 
+doyle_adventures_11_d	20	0.95	29178	2498	 the centre of the c	 the centre of the r
+doyle_adventures_11_d	21	1.0	30455	36189	e. "You will excuse m	e. "You will excuse m
+doyle_adventures_11_d	21	0.9523809523809523	30865	43551	 endeavouring to trac	 endeavouring to stra
+doyle_adventures_11_d	20	0.95	31288	30680	." Sherlock Holmes h	." Sherlock Holmes t
+doyle_adventures_11_d	25	0.96	31955	16222	 to tell you everything w	 to tell you everything, 
+doyle_adventures_11_d	24	0.9583333333333334	32039	30075	 from one to the other o	 from one to the other, 
+doyle_adventures_11_d	21	0.9523809523809523	35976	40872	. "I will tell you it	. "I will tell you, t
+doyle_adventures_11_d	20	0.95	36156	36003	 not know at what mo	 not know at what ho
+doyle_adventures_11_d	20	0.95	37879	49143	, and I knew that sh	, and I knew that so
+doyle_adventures_11_d	20	1.0	39274	41785	n the middle of the 	n the middle of the 
+doyle_adventures_11_d	24	0.9583333333333334	39630	35795	 there was no sign of th	 there was no sign of hi
+doyle_adventures_11_d	20	1.0	39661	49143	, and I knew that so	, and I knew that so
+doyle_adventures_11_d	30	0.9666666666666667	41427	33489	 it is just possible that I am	 it is just possible that I ma
+doyle_scarlet_9_d	24	0.9583333333333334	1467	5771	 little incidents which 	 little incident which h
+doyle_scarlet_9_d	28	0.9642857142857143	3034	9357	e slung over his shoulder. A	e slung over his shoulders. 
+doyle_scarlet_9_d	20	1.0	11424	1501	n the centre of the 	n the centre of the 
+doyle_scarlet_9_d	20	0.95	20717	9118	 would have been of 	 would have been so 
+doyle_scarlet_9_d	24	1.0	29175	1499	 in the centre of the ci	 in the centre of the ci
+doyle_scarlet_9_d	21	1.0	34919	2630	ed that he should be 	ed that he should be 

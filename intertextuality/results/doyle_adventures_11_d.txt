@@ -1,0 +1,4 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_9_d	20	0.95	974	3015	. He was a man of ab	. He was a man of a 
+doyle_scarlet_9_d	20	0.95	2498	1502	 the centre of the r	 the centre of the c
+doyle_scarlet_9_d	20	0.95	39612	11728	 that he would not t	 that he would not f

@@ -1,0 +1,80 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_9_u	21	0.9523809523809523	6798	26915	,” he said at last. “	,” he said at last, “
+doyle_baskervilles_9_u	20	0.95	7748	25689	 in answer to his lo	 in answer to his wo
+doyle_scarlet_12_d	20	0.95	67	7594	 Jefferson Hope and 	 Jefferson Hope had 
+doyle_scarlet_12_d	20	0.95	1639	17058	one knew whither he 	one knew whither the
+doyle_scarlet_12_d	20	0.95	1966	538	 suspended over them	 suspended over thei
+doyle_scarlet_12_d	25	0.96	2640	8515	 the harems of the Elders	 the harem of the Elder’s
+doyle_scarlet_12_d	20	0.95	3187	173	 knowledge of the or	 knowledge of the mo
+doyle_scarlet_12_d	21	1.0	3886	10351	 when he heard the cl	 when he heard the cl
+doyle_scarlet_12_d	26	0.9615384615384616	6952	16349	At the end of that time sh	At the end of that time, h
+doyle_scarlet_12_d	29	1.0	9494	3870	ing in the opposite direction	ing in the opposite direction
+doyle_baskervilles_7_u	20	0.95	7717	10366	I could not help it,	I could not help wit
+doyle_signoffour_10_d	20	0.95	6734	3312	 some little time wi	 some little time, i
+doyle_baskervilles_5_u	20	0.95	6028	9761	, it is impossible t	, it is impossible f
+doyle_signoffour_12_d	22	1.0	1574	15267	ard. The man who held 	ard. The man who held 
+doyle_signoffour_12_d	20	1.0	2307	18402	. Soon, however, it 	. Soon, however, it 
+doyle_signoffour_12_d	20	0.95	3465	19366	 under the name of r	 under the name of A
+doyle_signoffour_12_d	35	1.0	3923	46348	, and, looking through the window, 	, and, looking through the window, 
+doyle_signoffour_12_d	20	0.95	6682	19935	. What say you to th	. What say you to it
+doyle_signoffour_12_d	20	0.95	10000	31552	 that night, and tha	 that night, and the
+doyle_adventures_2_d	20	0.95	7787	40877	 through the house. 	 through the house i
+doyle_adventures_2_d	20	0.95	9046	20566	 about the size of i	 about the size of a
+doyle_baskervilles_14_u	20	0.95	2054	7936	 in the heart of the	 in the heart of tha
+doyle_baskervilles_14_u	23	0.9565217391304348	2054	16052	 in the heart of the wi	 in the heart of the mi
+doyle_baskervilles_14_u	21	1.0	2054	20016	 in the heart of the 	 in the heart of the 
+doyle_baskervilles_14_u	21	1.0	2879	601	 in the darkness. The	 in the darkness. The
+doyle_baskervilles_10_u	23	1.0	5271	3093	It is true that I have 	It is true that I have 
+doyle_adventures_6_d	21	1.0	3937	23921	 through the window, 	 through the window, 
+doyle_adventures_6_d	24	0.9583333333333334	4062	7706	 was none other than the	 was none other than She
+doyle_adventures_6_d	25	1.0	4062	16300	 was none other than the 	 was none other than the 
+doyle_adventures_6_d	28	1.0	7457	5406	 his elbows upon his knees, 	 his elbows upon his knees, 
+doyle_signoffour_8_d	22	0.9545454545454546	9504	655	 opposite direction.” 	 opposite directions. 
+doyle_scarlet_8_d	23	0.9565217391304348	1496	4661	. It appeared to be omn	. It appeared to be som
+doyle_scarlet_8_d	27	1.0	2999	8308	y resolved themselves into 	y resolved themselves into 
+doyle_scarlet_8_d	20	0.95	7114	16397	 John Ferrier,” he t	 John Ferrier,” the 
+doyle_scarlet_8_d	20	0.95	7200	1407	 the Sierra Blanco, 	 the Sierra Blanco. 
+doyle_scarlet_8_d	20	1.0	7200	2179	 the Sierra Blanco, 	 the Sierra Blanco, 
+doyle_scarlet_8_d	23	1.0	7219	19090	 than that you should p	 than that you should p
+doyle_scarlet_8_d	22	1.0	7220	19091	than that you should p	than that you should p
+doyle_scarlet_8_d	30	1.0	9041	7614	hat’s about the size of it.” “	hat’s about the size of it.” “
+doyle_scarlet_8_d	20	0.95	9634	20146	. In the meantime, d	. In the meantime, r
+doyle_adventures_10_d	20	0.95	4293	36683	, and followed him w	, and followed him. 
+doyle_adventures_10_d	20	0.95	9486	14482	 travelling in the o	 travelling in the S
+doyle_adventures_12_d	20	0.95	7018	39070	 through the door, w	 through the door, a
+doyle_baskervilles_12_u	20	0.95	4773	6615	n return for all thi	n return for all tha
+doyle_baskervilles_12_u	20	0.95	8780	7402	 something terrible 	 something terrible-
+doyle_adventures_4_d	20	0.95	1859	10106	t was followed by an	t was followed by a 
+doyle_adventures_4_d	20	0.95	3322	10019	ed in the minds of m	ed in the minds of t
+doyle_adventures_4_d	20	0.95	5345	32434	, and there were man	, and there were mar
+doyle_adventures_4_d	21	1.0	7010	17656	 passing through the 	 passing through the 
+doyle_adventures_4_d	20	0.95	7026	31148	 the door, when he t	 the door, when the 
+doyle_adventures_4_d	21	1.0	8780	24120	 something terrible a	 something terrible a
+doyle_baskervilles_4_u	20	0.95	9100	9608	 as much as we can i	 as much as we can f
+doyle_adventures_3_d	21	0.9523809523809523	3187	37761	 knowledge of the org	 knowledge of the wor
+doyle_adventures_1_d	20	0.95	3465	17944	 under the name of r	 under the name of t
+doyle_adventures_1_d	24	1.0	4329	35089	 into the sitting-room. 	 into the sitting-room. 
+doyle_adventures_1_d	24	0.9583333333333334	4329	39429	 into the sitting-room. 	 into the sitting-room t
+doyle_adventures_1_d	20	0.95	4371	29675	 he said, taking a s	 he said, taking a l
+doyle_adventures_1_d	20	1.0	5271	4397	It is true that I ha	It is true that I ha
+doyle_adventures_1_d	27	0.9629629629629629	6953	12420	t the end of that time she 	t the end of that time the 
+doyle_adventures_1_d	23	0.9565217391304348	8963	12416	s; at the end of that, 	s; at the end of that t
+doyle_adventures_1_d	23	0.9565217391304348	9910	32739	, but she could not hel	, but she could not tel
+doyle_signoffour_11_d	21	0.9523809523809523	3937	2861	 through the window, 	 through the window. 
+doyle_baskervilles_2_u	22	1.0	6730	13575	 for some little time 	 for some little time 
+doyle_adventures_5_d	20	0.95	365	14814	one. He had always d	one. He had always l
+doyle_adventures_5_d	23	1.0	5271	5168	It is true that I have 	It is true that I have 
+doyle_baskervilles_13_u	20	0.95	8443	6913	 I know anything o’ 	 I know anything of 
+doyle_adventures_7_d	20	0.95	6733	13606	r some little time w	r some little time, 
+doyle_adventures_7_d	20	0.95	8445	30668	 know anything o’ th	 know anything of th
+doyle_adventures_7_d	20	0.95	9100	4914	 as much as we can i	 as much as we can d
+doyle_baskervilles_11_u	21	1.0	4062	11609	 was none other than 	 was none other than 
+doyle_baskervilles_11_u	20	0.95	5788	19803	. This must be the g	. This must be the b
+doyle_adventures_11_d	21	0.9523809523809523	3937	41035	 through the window, 	 through the window w
+doyle_adventures_11_d	25	0.96	6751	21281	 with his brows knitted. 	 with his brows knitted a
+doyle_scarlet_9_d	20	0.95	67	12456	 Jefferson Hope and 	 Jefferson Hope had 
+doyle_scarlet_9_d	24	1.0	443	3740	ould ever induce him to 	ould ever induce him to 
+doyle_scarlet_9_d	20	0.95	2056	545	n the heart of the w	n the hearts of the 
+doyle_scarlet_9_d	20	0.95	4369	13099	,” he said, taking a	,” he said, taking h
+doyle_scarlet_9_d	20	0.95	6706	4259	 Ferrier remained si	 Ferrier remained st
+doyle_scarlet_9_d	20	0.95	7114	9417	 John Ferrier,” he t	 John Ferrier,” he r

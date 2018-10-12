@@ -1,0 +1,275 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_scarlet_1_d	20	1.0	784	12918	 thought that I had 	 thought that I had 
+doyle_scarlet_1_d	20	0.95	6503	12325	d Sherlock Holmes, l	d Sherlock Holmes, s
+doyle_scarlet_1_d	20	1.0	9510	5294	, as far as I know, 	, as far as I know, 
+doyle_scarlet_1_d	21	0.9523809523809523	16463	4695	. I should prefer tha	. I should prefer hav
+doyle_baskervilles_8_u	20	0.95	61	13710	 the corner of the m	 the corner of the d
+doyle_baskervilles_8_u	20	1.0	8865	3101	ut I confess that I 	ut I confess that I 
+doyle_adventures_8_d	21	0.9523809523809523	61	44346	 the corner of the ma	 the corner of the ta
+doyle_adventures_8_d	20	0.95	61	47834	 the corner of the m	 the corner of the c
+doyle_adventures_8_d	21	0.9523809523809523	5462	16007	ent," said Holmes, af	ent," said Holmes, "a
+doyle_adventures_8_d	23	0.9565217391304348	5850	5609	 was concerned with a w	 was concerned with an 
+doyle_adventures_8_d	20	0.95	6503	163	d Sherlock Holmes, l	d Sherlock Holmes, I
+doyle_adventures_8_d	20	1.0	6503	21390	d Sherlock Holmes, l	d Sherlock Holmes, l
+doyle_adventures_8_d	30	1.0	10643	31362	ould you have the kindness to 	ould you have the kindness to 
+doyle_adventures_8_d	21	1.0	10684	6029	 an opinion upon the 	 an opinion upon the 
+doyle_adventures_8_d	29	0.9655172413793104	14462	44022	s." I nodded, to show that I 	s." I nodded to show that I h
+doyle_signoffour_6_d	21	0.9523809523809523	3362	3379	," he answered. "I am	," he answered. "I ha
+doyle_signoffour_6_d	24	0.9583333333333334	5895	2959	e features of interest. 	e features of interest a
+doyle_signoffour_6_d	25	1.0	6497	4722	," said Sherlock Holmes, 	," said Sherlock Holmes, 
+doyle_signoffour_6_d	25	1.0	6497	14720	," said Sherlock Holmes, 	," said Sherlock Holmes, 
+doyle_signoffour_6_d	20	0.95	9653	9733	 "Why, of course I k	 "Why, of course I d
+doyle_signoffour_6_d	22	1.0	10489	5013	s of his individuality	s of his individuality
+doyle_signoffour_6_d	22	1.0	10651	3962	 have the kindness to 	 have the kindness to 
+doyle_signoffour_6_d	20	1.0	11386	6062	," I answered. "It w	," I answered. "It w
+doyle_signoffour_6_d	20	0.95	11386	15054	," I answered. "It w	," I answered. "It i
+doyle_signoffour_6_d	21	0.9523809523809523	14973	3749	 he could not have re	 he could not have be
+doyle_scarlet_6_d	25	0.96	6499	14349	 said Sherlock Holmes, li	 said Sherlock Holmes, wi
+doyle_scarlet_6_d	22	0.9545454545454546	8894	6563	 how you arrived at it	 how you arrived at th
+doyle_scarlet_14_d	24	1.0	657	8540	. On the contrary, from 	. On the contrary, from 
+doyle_scarlet_14_d	20	0.95	2696	8540	. On the contrary, h	. On the contrary, f
+doyle_scarlet_14_d	23	1.0	6499	1284	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_scarlet_14_d	20	0.95	9037	1310	ling at my surprise,	ling at my surprise.
+doyle_scarlet_14_d	23	1.0	12998	935	 believe that you have 	 believe that you have 
+doyle_scarlet_4_d	22	0.9545454545454546	3849	4692	 of my methods of work	 of my method of worki
+doyle_scarlet_4_d	20	0.95	4211	4871	 an exact science, a	 an exact science as
+doyle_scarlet_4_d	20	1.0	6662	2274	 of observation and 	 of observation and 
+doyle_scarlet_4_d	20	1.0	7741	2864	 monograph upon the 	 monograph upon the 
+doyle_scarlet_4_d	31	0.967741935483871	8450	2274	 of observation and deduction. 	 of observation and deduction w
+doyle_scarlet_4_d	22	1.0	9154	2272	ts of observation and 	ts of observation and 
+doyle_signoffour_4_d	20	0.95	61	10734	 the corner of the m	 the corner of the t
+doyle_signoffour_4_d	20	0.95	7288	16769	reme importance as a	reme importance has 
+doyle_signoffour_4_d	20	1.0	9380	4758	 in such a way that 	 in such a way that 
+doyle_signoffour_4_d	21	1.0	10518	4757	t in such a way that 	t in such a way that 
+doyle_signoffour_4_d	28	0.9642857142857143	10643	2214	ould you have the kindness t	ould you have the kindness? 
+doyle_signoffour_4_d	21	0.9523809523809523	13996	756	 the lower part of th	 the lower part of hi
+doyle_signoffour_4_d	21	0.9523809523809523	14463	3859	." I nodded, to show 	." I nodded to show m
+doyle_scarlet_10_d	22	0.9545454545454546	257	6732	or some little time hi	or some little time wi
+doyle_baskervilles_9_u	20	0.95	2410	26662	le. Why should you, 	le. Why should you m
+doyle_baskervilles_9_u	21	0.9523809523809523	7385	7481	 by a man who was smo	 by a man who was mov
+doyle_baskervilles_9_u	20	1.0	8737	13394	e this morning, but 	e this morning, but 
+doyle_baskervilles_9_u	33	0.9696969696969697	10243	10263	t would prevent me from taking a 	t would prevent me from making a 
+doyle_baskervilles_9_u	20	0.95	11046	804	 and examined the wo	 and examined the ro
+doyle_scarlet_2_d	24	1.0	1	11896	he Science of Deduction 	he Science of Deduction 
+doyle_scarlet_2_d	34	0.9705882352941176	3225	13990	 I am the only one in the world." 	 I am the only one in the world. I
+doyle_scarlet_2_d	24	0.9583333333333334	3341	14028	 consulting detective," 	 consulting detective, i
+doyle_scarlet_2_d	25	0.96	4438	11414	 proposition of Euclid." 	 propositions of Euclid. 
+doyle_scarlet_2_d	23	0.9565217391304348	6499	18903	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_scarlet_2_d	22	0.9545454545454546	6662	12458	 of observation and th	 of observation, and t
+doyle_scarlet_2_d	21	0.9523809523809523	8450	12458	 of observation and d	 of observation, and 
+doyle_scarlet_2_d	22	0.9545454545454546	9155	12457	s of observation and o	s of observation, and 
+doyle_scarlet_2_d	21	1.0	13005	13108	e that you have read 	e that you have read 
+doyle_scarlet_2_d	20	0.95	13831	15782	 train of thought or	 train of thoughts r
+doyle_scarlet_2_d	26	1.0	15917	18058	What is the use of having 	What is the use of having 
+doyle_scarlet_12_d	20	0.95	1270	12942	hether it was the Be	hether it was the te
+doyle_scarlet_12_d	20	1.0	8183	14930	 in discovering the 	 in discovering the 
+doyle_signoffour_2_d	24	0.9583333333333334	3141	5234	. That is why I have cho	. That is why I have com
+doyle_signoffour_2_d	20	0.95	5302	3894	e time before, and, 	e time before, and l
+doyle_signoffour_2_d	25	0.96	6497	5142	," said Sherlock Holmes, 	," said Sherlock Holmes. 
+doyle_signoffour_2_d	20	0.95	8293	8089	tly. "It is of the g	tly. "It is of the f
+doyle_baskervilles_7_u	20	0.95	3729	10147	 the pleasure of fin	 the pleasure of int
+doyle_baskervilles_7_u	21	1.0	16376	3421	 recollection of the 	 recollection of the 
+doyle_signoffour_10_d	20	0.95	259	3312	 some little time hi	 some little time, i
+doyle_signoffour_10_d	21	1.0	777	685	 at the thought that 	 at the thought that 
+doyle_signoffour_10_d	20	0.95	903	9224	 upon the subject, b	 upon the subject," 
+doyle_signoffour_10_d	36	0.9722222222222222	13567	3379	hat was the balance of probability. 	hat was the balance of probability, 
+doyle_signoffour_10_d	20	0.95	15476	7089	 I should have had m	 I should have had a
+doyle_baskervilles_5_u	20	0.95	61	11310	 the corner of the m	 the corners of the 
+doyle_baskervilles_5_u	23	0.9565217391304348	6499	11451	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_baskervilles_5_u	20	0.95	7067	7256	 hundred and forty f	 hundred and forty t
+doyle_baskervilles_5_u	20	1.0	8685	16677	 that you have been 	 that you have been 
+doyle_baskervilles_5_u	20	1.0	9399	4950	 it is difficult to 	 it is difficult to 
+doyle_baskervilles_5_u	23	0.9565217391304348	11347	1893	 most suggestive facts.	 most suggestive fact.”
+doyle_baskervilles_5_u	20	0.95	14599	17826	 the number of the t	 the number of the c
+doyle_baskervilles_5_u	21	1.0	15806	16108	 down the street and 	 down the street and 
+doyle_signoffour_12_d	24	1.0	4148	51171	 cannot congratulate you	 cannot congratulate you
+doyle_signoffour_12_d	25	0.96	6497	49484	," said Sherlock Holmes, 	," said Sherlock Holmes. 
+doyle_signoffour_12_d	25	1.0	6497	52743	," said Sherlock Holmes, 	," said Sherlock Holmes, 
+doyle_signoffour_12_d	23	0.9565217391304348	8232	41429	 I weary you with my ho	 I weary you with my lo
+doyle_adventures_2_d	20	0.95	24	27175	 Sherlock Holmes too	 Sherlock Holmes sto
+doyle_adventures_2_d	20	0.95	657	23309	. On the contrary, f	. On the contrary, y
+doyle_adventures_2_d	20	0.95	2458	19906	 risk the loss of th	 risk the loss of it
+doyle_adventures_2_d	21	1.0	2499	18012	 which you have been 	 which you have been 
+doyle_adventures_2_d	20	0.95	2696	23309	. On the contrary, h	. On the contrary, y
+doyle_adventures_2_d	27	0.9629629629629629	2721	939	 his finger-tips together a	 his fingertips together, a
+doyle_adventures_2_d	21	0.9523809523809523	3361	25518	e," he answered. "I a	e," he answered. "It 
+doyle_adventures_2_d	20	0.95	3729	35698	 the pleasure of fin	 the pleasure of int
+doyle_adventures_2_d	20	0.95	3923	426	 cordially. "I was n	 cordially. "I was a
+doyle_adventures_2_d	25	1.0	6497	34753	," said Sherlock Holmes, 	," said Sherlock Holmes, 
+doyle_adventures_2_d	20	1.0	7340	4796	, for example, that 	, for example, that 
+doyle_adventures_2_d	34	0.9705882352941176	8304	1359	 of the greatest interest to me, e	 of the greatest interest to me," 
+doyle_adventures_2_d	21	1.0	10684	24899	 an opinion upon the 	 an opinion upon the 
+doyle_adventures_2_d	21	1.0	12805	37752	 that you would have 	 that you would have 
+doyle_adventures_2_d	20	0.95	13126	28403	" "My dear doctor," 	" "My dear doctor, t
+doyle_adventures_2_d	21	0.9523809523809523	13550	22569	 could only say what 	 could only say that 
+doyle_baskervilles_14_u	20	0.95	61	4048	 the corner of the m	 the corner of the o
+doyle_baskervilles_14_u	33	0.9696969696969697	516	15251	 a long sigh of satisfaction. Thr	 a long sigh of satisfaction. “Th
+doyle_baskervilles_14_u	21	1.0	13996	14568	 the lower part of th	 the lower part of th
+doyle_baskervilles_10_u	20	0.95	14973	3465	 he could not have r	 he could not have f
+doyle_adventures_6_d	20	0.95	61	34815	 the corner of the m	 the corner of the c
+doyle_adventures_6_d	20	0.95	9038	7687	ing at my surprise,-	ing at my surprise, 
+doyle_adventures_6_d	21	0.9523809523809523	9542	13677	 in the neighborhood.	 in the neighbourhood
+doyle_adventures_6_d	20	0.95	12993	17398	me to believe that y	me to believe that M
+doyle_adventures_6_d	21	0.9523809523809523	15701	22791	and at the window her	and at the window, he
+doyle_signoffour_8_d	21	0.9523809523809523	24	2094	 Sherlock Holmes took	 Sherlock Holmes look
+doyle_signoffour_8_d	31	0.967741935483871	3871	8051	 in the Jefferson Hope case." "	 in the Jefferson Hope case?" "
+doyle_adventures_10_d	21	0.9523809523809523	528	27069	 of satisfaction. Thr	 of satisfaction. "Th
+doyle_adventures_10_d	20	1.0	2820	9223	 for conversation. "	 for conversation. "
+doyle_adventures_10_d	20	0.95	6054	28229	 the true solution. 	 the true solution o
+doyle_adventures_10_d	20	0.95	6083	2795	he letter which I ha	he letter which I ho
+doyle_adventures_10_d	26	0.9615384615384616	6496	39508	y," said Sherlock Holmes, 	y," said Sherlock Holmes. 
+doyle_adventures_10_d	20	1.0	6867	24459	. "Yes, I have been 	. "Yes, I have been 
+doyle_adventures_10_d	22	0.9545454545454546	9542	25838	 in the neighborhood. 	 in the neighbourhood 
+doyle_adventures_10_d	24	0.9583333333333334	9623	42330	 did you deduce the tele	 did you deduce the sele
+doyle_adventures_10_d	23	0.9565217391304348	9669	5057	 I knew that you had no	 I knew that you had an
+doyle_adventures_10_d	22	0.9545454545454546	10207	27299	" "On the contrary," h	" "On the contrary, th
+doyle_adventures_10_d	21	0.9523809523809523	11227	16196	 and handed it back. 	 and handed it back t
+doyle_adventures_10_d	20	0.95	12020	27795	 the initials are as	 the initials are, s
+doyle_adventures_10_d	26	0.9615384615384616	12216	1494	s, if I remember right, be	s, if I remember right, we
+doyle_adventures_10_d	20	1.0	12806	39062	that you would have 	that you would have 
+doyle_adventures_10_d	22	0.9545454545454546	13342	5059	 knew that you had a b	 knew that you had an 
+doyle_adventures_10_d	24	1.0	15532	22053	. May I ask whether you 	. May I ask whether you 
+doyle_baskervilles_1_u	21	1.0	2499	2296	 which you have been 	 which you have been 
+doyle_baskervilles_1_u	20	1.0	7340	4007	, for example, that 	, for example, that 
+doyle_baskervilles_1_u	31	0.967741935483871	8355	11634	 have had the opportunity of ob	 have had the opportunity of do
+doyle_baskervilles_1_u	22	0.9545454545454546	8865	10843	ut I confess that I do	ut I confess that I co
+doyle_baskervilles_1_u	20	0.95	10433	10619	 have any object in 	 have any objection 
+doyle_baskervilles_1_u	22	0.9545454545454546	11076	3049	 with his naked eyes a	 with his naked eyes. 
+doyle_baskervilles_1_u	23	1.0	12217	7233	, if I remember right, 	, if I remember right, 
+doyle_baskervilles_1_u	21	0.9523809523809523	14973	5368	 he could not have re	 he could not have be
+doyle_adventures_12_d	20	0.95	24	91	 Sherlock Holmes too	 Sherlock Holmes, to
+doyle_adventures_12_d	21	1.0	2499	406	 which you have been 	 which you have been 
+doyle_adventures_12_d	21	1.0	2499	2950	 which you have been 	 which you have been 
+doyle_adventures_12_d	27	0.9629629629629629	2721	5853	 his finger-tips together a	 his finger-tips together, 
+doyle_adventures_12_d	23	0.9565217391304348	3230	41205	 the only one in the wo	 the only one in the ho
+doyle_adventures_12_d	20	0.95	3811	15120	 you have yourself h	 you have yourself f
+doyle_adventures_12_d	20	0.95	4663	43961	 point in the case w	 point in the case i
+doyle_adventures_12_d	24	1.0	4930	1548	ed by the egotism which 	ed by the egotism which 
+doyle_adventures_12_d	25	1.0	6078	14580	 is the letter which I ha	 is the letter which I ha
+doyle_adventures_12_d	20	0.95	6503	90	d Sherlock Holmes, l	d Sherlock Holmes, t
+doyle_adventures_12_d	22	0.9545454545454546	8286	22313	 earnestly. "It is of 	 earnestly. "It is so 
+doyle_adventures_12_d	20	0.95	8687	50862	hat you have been to	hat you have been go
+doyle_adventures_12_d	20	0.95	8738	41474	 this morning, but d	 this morning, but I
+doyle_adventures_12_d	23	1.0	12217	43173	, if I remember right, 	, if I remember right, 
+doyle_adventures_12_d	20	0.95	12693	52821	 with considerable b	 with considerable s
+doyle_adventures_12_d	21	0.9523809523809523	13296	16119	 you. I assure you, h	 you. I assure you th
+doyle_baskervilles_3_u	20	0.95	657	15374	. On the contrary, f	. On the contrary, t
+doyle_baskervilles_3_u	20	0.95	2589	5382	t as a medical man t	t as a medical man b
+doyle_baskervilles_3_u	23	0.9565217391304348	2696	15374	. On the contrary, he p	. On the contrary, the 
+doyle_baskervilles_3_u	21	0.9523809523809523	4841	6709	 work which had been 	 work which has been 
+doyle_baskervilles_3_u	21	0.9523809523809523	8109	2681	 to the scientific de	 to the scientific ex
+doyle_baskervilles_3_u	21	0.9523809523809523	10210	15376	On the contrary," he 	On the contrary, the 
+doyle_baskervilles_3_u	23	1.0	12217	12373	, if I remember right, 	, if I remember right, 
+doyle_baskervilles_12_u	20	0.95	3811	6987	 you have yourself h	 you have yourself o
+doyle_baskervilles_12_u	22	0.9545454545454546	5100	13531	 him in Baker Street I	 him in Baker Street. 
+doyle_baskervilles_12_u	23	0.9565217391304348	9542	1576	 in the neighborhood. S	 in the neighbourhood. 
+doyle_baskervilles_12_u	20	1.0	13408	2984	 how in the name of 	 how in the name of 
+doyle_adventures_4_d	22	1.0	24	39504	 Sherlock Holmes took 	 Sherlock Holmes took 
+doyle_adventures_4_d	21	0.9523809523809523	61	12002	 the corner of the ma	 the corner of the ca
+doyle_adventures_4_d	20	0.95	1878	38193	, Watson," he said. 	, Watson," he said w
+doyle_adventures_4_d	23	0.9565217391304348	5466	50518	" said Holmes, after a 	" said Holmes after a l
+doyle_adventures_4_d	25	0.96	6497	20153	," said Sherlock Holmes, 	," said Sherlock Holmes. 
+doyle_adventures_4_d	20	1.0	6662	9381	 of observation and 	 of observation and 
+doyle_adventures_4_d	20	0.95	7683	7081	e," I remarked. "I a	e," I remarked. "If 
+doyle_adventures_4_d	22	0.9545454545454546	8364	2648	 the opportunity of ob	 the opportunity of lo
+doyle_adventures_4_d	20	1.0	8450	9381	 of observation and 	 of observation and 
+doyle_adventures_4_d	20	1.0	9156	9381	 of observation and 	 of observation and 
+doyle_adventures_4_d	23	1.0	9509	14083	d, as far as I know, no	d, as far as I know, no
+doyle_adventures_4_d	22	0.9545454545454546	9541	7614	e in the neighborhood.	e in the neighbourhood
+doyle_adventures_4_d	24	0.9583333333333334	9541	35263	e in the neighborhood. S	e in the neighbourhood. 
+doyle_adventures_4_d	20	0.95	9671	15167	 knew that you had n	 knew that you had r
+doyle_adventures_4_d	20	1.0	9863	33826	d you go into the po	d you go into the po
+doyle_adventures_4_d	21	1.0	10207	10250	" "On the contrary," 	" "On the contrary," 
+doyle_adventures_4_d	21	1.0	11368	30345	s." "You are right," 	s." "You are right," 
+doyle_adventures_4_d	24	1.0	13337	15162	 even knew that you had 	 even knew that you had 
+doyle_baskervilles_4_u	22	0.9545454545454546	1899	13005	I suppose that its inf	I suppose that fits in
+doyle_baskervilles_4_u	20	0.95	3234	10878	 only one in the wor	 only one in the mor
+doyle_baskervilles_4_u	31	0.967741935483871	3810	1096	t you have yourself had some ex	t you have yourself had some re
+doyle_baskervilles_4_u	23	0.9565217391304348	6499	3006	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_baskervilles_4_u	23	0.9565217391304348	6499	11703	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_baskervilles_4_u	27	1.0	7492	5657	here is as much difference 	here is as much difference 
+doyle_baskervilles_4_u	29	1.0	8355	18872	 have had the opportunity of 	 have had the opportunity of 
+doyle_baskervilles_4_u	20	0.95	10420	14306	 for a man to have a	 for a man to have t
+doyle_baskervilles_4_u	20	1.0	15916	10555	 What is the use of 	 What is the use of 
+doyle_baskervilles_15_u	20	0.95	903	4040	 upon the subject, b	 upon the subject, a
+doyle_baskervilles_15_u	20	0.95	10699	4587	n the character or h	n the character of h
+doyle_baskervilles_15_u	20	0.95	12149	12378	 is most likely to h	 is most likely to e
+doyle_baskervilles_15_u	21	0.9523809523809523	12693	5634	 with considerable bi	 with considerable fi
+doyle_adventures_3_d	36	0.9722222222222222	61	31062	 the corner of the mantel-piece and 	 the corner of the mantelpiece and, 
+doyle_adventures_3_d	20	0.95	2288	33564	 leave a permanent w	 leave a permanent i
+doyle_adventures_3_d	20	0.95	2699	8500	n the contrary, he p	n the contrary, he h
+doyle_adventures_3_d	30	1.0	2721	7083	 his finger-tips together and 	 his finger-tips together and 
+doyle_adventures_3_d	22	1.0	3503	19398	which, by the way, is 	which, by the way, is 
+doyle_adventures_3_d	21	0.9523809523809523	5462	2167	ent," said Holmes, af	ent," said Holmes, ta
+doyle_adventures_3_d	26	0.9615384615384616	5896	4095	 features of interest. I w	 features of interest. It 
+doyle_adventures_3_d	21	0.9523809523809523	5989	22080	, and the other at St	, and the other at th
+doyle_adventures_3_d	25	0.96	6497	36	," said Sherlock Holmes, 	," said Sherlock Holmes a
+doyle_adventures_3_d	21	0.9523809523809523	6503	7060	d Sherlock Holmes, li	d Sherlock Holmes, wi
+doyle_adventures_3_d	20	0.95	6503	26082	d Sherlock Holmes, l	d Sherlock Holmes al
+doyle_adventures_3_d	23	1.0	8682	15762	 me that you have been 	 me that you have been 
+doyle_adventures_3_d	22	1.0	10206	28315	?" "On the contrary," 	?" "On the contrary," 
+doyle_adventures_1_d	20	0.95	61	30224	 the corner of the m	 the corner of the s
+doyle_adventures_1_d	20	0.95	61	36703	 the corner of the m	 the corner of the s
+doyle_adventures_1_d	22	0.9545454545454546	657	31423	. On the contrary, fro	. On the contrary, for
+doyle_adventures_1_d	20	0.95	1874	18810	ight, Watson," he sa	ight, Watson," he ad
+doyle_adventures_1_d	21	1.0	2694	31421	ed. On the contrary, 	ed. On the contrary, 
+doyle_adventures_1_d	20	1.0	7741	15217	 monograph upon the 	 monograph upon the 
+doyle_adventures_1_d	21	1.0	8684	20888	e that you have been 	e that you have been 
+doyle_adventures_1_d	28	1.0	8991	4741	 "It is simplicity itself," 	 "It is simplicity itself," 
+doyle_adventures_1_d	23	0.9565217391304348	9541	22205	e in the neighborhood. 	e in the neighbourhood 
+doyle_adventures_1_d	21	0.9523809523809523	10207	44884	" "On the contrary," 	" "On the contrary, m
+doyle_adventures_1_d	23	0.9565217391304348	11386	23864	," I answered. "It was 	," I answered. "I was s
+doyle_adventures_1_d	21	1.0	13996	11287	 the lower part of th	 the lower part of th
+doyle_adventures_1_d	21	1.0	15806	21841	 down the street and 	 down the street and 
+doyle_signoffour_11_d	35	0.9714285714285714	8304	9282	 of the greatest interest to me, es	 of the greatest interest to me," s
+doyle_signoffour_11_d	23	1.0	11386	9009	," I answered. "It was 	," I answered. "It was 
+doyle_baskervilles_6_u	23	0.9565217391304348	12217	1503	, if I remember right, 	, if I remember right. 
+doyle_baskervilles_2_u	21	1.0	257	13577	or some little time h	or some little time h
+doyle_baskervilles_2_u	35	0.9714285714285714	2717	16062	 put his finger-tips together and l	 put his finger-tips together, and 
+doyle_baskervilles_2_u	22	0.9545454545454546	4841	14903	 work which had been s	 work which has been s
+doyle_baskervilles_2_u	32	0.96875	5891	15696	 some features of interest. I wa	 some features of interest. I ha
+doyle_baskervilles_2_u	23	1.0	6499	15613	 said Sherlock Holmes, 	 said Sherlock Holmes, 
+doyle_baskervilles_2_u	20	1.0	7741	482	 monograph upon the 	 monograph upon the 
+doyle_baskervilles_2_u	23	1.0	8683	324	me that you have been t	me that you have been t
+doyle_adventures_5_d	20	0.95	1878	34569	, Watson," he said. 	, Watson," he said a
+doyle_adventures_5_d	27	0.9629629629629629	2721	24099	 his finger-tips together a	 his finger-tips together. 
+doyle_adventures_5_d	28	0.9642857142857143	2769	24069	on the arms of his chair, li	on the arms of his chair, wi
+doyle_adventures_5_d	20	1.0	3361	3242	e," he answered. "I 	e," he answered. "I 
+doyle_adventures_5_d	20	1.0	5773	25196	 knowledge which is 	 knowledge which is 
+doyle_adventures_5_d	24	1.0	6498	29416	" said Sherlock Holmes, 	" said Sherlock Holmes, 
+doyle_adventures_5_d	24	1.0	7507	28314	 difference between the 	 difference between the 
+doyle_adventures_5_d	20	0.95	8303	1833	s of the greatest in	s of the greatest im
+doyle_adventures_5_d	21	0.9523809523809523	9542	16605	 in the neighborhood.	 in the neighbourhood
+doyle_adventures_5_d	20	0.95	9960	21568	 one which remains m	 one which remains. 
+doyle_adventures_5_d	22	1.0	12077	17921	 the last generation. 	 the last generation. 
+doyle_adventures_5_d	23	1.0	12217	31707	, if I remember right, 	, if I remember right, 
+doyle_adventures_5_d	23	1.0	13502	22914	 in every particular." 	 in every particular." 
+doyle_adventures_5_d	21	1.0	14645	13648	n the inside of the c	n the inside of the c
+doyle_adventures_5_d	20	1.0	14645	36382	n the inside of the 	n the inside of the 
+doyle_baskervilles_13_u	23	0.9565217391304348	6499	18522	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_baskervilles_13_u	23	0.9565217391304348	6499	19873	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_baskervilles_13_u	20	0.95	7646	16408	e an extraordinary g	e an extraordinary o
+doyle_baskervilles_13_u	21	1.0	12805	4533	 that you would have 	 that you would have 
+doyle_signoffour_9_d	20	1.0	656	2744	t. On the contrary, 	t. On the contrary, 
+doyle_signoffour_9_d	23	0.9565217391304348	2696	2745	. On the contrary, he p	. On the contrary, she 
+doyle_signoffour_9_d	21	0.9523809523809523	10210	2747	On the contrary," he 	On the contrary, she 
+doyle_signoffour_9_d	20	0.95	16406	17879	 the young lady to s	 the young lady to w
+doyle_adventures_7_d	21	0.9523809523809523	24	28033	 Sherlock Holmes took	 Sherlock Holmes look
+doyle_adventures_7_d	20	0.95	258	13606	r some little time h	r some little time, 
+doyle_adventures_7_d	26	1.0	6497	1404	," said Sherlock Holmes, l	," said Sherlock Holmes, l
+doyle_adventures_7_d	20	0.95	10208	5833	 "On the contrary," 	 "On the contrary, W
+doyle_adventures_7_d	20	1.0	11300	9106	 has been recently c	 has been recently c
+doyle_adventures_7_d	24	0.9583333333333334	12217	12612	, if I remember right, b	, if I remember aright, 
+doyle_adventures_7_d	20	0.95	12992	26713	 me to believe that 	 me to believe that.
+doyle_adventures_7_d	25	1.0	13578	6329	 balance of probability. 	 balance of probability. 
+doyle_adventures_7_d	21	1.0	13996	9209	 the lower part of th	 the lower part of th
+doyle_baskervilles_11_u	20	0.95	834	6942	 Again and again I h	 Again and again I c
+doyle_baskervilles_11_u	20	1.0	7340	13532	, for example, that 	, for example, that 
+doyle_adventures_11_d	24	0.9583333333333334	24	30682	 Sherlock Holmes took hi	 Sherlock Holmes took it
+doyle_adventures_11_d	21	0.9523809523809523	1390	12291	ation of his manner, 	ation of his manner. 
+doyle_adventures_11_d	25	0.96	6497	39017	," said Sherlock Holmes, 	," said Sherlock Holmes r
+doyle_adventures_11_d	21	0.9523809523809523	9978	47311	 must be the truth." 	 must be the truth. N
+doyle_adventures_11_d	21	0.9523809523809523	10207	16378	" "On the contrary," 	" "On the contrary, y
+doyle_adventures_11_d	20	1.0	10338	2901	 problem which you m	 problem which you m
+doyle_adventures_11_d	20	0.95	14599	1642	 the number of the t	 the numbers of the 
+doyle_scarlet_9_d	21	0.9523809523809523	3874	9524	 the Jefferson Hope c	 the Jefferson Hopes 

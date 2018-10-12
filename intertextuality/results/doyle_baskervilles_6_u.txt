@@ -1,0 +1,82 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_2_u	20	0.95	1	20063	 Baskerville Hall Si	 Baskerville Hall wi
+doyle_baskervilles_2_u	20	0.95	22	15201	 Henry Baskerville a	 Henry Baskerville, 
+doyle_baskervilles_2_u	22	0.9545454545454546	135	9674	 Mr. Sherlock Holmes d	 Mr. Sherlock Holmes. 
+doyle_baskervilles_2_u	27	0.9629629629629629	653	10079	 the death of Sir Charles. 	 the death of Sir Charles B
+doyle_baskervilles_2_u	27	0.9629629629629629	653	11688	 the death of Sir Charles. 	 the death of Sir Charles c
+doyle_baskervilles_2_u	27	0.9629629629629629	653	15554	 the death of Sir Charles. 	 the death of Sir Charles B
+doyle_baskervilles_2_u	20	0.95	1109	15201	 Henry Baskerville u	 Henry Baskerville, 
+doyle_baskervilles_2_u	21	0.9523809523809523	1576	16167	d Dr. Mortimer, whom 	d Dr. Mortimer, who h
+doyle_baskervilles_2_u	32	1.0	1795	17033	 Mr. Frankland, of Lafter Hall, 	 Mr. Frankland, of Lafter Hall, 
+doyle_baskervilles_2_u	22	0.9545454545454546	2274	16161	,” said Dr. Mortimer i	,” said Dr. Mortimer, 
+doyle_baskervilles_2_u	20	0.95	3293	9345	 the moor in those h	 the moor in those d
+doyle_baskervilles_2_u	40	0.975	3328	9373	s when the powers of evil are exalted.” 	s when the powers of evil are exalted. “
+doyle_baskervilles_2_u	22	0.9545454545454546	4313	16161	,” said Dr. Mortimer. 	,” said Dr. Mortimer, 
+doyle_baskervilles_2_u	20	0.95	4614	11190	 Baskerville Hall, w	 Baskerville Hall, a
+doyle_baskervilles_2_u	20	0.95	4614	16499	 Baskerville Hall, w	 Baskerville Hall, a
+doyle_baskervilles_2_u	20	0.95	4614	20063	 Baskerville Hall, w	 Baskerville Hall wi
+doyle_baskervilles_2_u	22	1.0	5024	16161	,” said Dr. Mortimer, 	,” said Dr. Mortimer, 
+doyle_baskervilles_2_u	20	1.0	6648	15201	 Henry Baskerville, 	 Henry Baskerville, 
+doyle_baskervilles_2_u	23	0.9565217391304348	8059	11	 of the Baskervilles. “	 of the Baskervilles “I
+doyle_baskervilles_2_u	22	0.9545454545454546	8059	2154	 of the Baskervilles. 	 of the Baskervilles t
+doyle_baskervilles_2_u	21	0.9523809523809523	8735	1573	 I understand that th	 I understand that it
+doyle_baskervilles_2_u	22	0.9545454545454546	8815	17185	, but the chance of fi	, but the chance of hi
+doyle_baskervilles_2_u	23	0.9565217391304348	10667	1373	 “Baskerville Hall,” sa	 “Baskerville Hall,” an
+doyle_baskervilles_2_u	20	0.95	10669	16500	Baskerville Hall,” s	Baskerville Hall, as
+doyle_baskervilles_2_u	22	0.9545454545454546	10970	11	 of the Baskervilles. 	 of the Baskervilles “
+doyle_baskervilles_2_u	22	0.9545454545454546	10970	2154	 of the Baskervilles. 	 of the Baskervilles t
+doyle_baskervilles_2_u	20	0.95	11123	19901	t of Sir Charles’s S	t of Sir Charles’s d
+doyle_baskervilles_2_u	21	1.0	11906	7638	 opened into a broad 	 opened into a broad 
+doyle_baskervilles_2_u	21	0.9523809523809523	12882	16162	” said Dr. Mortimer. 	” said Dr. Mortimer, 
+doyle_baskervilles_2_u	21	1.0	15644	12203	s at Baskerville Hall	s at Baskerville Hall
+doyle_baskervilles_2_u	20	0.95	15646	16497	at Baskerville Hall.	at Baskerville Hall,
+doyle_adventures_5_d	20	0.95	990	21837	 think that we may e	 think that we may g
+doyle_adventures_5_d	23	0.9565217391304348	1503	31707	, if I remember right. 	, if I remember right, 
+doyle_adventures_5_d	20	0.95	8737	31466	 understand that the	 understand that thi
+doyle_adventures_5_d	23	0.9565217391304348	11991	33225	t I could see that the 	t I could see that he w
+doyle_adventures_5_d	21	0.9523809523809523	16258	11798	t of the house, and t	t of the house and te
+doyle_baskervilles_13_u	24	0.9583333333333334	18	14672	 Sir Henry Baskerville a	 Sir Henry Baskerville, 
+doyle_baskervilles_13_u	21	0.9523809523809523	170	20899	to the station and ga	to the station, and a
+doyle_baskervilles_13_u	20	0.95	817	18364	, and that is that M	, and that is that w
+doyle_baskervilles_13_u	24	0.9583333333333334	1105	14672	 Sir Henry Baskerville u	 Sir Henry Baskerville, 
+doyle_baskervilles_13_u	25	0.96	2175	20965	 a first-class carriage a	 a first-class carriage. 
+doyle_baskervilles_13_u	21	1.0	2222	14541	 upon the platform. “	 upon the platform. “
+doyle_baskervilles_13_u	22	0.9545454545454546	2356	18364	, and that is that we 	, and that is that whe
+doyle_baskervilles_13_u	26	0.9615384615384616	6644	14672	 Sir Henry Baskerville, an	 Sir Henry Baskerville, in
+doyle_baskervilles_13_u	22	1.0	8059	8145	 of the Baskervilles. 	 of the Baskervilles. 
+doyle_baskervilles_13_u	22	1.0	10970	8145	 of the Baskervilles. 	 of the Baskervilles. 
+doyle_baskervilles_13_u	20	0.95	15698	4515	” “I have no doubt, 	” “I have no doubt t
+doyle_baskervilles_13_u	39	1.0	15722	16443	 that we shall succeed in establishing 	 that we shall succeed in establishing 
+doyle_signoffour_9_d	21	1.0	135	3334	 Mr. Sherlock Holmes 	 Mr. Sherlock Holmes 
+doyle_signoffour_9_d	21	1.0	135	12073	 Mr. Sherlock Holmes 	 Mr. Sherlock Holmes 
+doyle_signoffour_9_d	21	1.0	135	14278	 Mr. Sherlock Holmes 	 Mr. Sherlock Holmes 
+doyle_signoffour_9_d	20	1.0	1165	17400	 in the first place 	 in the first place 
+doyle_signoffour_9_d	22	0.9545454545454546	2863	18061	es, shaking his head a	es, shaking his head. 
+doyle_signoffour_9_d	20	0.95	2926	7397	 that you will not g	 that you will not b
+doyle_signoffour_9_d	20	0.95	3982	15370	 he recognized the f	 he recognized the u
+doyle_signoffour_9_d	22	0.9545454545454546	8735	12556	 I understand that the	 I understand that he 
+doyle_signoffour_9_d	21	1.0	8782	8982	 can give information	 can give information
+doyle_adventures_7_d	22	1.0	714	7101	in the last few days, 	in the last few days, 
+doyle_adventures_7_d	22	0.9545454545454546	1503	12612	, if I remember right.	, if I remember aright
+doyle_adventures_7_d	27	0.9629629629629629	10733	11023	 with flushed cheeks and sh	 with flushed cheeks and th
+doyle_adventures_7_d	22	1.0	12666	23270	 open the door of the 	 open the door of the 
+doyle_baskervilles_11_u	20	0.95	1	9341	 Baskerville Hall Si	 Baskerville Hall if
+doyle_baskervilles_11_u	20	1.0	982	24153	I really think that 	I really think that 
+doyle_baskervilles_11_u	20	0.95	4614	23079	 Baskerville Hall, w	 Baskerville Hall, a
+doyle_baskervilles_11_u	27	0.9629629629629629	5635	23301	, and yet as I looked at hi	, and yet as I looked at th
+doyle_baskervilles_11_u	20	1.0	12589	9338	 to Baskerville Hall	 to Baskerville Hall
+doyle_baskervilles_11_u	20	1.0	14884	4815	 that Sir Charles le	 that Sir Charles le
+doyle_baskervilles_11_u	21	0.9523809523809523	15497	8932	 to Sir Charles, and 	 to Sir Charles and e
+doyle_baskervilles_11_u	28	0.9642857142857143	15788	8699	 Sir Charles’s generosity ha	 Sir Charles’s generosity, a
+doyle_adventures_11_d	20	0.95	990	50580	 think that we may e	 think that we may s
+doyle_adventures_11_d	23	0.9565217391304348	5335	21308	 his eyes fixed upon it	 his eyes fixed upon th
+doyle_adventures_11_d	20	1.0	6774	21107	d on either side of 	d on either side of 
+doyle_adventures_11_d	22	1.0	7277	42180	d in the light of the 	d in the light of the 
+doyle_adventures_11_d	20	0.95	8735	33218	 I understand that t	 I understand that y
+doyle_adventures_11_d	20	0.95	10531	43510	 had been twisted an	 had been twisted in
+doyle_adventures_11_d	20	0.95	10773	35648	 few minutes later w	 few minutes later I
+doyle_adventures_11_d	21	0.9523809523809523	13356	33920	 we found ourselves, 	 we found ourselves i
+doyle_adventures_11_d	24	1.0	13928	34180	 think that this should 	 think that this should 
+doyle_adventures_11_d	20	1.0	16258	10132	t of the house, and 	t of the house, and 
+doyle_scarlet_9_d	20	1.0	2399	12060	d during the last tw	d during the last tw
+doyle_scarlet_9_d	20	0.95	10793	7191	e had reached the lo	e had reached the ou

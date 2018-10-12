@@ -1,0 +1,17 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_9_u	21	0.9523809523809523	132	7135	 there was nothing to	 there was nothing mo
+doyle_scarlet_12_d	20	0.95	132	8818	 there was nothing t	 there was nothing e
+doyle_signoffour_12_d	20	0.95	132	10830	 there was nothing t	 there was nothing b
+doyle_signoffour_12_d	20	0.95	882	40144	 the consent of my k	 the consent of my t
+doyle_adventures_2_d	20	1.0	131	4088	, there was nothing 	, there was nothing 
+doyle_adventures_2_d	20	0.95	132	6021	 there was nothing t	 there was nothing i
+doyle_adventures_2_d	20	0.95	132	46393	 there was nothing t	 there was nothing i
+doyle_baskervilles_10_u	20	0.95	79	8250	 had never been thou	 had never been touc
+doyle_adventures_12_d	21	1.0	757	41134	self into a state of 	self into a state of 
+doyle_adventures_12_d	23	1.0	853	41415	 had no difficulty in g	 had no difficulty in g
+doyle_adventures_4_d	20	0.95	132	19153	 there was nothing t	 there was nothing w
+doyle_adventures_4_d	22	1.0	853	17999	 had no difficulty in 	 had no difficulty in 
+doyle_adventures_1_d	20	0.95	132	21602	 there was nothing t	 there was nothing r
+doyle_adventures_5_d	32	0.96875	122	13912	 the rest, there was nothing to 	 the rest, there was nothing of 
+doyle_baskervilles_11_u	22	1.0	853	1671	 had no difficulty in 	 had no difficulty in 
+doyle_adventures_11_d	20	0.95	930	16061	 that everything in 	 that everything is 

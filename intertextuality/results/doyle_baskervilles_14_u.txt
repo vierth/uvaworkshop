@@ -1,0 +1,244 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_10_u	21	1.0	1577	18190	 to Coombe Tracey for	 to Coombe Tracey for
+doyle_baskervilles_10_u	20	0.95	2084	12115	 slopes of the hill 	 slopes of the hills
+doyle_baskervilles_10_u	20	0.95	2481	13157	o,” said he. “These 	o,” said he. “There 
+doyle_baskervilles_10_u	20	0.95	7041	6379	 the chance of his b	 the chance of his h
+doyle_baskervilles_10_u	21	0.9523809523809523	9291	8450	 together, and the cr	 together, and the wr
+doyle_baskervilles_10_u	20	0.95	16055	18915	 the heart of the mi	 the heart of the my
+doyle_baskervilles_10_u	20	0.95	16730	10488	 It was evident to u	 It was evident to m
+doyle_baskervilles_10_u	20	0.95	17357	10509	 that he had been be	 that he had been ve
+doyle_adventures_6_d	20	0.95	35	8532	 of Sherlock Holmes’	 of Sherlock Holmes'
+doyle_adventures_6_d	20	0.95	362	20380	 his professional ca	 his professional ac
+doyle_adventures_6_d	21	1.0	1124	19452	 the presence of the 	 the presence of the 
+doyle_adventures_6_d	21	1.0	1124	22635	 the presence of the 	 the presence of the 
+doyle_adventures_6_d	20	1.0	4047	34814	n the corner of the 	n the corner of the 
+doyle_adventures_6_d	21	1.0	4699	12046	 was drifting slowly 	 was drifting slowly 
+doyle_adventures_6_d	22	1.0	5578	27221	 outlined against the 	 outlined against the 
+doyle_adventures_6_d	20	1.0	5812	32082	 in the dining-room 	 in the dining-room 
+doyle_adventures_6_d	20	0.95	8398	41258	 and threw himself f	 and threw himself d
+doyle_adventures_6_d	20	1.0	10651	17039	here was no sign of 	here was no sign of 
+doyle_adventures_6_d	21	0.9523809523809523	11906	30947	 little time to recei	 little time to recti
+doyle_adventures_6_d	21	0.9523809523809523	12227	8436	. If you will wait, o	. If you will wait ou
+doyle_adventures_6_d	21	0.9523809523809523	13191	32082	 in the dining-room, 	 in the dining-room r
+doyle_adventures_6_d	20	0.95	13672	3810	. But there was no s	. But there was no g
+doyle_adventures_6_d	22	0.9545454545454546	14186	33845	 had been placed at so	 had been placed at ou
+doyle_adventures_6_d	20	0.95	17451	32359	 the conclusion of t	 the conclusion of a
+doyle_adventures_6_d	20	0.95	17952	28921	 standing upon the t	 standing upon the r
+doyle_adventures_6_d	23	1.0	20782	42536	, I do not know that th	, I do not know that th
+doyle_adventures_6_d	21	1.0	20784	47435	I do not know that th	I do not know that th
+doyle_adventures_6_d	23	0.9565217391304348	21575	9042	 through the darkness o	 through the darkness. 
+doyle_signoffour_8_d	23	1.0	902	6515	 on either side of the 	 on either side of the 
+doyle_signoffour_8_d	23	1.0	3382	6515	 on either side of the 	 on either side of the 
+doyle_scarlet_8_d	20	0.95	8576	10273	 the shadows of the 	 the shadow of the b
+doyle_scarlet_8_d	20	1.0	16157	2942	 that he might have 	 that he might have 
+doyle_scarlet_8_d	20	0.95	17448	11317	 to the conclusion o	 to the conclusion t
+doyle_adventures_10_d	20	0.95	3388	22173	ther side of the rou	ther side of the roa
+doyle_adventures_10_d	20	0.95	3388	36573	ther side of the rou	ther side of the roa
+doyle_adventures_10_d	20	0.95	3710	19257	 and left the room, 	 and left the room. 
+doyle_adventures_10_d	27	0.9629629629629629	3772	24593	 leaned back in his chair, 	 leaned back in his chair a
+doyle_adventures_10_d	23	1.0	3925	22167	 the other side of the 	 the other side of the 
+doyle_adventures_10_d	23	1.0	3925	36567	 the other side of the 	 the other side of the 
+doyle_adventures_10_d	20	0.95	4202	34124	, and then I heard t	, and then I heard o
+doyle_adventures_10_d	20	0.95	7221	22013	, I think that I hea	, I think that I hav
+doyle_adventures_10_d	21	0.9523809523809523	7223	31118	I think that I hear h	I think that I heard 
+doyle_adventures_10_d	24	1.0	10639	20702	e saw that there was no 	e saw that there was no 
+doyle_adventures_10_d	21	0.9523809523809523	15263	27069	 of satisfaction. “Th	 of satisfaction. "Th
+doyle_adventures_10_d	20	0.95	19631	24767	 chance of finding f	 chance of finding t
+doyle_baskervilles_1_u	20	0.95	35	8632	 of Sherlock Holmes’	 of Sherlock Holmes,
+doyle_baskervilles_1_u	20	1.0	3772	6118	 leaned back in his 	 leaned back in his 
+doyle_baskervilles_1_u	26	0.9615384615384616	20709	7941	 a curly-haired spaniel. P	 a curly-haired spaniel.” 
+doyle_adventures_12_d	20	0.95	35	52901	 of Sherlock Holmes’	 of Sherlock Holmes,
+doyle_adventures_12_d	20	0.95	902	2139	 on either side of t	 on either side of a
+doyle_adventures_12_d	22	0.9545454545454546	2445	23575	 hundred yards from it	 hundred yards from th
+doyle_adventures_12_d	20	0.95	3382	2139	 on either side of t	 on either side of a
+doyle_adventures_12_d	20	0.95	3388	28141	ther side of the rou	ther side of the roo
+doyle_adventures_12_d	27	0.9629629629629629	3772	9865	 leaned back in his chair, 	 leaned back in his chair a
+doyle_adventures_12_d	26	1.0	3922	28132	 on the other side of the 	 on the other side of the 
+doyle_adventures_12_d	20	0.95	4978	28042	 turned towards it, 	 turned towards it. 
+doyle_adventures_12_d	20	0.95	5782	42655	. There only remaine	. There only remains
+doyle_adventures_12_d	20	1.0	6762	47140	 it would be as well	 it would be as well
+doyle_adventures_12_d	35	0.9714285714285714	6854	40929	 half a mile from the house, and st	 half a mile from the house, and th
+doyle_adventures_12_d	20	1.0	7751	7826	 like a man who is i	 like a man who is i
+doyle_adventures_12_d	20	0.95	7790	47893	 cried Holmes, and I	 cried Holmes, and w
+doyle_adventures_12_d	20	0.95	8349	31053	t the same instant L	t the same instant M
+doyle_adventures_12_d	20	0.95	8429	48517	d upon the ground. I	d upon the ground. R
+doyle_adventures_12_d	20	0.95	8576	32790	 the shadows of the 	 the shadow of the c
+doyle_adventures_12_d	24	1.0	13650	46326	e rushed into the room. 	e rushed into the room. 
+doyle_adventures_12_d	23	0.9565217391304348	14107	47009	 and dangerous man. In 	 and dangerous man. I s
+doyle_adventures_12_d	20	0.95	20783	22368	 I do not know that 	 I do not know what 
+doyle_adventures_12_d	20	0.95	20783	40298	 I do not know that 	 I do not know what 
+doyle_baskervilles_3_u	22	0.9545454545454546	11	6016	 of the Baskervilles O	 of the Baskervilles. 
+doyle_baskervilles_3_u	26	0.9615384615384616	6460	2479	 Holmes struck his hand pa	 Holmes struck his hand ag
+doyle_baskervilles_3_u	20	0.95	9339	108	 which showed that o	 which showed that h
+doyle_baskervilles_3_u	20	0.95	20784	4211	I do not know that t	I do not know what t
+doyle_baskervilles_12_u	20	0.95	604	13731	 the darkness. The g	 the darkness. “The 
+doyle_baskervilles_12_u	26	0.9615384615384616	901	15012	s on either side of the na	s on either side of the ma
+doyle_baskervilles_12_u	20	0.95	1576	2601	n to Coombe Tracey f	n to Coombe Tracey, 
+doyle_baskervilles_12_u	23	1.0	3382	15013	 on either side of the 	 on either side of the 
+doyle_baskervilles_12_u	20	0.95	5587	16002	 against the silver-	 against the silvere
+doyle_baskervilles_12_u	26	1.0	7284	10237	 the silence of the moor. 	 the silence of the moor. 
+doyle_baskervilles_12_u	32	0.96875	8416	12652	 face downward upon the ground. 	 face downward upon the ground, 
+doyle_baskervilles_12_u	20	0.95	14180	5119	 which had been plac	 which had been prac
+doyle_baskervilles_12_u	20	0.95	14404	12863	 could not for the m	 could not for the i
+doyle_baskervilles_12_u	22	0.9545454545454546	16906	22071	 to Baskerville Hall. 	 to Baskerville Hall, 
+doyle_baskervilles_12_u	20	0.95	16937	15485	 of the Stapletons c	 of the Stapletons. 
+doyle_baskervilles_12_u	20	0.95	18103	22268	 showed where the pa	 showed where the ma
+doyle_baskervilles_12_u	22	1.0	19176	17342	ath,” said he. “It is 	ath,” said he. “It is 
+doyle_baskervilles_12_u	25	1.0	19193	19299	t is our friend Sir Henry	t is our friend Sir Henry
+doyle_baskervilles_12_u	20	1.0	19198	19304	our friend Sir Henry	our friend Sir Henry
+doyle_baskervilles_12_u	26	0.9615384615384616	19618	13383	 There was no chance of fi	 There was no chance of ei
+doyle_baskervilles_12_u	21	0.9523809523809523	20558	22268	 showed where the ani	 showed where the man
+doyle_baskervilles_12_u	22	1.0	21575	7730	 through the darkness 	 through the darkness 
+doyle_baskervilles_12_u	23	0.9565217391304348	21575	13723	 through the darkness o	 through the darkness. 
+doyle_adventures_4_d	25	1.0	1433	17511	 the scene of action. We 	 the scene of action. We 
+doyle_adventures_4_d	22	0.9545454545454546	2445	13008	 hundred yards from it	 hundred yards from th
+doyle_adventures_4_d	22	1.0	4045	11999	 in the corner of the 	 in the corner of the 
+doyle_adventures_4_d	22	1.0	10651	36579	here was no sign of a 	here was no sign of a 
+doyle_adventures_4_d	20	0.95	12566	26032	t is of importance. 	t is of importance t
+doyle_adventures_4_d	20	1.0	12566	27812	t is of importance. 	t is of importance. 
+doyle_adventures_4_d	24	0.9583333333333334	13650	19308	e rushed into the room. 	e rushed into the room o
+doyle_adventures_4_d	21	1.0	16604	35758	 pathway through the 	 pathway through the 
+doyle_adventures_4_d	26	0.9615384615384616	17775	35755	d a pathway through the bo	d a pathway through the wo
+doyle_baskervilles_4_u	21	1.0	11	14131	 of the Baskervilles 	 of the Baskervilles 
+doyle_baskervilles_4_u	26	1.0	2434	15399	e about two hundred yards 	e about two hundred yards 
+doyle_baskervilles_4_u	26	1.0	3922	16131	 on the other side of the 	 on the other side of the 
+doyle_baskervilles_4_u	21	0.9523809523809523	7381	19265	 in front of us. The 	 in front of us. “The
+doyle_baskervilles_4_u	20	1.0	10149	15064	 instant Holmes had 	 instant Holmes had 
+doyle_baskervilles_4_u	23	1.0	11235	8927	 combination of the two	 combination of the two
+doyle_baskervilles_4_u	21	1.0	12499	19323	,” said Holmes. “The 	,” said Holmes. “The 
+doyle_baskervilles_4_u	20	0.95	12499	20511	,” said Holmes. “The	,” said Holmes. “Tha
+doyle_baskervilles_4_u	21	0.9523809523809523	15832	19322	m,” said Holmes. “Tel	m,” said Holmes. “The
+doyle_baskervilles_4_u	23	0.9565217391304348	16906	13608	 to Baskerville Hall. T	 to Baskerville Hall.” 
+doyle_baskervilles_4_u	22	0.9545454545454546	21333	12653	 story of the family h	 story of the family, 
+doyle_baskervilles_15_u	32	0.96875	1	22369	 The Hound of the Baskervilles O	 The Hound of the Baskervilles, 
+doyle_baskervilles_15_u	20	0.95	902	95	 on either side of t	 on either side of a
+doyle_baskervilles_15_u	22	1.0	1433	16197	 the scene of action. 	 the scene of action. 
+doyle_baskervilles_15_u	20	0.95	1630	19344	 to Merripit House. 	 to Merripit House a
+doyle_baskervilles_15_u	22	1.0	2216	19347	 Merripit House and th	 Merripit House and th
+doyle_baskervilles_15_u	20	0.95	3382	95	 on either side of t	 on either side of a
+doyle_baskervilles_15_u	20	0.95	5782	20904	. There only remaine	. There only remains
+doyle_baskervilles_15_u	23	0.9565217391304348	9063	8355	 huge black creature wa	 huge black creature, w
+doyle_baskervilles_15_u	20	1.0	14107	13158	 and dangerous man. 	 and dangerous man. 
+doyle_baskervilles_15_u	20	1.0	16909	2497	 Baskerville Hall. T	 Baskerville Hall. T
+doyle_baskervilles_15_u	20	0.95	17219	8828	 Dr. Mortimer. The t	 Dr. Mortimer. The h
+doyle_baskervilles_15_u	20	0.95	17663	19536	 the death of the ho	 the death of the co
+doyle_baskervilles_15_u	21	0.9523809523809523	19620	13453	here was no chance of	here was no chance fo
+doyle_baskervilles_15_u	20	1.0	20783	20563	 I do not know that 	 I do not know that 
+doyle_adventures_3_d	23	1.0	902	69	 on either side of the 	 on either side of the 
+doyle_adventures_3_d	21	0.9523809523809523	905	21621	 either side of the n	 either side of her n
+doyle_adventures_3_d	23	1.0	3382	69	 on either side of the 	 on either side of the 
+doyle_adventures_3_d	20	0.95	3385	21621	 either side of the 	 either side of her 
+doyle_adventures_3_d	27	1.0	3772	19160	 leaned back in his chair, 	 leaned back in his chair, 
+doyle_adventures_3_d	20	1.0	4047	31061	n the corner of the 	n the corner of the 
+doyle_adventures_3_d	20	0.95	6459	31033	. Holmes struck his 	. Holmes stuck his f
+doyle_adventures_3_d	20	0.95	7810	4940	 heard the sharp cli	 heard the sharp cla
+doyle_adventures_3_d	20	0.95	10644	7482	 that there was no s	 that there was no h
+doyle_adventures_3_d	20	0.95	20982	28165	 not pleasant to hea	 not pleasant to hav
+doyle_adventures_1_d	22	1.0	1433	28799	 the scene of action. 	 the scene of action. 
+doyle_adventures_1_d	21	1.0	3471	25956	 were in front of the	 were in front of the
+doyle_adventures_1_d	20	0.95	4048	30224	 the corner of the o	 the corner of the s
+doyle_adventures_1_d	20	0.95	4048	36703	 the corner of the o	 the corner of the s
+doyle_adventures_1_d	24	0.9583333333333334	5578	34579	 outlined against the si	 outlined against the li
+doyle_adventures_1_d	20	1.0	7751	36071	 like a man who is i	 like a man who is i
+doyle_adventures_1_d	22	1.0	8346	36152	. At the same instant 	. At the same instant 
+doyle_adventures_1_d	20	1.0	13210	12121	, but Holmes caught 	, but Holmes caught 
+doyle_adventures_1_d	23	1.0	13651	40440	 rushed into the room. 	 rushed into the room. 
+doyle_adventures_1_d	29	0.9655172413793104	14568	11287	 the lower part of the face, 	 the lower part of the face h
+doyle_adventures_1_d	20	0.95	18930	41572	e stepped from the p	e stepped from the b
+doyle_signoffour_11_d	20	0.95	6587	6133	 quarter of an hour 	 quarter of an hour'
+doyle_signoffour_11_d	24	0.9583333333333334	12273	5934	 back with you to the Ha	 back with you to the Ba
+doyle_signoffour_11_d	20	1.0	14061	809	 which had been the 	 which had been the 
+doyle_baskervilles_6_u	22	0.9545454545454546	11	8059	 of the Baskervilles O	 of the Baskervilles. 
+doyle_baskervilles_6_u	22	0.9545454545454546	11	10970	 of the Baskervilles O	 of the Baskervilles. 
+doyle_baskervilles_6_u	20	0.95	902	6775	 on either side of t	 on either side of u
+doyle_baskervilles_6_u	30	1.0	1993	17354	 a very cheerful place,” said 	 a very cheerful place,” said 
+doyle_baskervilles_6_u	20	0.95	3382	6775	 on either side of t	 on either side of u
+doyle_baskervilles_6_u	20	0.95	3473	11864	ere in front of them	ere in front of the 
+doyle_baskervilles_6_u	20	0.95	5815	16406	 the dining-room whe	 the dining-room whi
+doyle_baskervilles_6_u	25	0.96	8571	12634	 from the shadows of the 	 from the shadow of the p
+doyle_baskervilles_6_u	20	1.0	16906	12589	 to Baskerville Hall	 to Baskerville Hall
+doyle_baskervilles_6_u	20	0.95	16909	15648	 Baskerville Hall. T	 Baskerville Hall.” 
+doyle_baskervilles_2_u	29	1.0	3	2146	he Hound of the Baskervilles 	he Hound of the Baskervilles 
+doyle_baskervilles_2_u	28	1.0	3772	1891	 leaned back in his chair, p	 leaned back in his chair, p
+doyle_baskervilles_2_u	20	0.95	7041	17190	 the chance of his b	 the chance of his i
+doyle_baskervilles_2_u	20	0.95	8235	5464	y in the moonlight. 	y in the moonlight o
+doyle_baskervilles_2_u	20	0.95	10097	20600	to the ground, and w	to the ground, and h
+doyle_baskervilles_2_u	23	1.0	16909	12868	 Baskerville Hall. The 	 Baskerville Hall. The 
+doyle_baskervilles_2_u	20	0.95	16909	15138	 Baskerville Hall. T	 Baskerville Hall. I
+doyle_baskervilles_2_u	26	0.9615384615384616	17469	9585	 this singular narrative, 	 this singular narrative h
+doyle_baskervilles_2_u	20	0.95	19336	5238	t the hound upon the	t the hounds upon he
+doyle_baskervilles_2_u	27	1.0	20565	18849	 where the animal had been 	 where the animal had been 
+doyle_adventures_5_d	20	0.95	1124	2395	 the presence of the	 the presence of tho
+doyle_adventures_5_d	21	0.9523809523809523	1183	2303	 we were forced to ta	 we were forced to ra
+doyle_adventures_5_d	20	0.95	3779	23406	 back in his chair, 	 back in his chair h
+doyle_adventures_5_d	21	1.0	7932	2259	here in the heart of 	here in the heart of 
+doyle_adventures_5_d	21	1.0	10651	12630	here was no sign of a	here was no sign of a
+doyle_adventures_5_d	21	1.0	13358	792	, however, one of the	, however, one of the
+doyle_adventures_5_d	20	1.0	15412	38311	 that they were all 	 that they were all 
+doyle_adventures_5_d	20	0.95	16248	2224	 against the window.	 against the windows
+doyle_adventures_5_d	22	0.9545454545454546	16248	23046	 against the window. H	 against the windows. 
+doyle_adventures_5_d	20	0.95	16836	12987	 possession of the h	 possession of the e
+doyle_adventures_5_d	21	1.0	20012	2259	here in the heart of 	here in the heart of 
+doyle_baskervilles_13_u	30	0.9666666666666667	3	8137	he Hound of the Baskervilles O	he Hound of the Baskervilles. 
+doyle_baskervilles_13_u	20	0.95	710	14020	t Holmes had said no	t Holmes had said to
+doyle_baskervilles_13_u	20	0.95	1576	12749	n to Coombe Tracey f	n to Coombe Tracey, 
+doyle_baskervilles_13_u	20	1.0	1630	13230	 to Merripit House. 	 to Merripit House. 
+doyle_baskervilles_13_u	20	1.0	3046	13283	 let them know that 	 let them know that 
+doyle_baskervilles_13_u	22	0.9545454545454546	7008	21347	,” said Holmes. “We da	,” said Holmes. “We ha
+doyle_baskervilles_13_u	20	1.0	10997	21346	s,” said Holmes. “We	s,” said Holmes. “We
+doyle_baskervilles_13_u	21	1.0	12137	2411	 do you propose to do	 do you propose to do
+doyle_baskervilles_13_u	20	0.95	13672	454	. But there was no s	. But there was no g
+doyle_baskervilles_13_u	20	0.95	13873	9559	 in amazement. The r	 in amazement. The f
+doyle_baskervilles_13_u	20	1.0	16691	4538	 you would have had 	 you would have had 
+doyle_baskervilles_13_u	26	1.0	21855	292	 in London, Watson, and I 	 in London, Watson, and I 
+doyle_signoffour_9_d	22	1.0	12107	17353	, if you will help me 	, if you will help me 
+doyle_signoffour_9_d	20	0.95	12567	675	 is of importance. W	 is of importance." 
+doyle_signoffour_9_d	21	0.9523809523809523	17448	5218	 to the conclusion of	 to the conclusion so
+doyle_adventures_7_d	20	0.95	35	40780	 of Sherlock Holmes’	 of Sherlock Holmes'
+doyle_adventures_7_d	24	0.9583333333333334	1795	7840	 have something in it.” 	 have something in it." 
+doyle_adventures_7_d	20	0.95	2805	11220	 the kitchen windows	 the kitchen window?
+doyle_adventures_7_d	26	0.9615384615384616	3838	41051	 of a door and the crisp s	 of a door, and the crisp 
+doyle_adventures_7_d	20	0.95	4272	18788	ed the house. I saw 	ed the house I saw a
+doyle_adventures_7_d	23	1.0	6584	23098	n a quarter of an hour 	n a quarter of an hour 
+doyle_adventures_7_d	20	0.95	6634	32229	n half an hour we wo	n half an hour we we
+doyle_adventures_7_d	22	1.0	10649	39630	 there was no sign of 	 there was no sign of 
+doyle_adventures_7_d	36	1.0	12441	40656	 with his face buried in his hands. 	 with his face buried in his hands. 
+doyle_adventures_7_d	23	0.9565217391304348	13651	14185	 rushed into the room. 	 rushed into the room, 
+doyle_adventures_7_d	20	0.95	13677	39630	 there was no sign w	 there was no sign o
+doyle_adventures_7_d	21	0.9523809523809523	13748	20143	 we expected to see. 	 we expected to see a
+doyle_adventures_7_d	23	1.0	14568	9209	 the lower part of the 	 the lower part of the 
+doyle_adventures_7_d	22	1.0	16833	3733	 in possession of the 	 in possession of the 
+doyle_baskervilles_11_u	20	0.95	2997	14114	 what they are doing	 what they are dying
+doyle_baskervilles_11_u	25	0.96	4642	23026	 the great Grimpen Mire t	 the great Grimpen Mire. 
+doyle_baskervilles_11_u	24	0.9583333333333334	7507	17639	. He looked round him in	. He looked round him wi
+doyle_baskervilles_11_u	22	0.9545454545454546	7816	23661	 the sharp click of a 	 the sharp clink of a 
+doyle_baskervilles_11_u	20	0.95	8154	17596	ed for an instant at	ed for an instant ag
+doyle_baskervilles_11_u	20	0.95	9339	23961	 which showed that o	 which showed that h
+doyle_baskervilles_11_u	20	1.0	11465	20408	ed my hand upon the 	ed my hand upon the 
+doyle_baskervilles_11_u	20	0.95	15263	17344	 of satisfaction. “T	 of satisfaction. “Q
+doyle_baskervilles_11_u	22	0.9545454545454546	16906	9338	 to Baskerville Hall. 	 to Baskerville Hall i
+doyle_baskervilles_11_u	20	0.95	16937	23216	 of the Stapletons c	 of the Stapletons. 
+doyle_baskervilles_11_u	20	0.95	17952	10768	 standing upon the t	 standing upon the s
+doyle_baskervilles_11_u	25	0.96	20032	23026	 the great Grimpen Mire, 	 the great Grimpen Mire. 
+doyle_adventures_11_d	21	0.9523809523809523	902	21108	 on either side of th	 on either side of hi
+doyle_adventures_11_d	21	0.9523809523809523	3382	21108	 on either side of th	 on either side of hi
+doyle_adventures_11_d	21	0.9523809523809523	3710	15244	 and left the room, w	 and left the room wi
+doyle_adventures_11_d	23	1.0	3925	34959	 the other side of the 	 the other side of the 
+doyle_adventures_11_d	20	0.95	5652	30016	 the lower windows s	 the lower windows b
+doyle_adventures_11_d	20	0.95	5785	47392	here only remained t	here only remained y
+doyle_adventures_11_d	20	1.0	8224	467	ing brightly in the 	ing brightly in the 
+doyle_adventures_11_d	20	0.95	8236	43059	 in the moonlight. B	 in the moonlight. S
+doyle_adventures_11_d	20	0.95	9496	43058	e in the moonlight, 	e in the moonlight. 
+doyle_adventures_11_d	23	1.0	10648	35794	t there was no sign of 	t there was no sign of 
+doyle_adventures_11_d	21	1.0	13675	35793	ut there was no sign 	ut there was no sign 
+doyle_adventures_11_d	20	1.0	16157	22157	 that he might have 	 that he might have 
+doyle_adventures_11_d	20	0.95	16836	7195	 possession of the h	 possessions of the 
+doyle_adventures_11_d	20	0.95	16844	20446	ion of the house whi	ion of the house whe
+doyle_adventures_11_d	20	0.95	17054	42742	 the woman whom he h	 the woman whom he l
+doyle_adventures_11_d	26	1.0	18747	46543	e that someone had passed 	e that someone had passed 
+doyle_adventures_11_d	20	0.95	20783	13158	 I do not know that 	 I do not know what 
+doyle_adventures_11_d	20	0.95	20784	31863	I do not know that t	I do not know what t
+doyle_scarlet_9_d	21	0.9523809523809523	8541	11483	e which had sprung ou	e which had sprung up
+doyle_scarlet_9_d	20	0.95	11217	7438	t appeared to be a c	t appeared to be a g
+doyle_scarlet_9_d	20	0.95	16054	545	n the heart of the m	n the hearts of the 
+doyle_scarlet_9_d	20	0.95	20018	545	n the heart of the g	n the hearts of the 

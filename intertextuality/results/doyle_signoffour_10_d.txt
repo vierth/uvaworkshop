@@ -1,0 +1,162 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_5_u	32	1.0	831	4557	 which had brought us together. 	 which had brought us together. 
+doyle_baskervilles_5_u	20	0.95	14609	15126	 Never have I seen f	 Never have I seen m
+doyle_signoffour_12_d	20	0.95	10327	14665	 between his teeth. 	 between his teeth t
+doyle_signoffour_12_d	22	0.9545454545454546	11788	12905	 a good two hundred ya	 a good two hundred pa
+doyle_signoffour_12_d	20	0.95	14011	25329	 I could see that fr	 I could see that if
+doyle_signoffour_12_d	28	0.9642857142857143	14880	4209	," said Holmes, quietly. We 	," said Holmes quietly. "We 
+doyle_adventures_2_d	20	0.95	175	31586	ation. I have never 	ation. I have every 
+doyle_adventures_2_d	23	0.9565217391304348	3275	40632	 at a moment's notice, 	 at a moment's notice. 
+doyle_adventures_2_d	25	0.96	4578	47991	 they would make their wa	 they would make their at
+doyle_adventures_2_d	20	1.0	7488	23002	 I think that it is 	 I think that it is 
+doyle_adventures_2_d	21	0.9523809523809523	8505	10177	 of what was going fo	 of what was going on
+doyle_adventures_2_d	21	1.0	8579	43692	," Holmes answered. "	," Holmes answered. "
+doyle_adventures_2_d	20	0.95	9224	39395	 upon the subject," 	 upon the subject." 
+doyle_adventures_2_d	20	0.95	11251	8810	ing down into the en	ing down into the ce
+doyle_adventures_2_d	20	0.95	11412	44176	," said Jones, with 	," said Jones with a
+doyle_adventures_2_d	25	0.96	17741	48881	 shrugged his shoulders i	 shrugged his shoulders. 
+doyle_baskervilles_14_u	20	0.95	11795	2441	 two hundred yards. 	 two hundred yards f
+doyle_baskervilles_14_u	20	1.0	12833	16955	 could no longer be 	 could no longer be 
+doyle_baskervilles_14_u	20	1.0	13221	7284	 the silence of the 	 the silence of the 
+doyle_baskervilles_14_u	20	1.0	14608	9767	. Never have I seen 	. Never have I seen 
+doyle_baskervilles_14_u	21	1.0	17286	13675	ut there was no sign 	ut there was no sign 
+doyle_baskervilles_14_u	20	0.95	17322	20005	. Somewhere in the d	. Somewhere in the h
+doyle_baskervilles_10_u	20	0.95	690	17753	he thought that we w	he thought that he w
+doyle_adventures_6_d	20	0.95	629	12610	 with the air of a b	 with the air of a m
+doyle_adventures_6_d	24	1.0	2789	19218	 could hardly have been 	 could hardly have been 
+doyle_adventures_6_d	20	1.0	3927	8822	 be associated with 	 be associated with 
+doyle_adventures_6_d	20	1.0	7488	48538	 I think that it is 	 I think that it is 
+doyle_adventures_6_d	20	0.95	10327	10673	 between his teeth. 	 between his teeth a
+doyle_adventures_6_d	20	0.95	12424	7290	 between his knees o	 between his knees, 
+doyle_adventures_6_d	22	0.9545454545454546	12953	9987	ould not have been mor	ould not have been wor
+doyle_adventures_6_d	21	1.0	12961	19231	 have been more than 	 have been more than 
+doyle_adventures_6_d	20	0.95	14413	21616	 at the sight of thi	 at the sight of the
+doyle_adventures_6_d	21	0.9523809523809523	16101	23075	 upon the mud-bank, w	 upon the mud-bank wh
+doyle_adventures_6_d	20	0.95	16645	29662	 over his shoulders 	 over his shoulder. 
+doyle_adventures_6_d	22	0.9545454545454546	17290	17039	here was no sign of th	here was no sign of hi
+doyle_adventures_6_d	29	0.9655172413793104	17737	27585	 and shrugged his shoulders i	 and shrugged his shoulders. 
+doyle_signoffour_8_d	22	1.0	5970	4112	 wooden-legged man, wi	 wooden-legged man, wi
+doyle_signoffour_8_d	21	0.9523809523809523	5970	4700	 wooden-legged man, w	 wooden-legged man wh
+doyle_signoffour_8_d	20	0.95	5970	5131	 wooden-legged man, 	 wooden-legged man a
+doyle_signoffour_8_d	25	0.96	15637	4696	 the wooden-legged man th	 the wooden-legged man wh
+doyle_signoffour_8_d	20	0.95	15641	5131	 wooden-legged man t	 wooden-legged man a
+doyle_signoffour_8_d	21	0.9523809523809523	17439	13023	re," said Holmes, poi	re," said Holmes, pro
+doyle_scarlet_8_d	20	0.95	132	13656	 appeared to be in a	 appeared to be in c
+doyle_scarlet_8_d	20	0.95	3828	10706	 of his companion, h	 of his companion, a
+doyle_scarlet_8_d	20	0.95	12464	14861	. Beside him lay a d	. Beside him lay a l
+doyle_scarlet_8_d	32	1.0	12951	18596	 could not have been more than t	 could not have been more than t
+doyle_scarlet_8_d	20	0.95	14413	15419	 at the sight of thi	 at the sight of the
+doyle_scarlet_8_d	20	0.95	14708	3314	 and burned with a s	 and burned with an 
+doyle_scarlet_8_d	20	0.95	14935	17929	 by this time, and a	 by this time, and w
+doyle_scarlet_8_d	20	0.95	15289	12123	ed out from under hi	ed out from under th
+doyle_adventures_10_d	20	0.95	2789	40906	 could hardly have b	 could hardly have a
+doyle_adventures_10_d	20	0.95	17353	28025	 the bottom of the T	 the bottom of the m
+doyle_adventures_10_d	26	0.9615384615384616	17741	19757	 shrugged his shoulders in	 shrugged his shoulders an
+doyle_baskervilles_1_u	24	0.9583333333333334	12950	5370	e could not have been mo	e could not have been on
+doyle_baskervilles_1_u	21	1.0	17784	10840	, but I confess that 	, but I confess that 
+doyle_adventures_12_d	21	0.9523809523809523	2617	14757	t the whole matter ou	t the whole matter to
+doyle_adventures_12_d	20	1.0	3426	1432	." "It seems to me t	." "It seems to me t
+doyle_adventures_12_d	20	0.95	3432	15173	 seems to me to be a	 seems to me to be o
+doyle_adventures_12_d	20	0.95	4921	34621	 put myself in the p	 put myself in the w
+doyle_adventures_12_d	21	1.0	12951	24590	 could not have been 	 could not have been 
+doyle_adventures_12_d	21	1.0	12951	27622	 could not have been 	 could not have been 
+doyle_adventures_12_d	20	0.95	14413	47389	 at the sight of thi	 at the sight of him
+doyle_adventures_12_d	20	0.95	17283	36462	, but there was no s	, but there was no j
+doyle_adventures_12_d	21	0.9523809523809523	17436	46535	 here," said Holmes, 	 here," said Holmes; 
+doyle_baskervilles_3_u	25	0.96	17741	4249	 shrugged his shoulders i	 shrugged his shoulders. 
+doyle_baskervilles_12_u	20	0.95	831	15101	 which had brought u	 which had brought a
+doyle_baskervilles_12_u	20	0.95	5141	17902	 on his track. How, 	 on his track. How d
+doyle_baskervilles_12_u	20	0.95	5898	8458	I learned that the A	I learned that the m
+doyle_baskervilles_12_u	33	0.9696969696969697	9874	13809	, I shall never forgive myself if	, I shall never forgive myself fo
+doyle_baskervilles_12_u	24	0.9583333333333334	12442	13005	 over which he stooped. 	 over which we stooped. 
+doyle_baskervilles_12_u	20	1.0	13221	10237	 the silence of the 	 the silence of the 
+doyle_baskervilles_12_u	25	0.96	17741	21469	 shrugged his shoulders i	 shrugged his shoulders. 
+doyle_adventures_4_d	20	1.0	128	13176	. He appeared to be 	. He appeared to be 
+doyle_adventures_4_d	27	0.9629629629629629	864	38213	hen the cloth was cleared, 	hen the cloth was cleared "
+doyle_adventures_4_d	20	0.95	7489	20379	I think that it is a	I think that it is v
+doyle_adventures_4_d	21	1.0	8201	39540	 from his pocket and 	 from his pocket and 
+doyle_adventures_4_d	29	0.9655172413793104	8579	18370	," Holmes answered. "It is ce	," Holmes answered. "It is en
+doyle_adventures_4_d	23	1.0	12332	33522	 could plainly see the 	 could plainly see the 
+doyle_adventures_4_d	22	1.0	12950	28418	e could not have been 	e could not have been 
+doyle_adventures_4_d	22	1.0	12951	39024	 could not have been m	 could not have been m
+doyle_adventures_4_d	25	0.96	14880	37828	," said Holmes, quietly. 	," said Holmes quietly. "
+doyle_adventures_4_d	20	1.0	17290	36579	here was no sign of 	here was no sign of 
+doyle_adventures_4_d	25	0.96	17741	20536	 shrugged his shoulders i	 shrugged his shoulders. 
+doyle_adventures_4_d	25	0.96	17741	37598	 shrugged his shoulders i	 shrugged his shoulders. 
+doyle_baskervilles_4_u	20	0.95	1924	3900	 with satisfaction a	 with satisfaction. 
+doyle_baskervilles_4_u	20	0.95	4833	17334	 I argued that the l	 I argued that they 
+doyle_baskervilles_4_u	21	0.9523809523809523	7737	19190	 this conversation ha	 this conversation, a
+doyle_baskervilles_4_u	22	1.0	8200	12267	s from his pocket and 	s from his pocket and 
+doyle_baskervilles_4_u	20	0.95	11795	15406	 two hundred yards. 	 two hundred yards a
+doyle_baskervilles_4_u	20	1.0	13473	15729	 the distance which 	 the distance which 
+doyle_baskervilles_15_u	20	0.95	9224	4040	 upon the subject," 	 upon the subject, a
+doyle_adventures_3_d	20	1.0	3426	15747	." "It seems to me t	." "It seems to me t
+doyle_adventures_3_d	21	0.9523809523809523	5649	241	e things which are ex	e things which are re
+doyle_adventures_3_d	23	0.9565217391304348	7077	17790	 in my hands I should h	 in my hands. I should 
+doyle_adventures_3_d	20	1.0	9241	27038	," said Holmes. "He 	," said Holmes. "He 
+doyle_adventures_3_d	20	0.95	14413	35048	 at the sight of thi	 at the sight of the
+doyle_adventures_3_d	23	0.9565217391304348	14880	28334	," said Holmes, quietly	," said Holmes quietly;
+doyle_adventures_3_d	20	0.95	16645	4400	 over his shoulders 	 over his shoulder, 
+doyle_adventures_3_d	29	0.9655172413793104	17737	10965	 and shrugged his shoulders i	 and shrugged his shoulders, 
+doyle_adventures_1_d	25	1.0	128	24099	. He appeared to be in a 	. He appeared to be in a 
+doyle_adventures_1_d	20	1.0	628	24212	r with the air of a 	r with the air of a 
+doyle_adventures_1_d	22	0.9545454545454546	2202	21019	. I will tell you how 	. I will tell you, how
+doyle_adventures_1_d	24	1.0	2789	10363	 could hardly have been 	 could hardly have been 
+doyle_adventures_1_d	20	1.0	3929	19435	e associated with th	e associated with th
+doyle_adventures_1_d	20	0.95	4955	24592	 and looked at it as	 and looked at it ea
+doyle_adventures_1_d	21	1.0	8201	24576	 from his pocket and 	 from his pocket and 
+doyle_adventures_1_d	20	0.95	12014	1689	 the fierce energy w	 the fierce energy o
+doyle_adventures_1_d	20	0.95	12985	9725	 hundred and fifty. 	 hundred and fifty g
+doyle_adventures_1_d	20	1.0	16645	10704	 over his shoulders 	 over his shoulders 
+doyle_adventures_1_d	22	1.0	17263	42235	t in every direction, 	t in every direction, 
+doyle_signoffour_11_d	20	0.95	2202	9039	. I will tell you ho	. I will tell you no
+doyle_signoffour_11_d	27	0.9629629629629629	4442	5248	 with the treasure-box. In 	 with the treasure-box. I n
+doyle_signoffour_11_d	21	0.9523809523809523	13156	8598	 down the Thames. Ste	 down the Thames. She
+doyle_signoffour_11_d	20	0.95	14475	6514	ed in some sort of d	ed in some sort of w
+doyle_signoffour_11_d	20	1.0	17352	5714	t the bottom of the 	t the bottom of the 
+doyle_baskervilles_6_u	20	1.0	11509	14573	n a very few minutes	n a very few minutes
+doyle_baskervilles_6_u	22	1.0	12950	18692	e could not have been 	e could not have been 
+doyle_baskervilles_2_u	22	0.9545454545454546	841	17216	 brought us together. 	 brought us together, 
+doyle_baskervilles_2_u	20	0.95	2789	20691	 could hardly have b	 could hardly have s
+doyle_baskervilles_2_u	21	0.9523809523809523	16645	1288	 over his shoulders t	 over his shoulder at
+doyle_adventures_5_d	22	0.9545454545454546	3432	23703	 seems to me to be a l	 seems to me to be wal
+doyle_adventures_5_d	21	1.0	7487	28934	. I think that it is 	. I think that it is 
+doyle_adventures_5_d	22	0.9545454545454546	14413	9194	 at the sight of this 	 at the sight of his f
+doyle_adventures_5_d	22	0.9545454545454546	14590	36615	 a sleepless night. Ne	 a sleepless night. He
+doyle_adventures_5_d	20	0.95	16645	15269	 over his shoulders 	 over his shoulder. 
+doyle_adventures_5_d	20	1.0	17290	12630	here was no sign of 	here was no sign of 
+doyle_baskervilles_13_u	25	0.96	17741	17073	 shrugged his shoulders i	 shrugged his shoulders. 
+doyle_signoffour_9_d	21	0.9523809523809523	188	9948	 never known him so b	 never known him to b
+doyle_signoffour_9_d	20	0.95	2380	6337	 chemical analysis. 	 chemical analysis w
+doyle_signoffour_9_d	21	0.9523809523809523	5932	18188	 handed over to them 	 handed over to the a
+doyle_signoffour_9_d	21	0.9523809523809523	7381	9095	 Mordecai Smith, and 	 Mordecai Smith and t
+doyle_adventures_7_d	20	0.95	629	28156	 with the air of a b	 with the air of a m
+doyle_adventures_7_d	24	1.0	713	28690	 nearing the end of our 	 nearing the end of our 
+doyle_adventures_7_d	20	0.95	3312	13607	 some little time, i	 some little time, b
+doyle_adventures_7_d	25	0.96	3390	6329	 balance of probability, 	 balance of probability. 
+doyle_adventures_7_d	21	0.9523809523809523	3487	7272	probable that he had 	probable that he has 
+doyle_adventures_7_d	20	0.95	7445	18297	 "In that case I sho	 "In that case I sha
+doyle_adventures_7_d	22	0.9545454545454546	8024	24954	d Holmes, pointing to 	d Holmes, pointing at 
+doyle_adventures_7_d	21	1.0	8201	28094	 from his pocket and 	 from his pocket and 
+doyle_adventures_7_d	25	0.96	14880	33581	," said Holmes, quietly. 	," said Holmes quietly. "
+doyle_adventures_7_d	20	0.95	16645	3041	 over his shoulders 	 over his shoulder. 
+doyle_adventures_7_d	21	0.9523809523809523	17114	18083	 was of considerable 	 was of considerably 
+doyle_adventures_7_d	28	0.9642857142857143	17288	39630	 there was no sign of the Is	 there was no sign of the st
+doyle_adventures_7_d	26	0.9615384615384616	17447	24954	d Holmes, pointing to the 	d Holmes, pointing at the 
+doyle_baskervilles_11_u	20	0.95	2498	18505	d succeeded in disso	d succeeded in dissu
+doyle_baskervilles_11_u	22	0.9545454545454546	7917	10777	 upon the summit of St	 upon the summit of th
+doyle_adventures_11_d	20	1.0	128	17304	. He appeared to be 	. He appeared to be 
+doyle_adventures_11_d	20	0.95	502	45712	 depression of the p	 depression of the b
+doyle_adventures_11_d	20	0.95	629	5777	 with the air of a b	 with the air of a m
+doyle_adventures_11_d	28	0.9642857142857143	711	38162	re nearing the end of our ta	re nearing the end of your t
+doyle_adventures_11_d	23	0.9565217391304348	3551	34660	 upon his expedition." 	 upon his expedition. I
+doyle_adventures_11_d	20	0.95	6812	3038	 his handkerchief to	 his handkerchief ov
+doyle_adventures_11_d	22	0.9545454545454546	7488	15925	 I think that it is a 	 I think that it is ha
+doyle_adventures_11_d	20	1.0	9027	38305	You would not think 	You would not think 
+doyle_adventures_11_d	20	0.95	14413	18682	 at the sight of thi	 at the sight of the
+doyle_adventures_11_d	20	0.95	17283	29798	, but there was no s	, but there was no a
+doyle_adventures_11_d	29	0.9655172413793104	17283	35790	, but there was no sign of th	, but there was no sign of hi
+doyle_adventures_11_d	21	1.0	17436	1699	 here," said Holmes, 	 here," said Holmes, 
+doyle_adventures_11_d	20	0.95	17689	42770	t the instant that w	t the instant that s
+doyle_scarlet_9_d	21	1.0	15617	8754	. At the same moment 	. At the same moment 
+doyle_scarlet_9_d	21	0.9523809523809523	16645	9364	 over his shoulders t	 over his shoulders. 

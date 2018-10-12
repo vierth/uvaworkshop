@@ -1,0 +1,171 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_3_d	20	0.95	95	69	 on either side of a	 on either side of t
+doyle_adventures_3_d	22	0.9545454545454546	354	2336	 in connection with th	 in connection with it
+doyle_adventures_3_d	22	0.9545454545454546	535	2336	 in connection with th	 in connection with it
+doyle_adventures_3_d	20	0.95	598	32780	e, the young lady wh	e, the young lady wa
+doyle_adventures_3_d	21	0.9523809523809523	1407	30866	e course of events,” 	e course of events, a
+doyle_adventures_3_d	23	0.9565217391304348	2024	30863	 the course of events f	 the course of events, 
+doyle_adventures_3_d	20	0.95	2532	19378	her little problem m	her little problem, 
+doyle_adventures_3_d	24	0.9583333333333334	2719	30863	 the course of events as	 the course of events, a
+doyle_adventures_3_d	22	0.9545454545454546	3310	31372	 a considerable sum of	 a considerable sum, f
+doyle_adventures_3_d	20	0.95	14171	24970	 that he must have b	 that he must have s
+doyle_adventures_3_d	21	1.0	16766	25640	 the identity of the 	 the identity of the 
+doyle_adventures_3_d	22	0.9545454545454546	17172	37761	 knowledge of the whol	 knowledge of the worl
+doyle_adventures_3_d	20	0.95	19362	16083	 and that he would s	 and that he would c
+doyle_adventures_3_d	21	0.9523809523809523	20999	36077	n the fact that he, t	n the fact that the t
+doyle_adventures_1_d	21	1.0	4585	21105	 in the character of 	 in the character of 
+doyle_adventures_1_d	21	1.0	4585	30467	 in the character of 	 in the character of 
+doyle_adventures_1_d	21	0.9523809523809523	5498	35739	nd yet it would be ha	nd yet it would be th
+doyle_adventures_1_d	20	0.95	10847	39893	 Baker Street and af	 Baker Street and ha
+doyle_adventures_1_d	24	1.0	12596	32554	 I am inclined to think 	 I am inclined to think 
+doyle_adventures_1_d	20	0.95	13924	485	 placed himself in h	 placed himself in a
+doyle_adventures_1_d	21	0.9523809523809523	14292	39054	 escaped from the cou	 escaped from the hou
+doyle_adventures_1_d	25	0.96	15022	7679	d the paper upon which th	d the paper upon which it
+doyle_adventures_1_d	21	1.0	15390	38202	 have more than once 	 have more than once 
+doyle_adventures_1_d	20	0.95	15753	14402	 that I could not do	 that I could not co
+doyle_adventures_1_d	20	0.95	16054	19631	 the investigation o	 the investigation w
+doyle_adventures_1_d	22	1.0	16197	28799	 the scene of action. 	 the scene of action. 
+doyle_adventures_1_d	24	0.9583333333333334	16933	23253	 the relations between h	 the relation between th
+doyle_adventures_1_d	24	0.9583333333333334	18396	35812	 the part which she had 	 the part which he had i
+doyle_adventures_1_d	26	0.9615384615384616	21296	23677	 the field of my inquiry, 	 the field of my inquiry. 
+doyle_adventures_1_d	20	0.95	22266	24290	 half an hour, and w	 half an hour, and I
+doyle_baskervilles_6_u	20	0.95	95	6775	 on either side of a	 on either side of u
+doyle_baskervilles_6_u	20	1.0	877	10969	s of the Baskerville	s of the Baskerville
+doyle_baskervilles_6_u	24	0.9583333333333334	1133	40	 and Dr. Mortimer were, 	 and Dr. Mortimer were r
+doyle_baskervilles_6_u	20	0.95	1748	1703	 Stapleton, and the 	 Stapleton, and ther
+doyle_baskervilles_6_u	20	0.95	2497	15648	 Baskerville Hall. T	 Baskerville Hall.” 
+doyle_baskervilles_6_u	27	0.9629629629629629	9075	653	 the death of Sir Charles B	 the death of Sir Charles. 
+doyle_baskervilles_6_u	22	1.0	10090	1570	 friend Dr. Mortimer, 	 friend Dr. Mortimer, 
+doyle_baskervilles_6_u	20	0.95	10174	22	 Henry Baskerville. 	 Henry Baskerville a
+doyle_baskervilles_6_u	20	0.95	10174	1109	 Henry Baskerville. 	 Henry Baskerville u
+doyle_baskervilles_6_u	20	0.95	10174	6648	 Henry Baskerville. 	 Henry Baskerville, 
+doyle_baskervilles_6_u	20	1.0	10875	169	 to the station and 	 to the station and 
+doyle_baskervilles_6_u	20	1.0	16659	541	e, and especially th	e, and especially th
+doyle_baskervilles_6_u	23	1.0	16933	558	 the relations between 	 the relations between 
+doyle_baskervilles_6_u	22	0.9545454545454546	22379	8059	 of the Baskervilles, 	 of the Baskervilles. 
+doyle_baskervilles_6_u	22	0.9545454545454546	22379	10970	 of the Baskervilles, 	 of the Baskervilles. 
+doyle_baskervilles_2_u	27	0.9629629629629629	251	14806	 of the utmost importance, 	 of the utmost importance t
+doyle_baskervilles_2_u	27	0.9629629629629629	353	15056	d in connection with the fa	d in connection with the af
+doyle_baskervilles_2_u	24	1.0	354	15535	 in connection with the 	 in connection with the 
+doyle_baskervilles_2_u	24	1.0	535	15057	 in connection with the 	 in connection with the 
+doyle_baskervilles_2_u	33	1.0	535	15535	 in connection with the death of 	 in connection with the death of 
+doyle_baskervilles_2_u	21	0.9523809523809523	878	11	 of the Baskerville m	 of the Baskervilles 
+doyle_baskervilles_2_u	21	0.9523809523809523	878	2154	 of the Baskerville m	 of the Baskervilles 
+doyle_baskervilles_2_u	21	1.0	1788	11741	 entirely cleared up 	 entirely cleared up 
+doyle_baskervilles_2_u	23	1.0	2494	12865	 of Baskerville Hall. T	 of Baskerville Hall. T
+doyle_baskervilles_2_u	20	0.95	2497	15138	 Baskerville Hall. T	 Baskerville Hall. I
+doyle_baskervilles_2_u	26	0.9615384615384616	5003	649	 Sir Charles Baskerville a	 Sir Charles Baskerville, 
+doyle_baskervilles_2_u	25	1.0	5003	10092	 Sir Charles Baskerville 	 Sir Charles Baskerville 
+doyle_baskervilles_2_u	26	0.9615384615384616	5003	10303	 Sir Charles Baskerville a	 Sir Charles Baskerville, 
+doyle_baskervilles_2_u	27	0.9629629629629629	5003	12755	 Sir Charles Baskerville an	 Sir Charles Baskerville wa
+doyle_baskervilles_2_u	24	1.0	5003	15253	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_2_u	24	1.0	5003	15567	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_2_u	26	0.9615384615384616	5003	16986	 Sir Charles Baskerville a	 Sir Charles Baskerville. 
+doyle_baskervilles_2_u	20	0.95	5324	13548	 that Sir Charles wa	 that Sir Charles ha
+doyle_baskervilles_2_u	22	1.0	5324	19422	 that Sir Charles was 	 that Sir Charles was 
+doyle_baskervilles_2_u	21	1.0	7040	14827	ance that Sir Charles	ance that Sir Charles
+doyle_baskervilles_2_u	22	0.9545454545454546	7042	19420	ce that Sir Charles, w	ce that Sir Charles wa
+doyle_baskervilles_2_u	20	0.95	7296	1575	 understand that in 	 understand that it 
+doyle_baskervilles_2_u	32	1.0	7447	19421	e that Sir Charles was about to 	e that Sir Charles was about to 
+doyle_baskervilles_2_u	22	0.9545454545454546	8259	20212	 down the yew alley. I	 down the yew alley, I
+doyle_baskervilles_2_u	39	0.9743589743589743	9075	10079	 the death of Sir Charles Baskerville. 	 the death of Sir Charles Baskerville w
+doyle_baskervilles_2_u	28	0.9642857142857143	9075	11688	 the death of Sir Charles Ba	 the death of Sir Charles ca
+doyle_baskervilles_2_u	40	0.975	9075	15554	 the death of Sir Charles Baskerville. Y	 the death of Sir Charles Baskerville.” 
+doyle_baskervilles_2_u	29	1.0	9085	16983	 of Sir Charles Baskerville. 	 of Sir Charles Baskerville. 
+doyle_baskervilles_2_u	20	0.95	10174	15201	 Henry Baskerville. 	 Henry Baskerville, 
+doyle_baskervilles_2_u	21	1.0	14062	15060	 connection with the 	 connection with the 
+doyle_baskervilles_2_u	21	1.0	14062	15538	 connection with the 	 connection with the 
+doyle_baskervilles_2_u	20	0.95	17109	317	 the time that you d	 the time that you h
+doyle_baskervilles_2_u	23	1.0	20028	11400	 the whole countryside 	 the whole countryside 
+doyle_baskervilles_2_u	30	0.9666666666666667	22371	2146	he Hound of the Baskervilles, 	he Hound of the Baskervilles t
+doyle_adventures_5_d	20	0.95	265	13948	 importance, in the 	 importance in the a
+doyle_adventures_5_d	22	0.9545454545454546	354	979	 in connection with th	 in connection with it
+doyle_adventures_5_d	22	0.9545454545454546	535	979	 in connection with th	 in connection with it
+doyle_adventures_5_d	23	1.0	970	8460	 he would never permit 	 he would never permit 
+doyle_adventures_5_d	22	0.9545454545454546	1788	1052	 entirely cleared up t	 entirely cleared up. 
+doyle_adventures_5_d	23	1.0	3122	28224	, as a matter of fact, 	, as a matter of fact, 
+doyle_adventures_5_d	21	1.0	7753	35515	n the evening before 	n the evening before 
+doyle_adventures_5_d	20	0.95	8456	28596	 at the end of the a	 at the end of the t
+doyle_adventures_5_d	31	0.967741935483871	12596	20307	 I am inclined to think that St	 I am inclined to think that it
+doyle_adventures_5_d	24	1.0	13431	1745	, and that therefore the	, and that therefore the
+doyle_adventures_5_d	20	0.95	13830	27406	e. There can be no q	e. There can be no d
+doyle_adventures_5_d	22	0.9545454545454546	14300	30453	 from the country. It 	 from the country. If 
+doyle_adventures_5_d	20	0.95	15333	24520	 should be able to d	 should be able to a
+doyle_adventures_5_d	20	0.95	15333	24875	 should be able to d	 should be able to u
+doyle_adventures_5_d	31	0.967741935483871	18437	27407	. There can be no doubt that St	. There can be no doubt that th
+doyle_adventures_5_d	28	0.9642857142857143	18440	34243	here can be no doubt that St	here can be no doubt that th
+doyle_baskervilles_13_u	23	1.0	353	16059	d in connection with th	d in connection with th
+doyle_baskervilles_13_u	22	1.0	535	16060	 in connection with th	 in connection with th
+doyle_baskervilles_13_u	20	1.0	825	8772	 that I was able to 	 that I was able to 
+doyle_baskervilles_13_u	20	0.95	878	8145	 of the Baskerville 	 of the Baskervilles
+doyle_baskervilles_13_u	24	1.0	5003	15914	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_13_u	22	1.0	5324	1822	 that Sir Charles was 	 that Sir Charles was 
+doyle_baskervilles_13_u	20	0.95	6750	18437	 the old gentleman i	 the old gentleman, 
+doyle_baskervilles_13_u	20	0.95	7044	1822	 that Sir Charles, w	 that Sir Charles wa
+doyle_baskervilles_13_u	21	0.9523809523809523	7177	15263	, Mrs. Laura Lyons. B	, Mrs. Laura Lyons.” 
+doyle_baskervilles_13_u	22	1.0	7448	1822	 that Sir Charles was 	 that Sir Charles was 
+doyle_baskervilles_13_u	21	0.9523809523809523	8116	18437	 the old gentleman wa	 the old gentleman, w
+doyle_baskervilles_13_u	24	1.0	9088	15914	 Sir Charles Baskerville	 Sir Charles Baskerville
+doyle_baskervilles_13_u	29	0.9655172413793104	9126	1103	 the devilish cunning of it, 	 the devilish cunning of it! 
+doyle_baskervilles_13_u	20	0.95	9449	15699	 Mrs. Laura Lyons, w	 Mrs. Laura Lyons wa
+doyle_baskervilles_13_u	20	0.95	10174	14676	 Henry Baskerville. 	 Henry Baskerville, 
+doyle_baskervilles_13_u	20	0.95	10876	20899	to the station and t	to the station, and 
+doyle_baskervilles_13_u	20	1.0	13522	20283	 the arrival of the 	 the arrival of the 
+doyle_baskervilles_13_u	20	0.95	14062	16063	 connection with the	 connection with tha
+doyle_baskervilles_13_u	20	0.95	16113	14450	 Coombe Tracey, and 	 Coombe Tracey and h
+doyle_baskervilles_13_u	20	1.0	16448	8772	 that I was able to 	 that I was able to 
+doyle_baskervilles_13_u	20	1.0	16766	17669	 the identity of the	 the identity of the
+doyle_baskervilles_13_u	20	0.95	18332	12306	e should have been d	e should have been h
+doyle_baskervilles_13_u	21	0.9523809523809523	19343	13229	e to Merripit House a	e to Merripit House. 
+doyle_baskervilles_13_u	30	0.9666666666666667	22371	8137	he Hound of the Baskervilles, 	he Hound of the Baskervilles. 
+doyle_signoffour_9_d	20	0.95	9407	8030	 concerned in the ca	 concerned in the ma
+doyle_signoffour_9_d	23	1.0	9587	18675	 of the existence of th	 of the existence of th
+doyle_signoffour_9_d	21	1.0	10002	18675	 of the existence of 	 of the existence of 
+doyle_signoffour_9_d	25	1.0	13397	10896	 had taken over the case 	 had taken over the case 
+doyle_signoffour_9_d	27	0.9629629629629629	22254	18922	 be ready in half an hour, 	 be ready in half an hour. 
+doyle_adventures_7_d	22	0.9545454545454546	354	927	 in connection with th	 in connection with it
+doyle_adventures_7_d	22	0.9545454545454546	535	927	 in connection with th	 in connection with it
+doyle_adventures_7_d	21	1.0	7914	18368	 back in the evening 	 back in the evening 
+doyle_adventures_7_d	20	1.0	9960	24227	It is possible that 	It is possible that 
+doyle_adventures_7_d	23	0.9565217391304348	12745	6478	 the last three years t	 the last three years, 
+doyle_adventures_7_d	24	1.0	13604	14855	 the sequence of events 	 the sequence of events 
+doyle_adventures_7_d	22	1.0	20451	9850	, my dear Watson, with	, my dear Watson, with
+doyle_adventures_7_d	20	0.95	22021	9850	, my dear Watson, we	, my dear Watson, wi
+doyle_baskervilles_11_u	20	0.95	1055	7506	t be drawn from its 	t be drawn from it a
+doyle_baskervilles_11_u	22	0.9545454545454546	2494	23076	 of Baskerville Hall. 	 of Baskerville Hall, 
+doyle_baskervilles_11_u	20	0.95	4998	6805	 with Sir Charles Ba	 with Sir Charles at
+doyle_baskervilles_11_u	21	0.9523809523809523	5324	4874	 that Sir Charles was	 that Sir Charles Bas
+doyle_baskervilles_11_u	24	0.9583333333333334	7291	14389	er to understand that in	er to understand that an
+doyle_baskervilles_11_u	21	0.9523809523809523	7448	4874	 that Sir Charles was	 that Sir Charles Bas
+doyle_baskervilles_11_u	23	0.9565217391304348	7752	1004	on the evening before h	on the evening before, 
+doyle_baskervilles_11_u	26	0.9615384615384616	9088	547	 Sir Charles Baskerville. 	 Sir Charles Baskerville a
+doyle_baskervilles_11_u	26	0.9615384615384616	9088	3088	 Sir Charles Baskerville. 	 Sir Charles Baskerville a
+doyle_baskervilles_11_u	26	0.9615384615384616	9088	3214	 Sir Charles Baskerville. 	 Sir Charles Baskerville t
+doyle_baskervilles_11_u	26	0.9615384615384616	9088	4879	 Sir Charles Baskerville. 	 Sir Charles Baskerville h
+doyle_baskervilles_11_u	20	0.95	13901	9279	s unlikely that he e	s unlikely that she 
+doyle_baskervilles_11_u	20	0.95	15417	10700	 my own experience d	 my own experience f
+doyle_baskervilles_11_u	20	0.95	15495	2661	 the presence of a l	 the presence of a v
+doyle_baskervilles_11_u	20	0.95	16146	10892	 hut upon the moor w	 hut upon the moor u
+doyle_baskervilles_11_u	20	0.95	16609	1203	 to Coombe Tracey. T	 to Coombe Tracey. A
+doyle_baskervilles_11_u	20	0.95	16609	21574	 to Coombe Tracey. T	 to Coombe Tracey.” 
+doyle_baskervilles_11_u	20	0.95	16895	233	he incident of the e	he incidents of the 
+doyle_baskervilles_11_u	22	1.0	19930	9578	, therefore, that she 	, therefore, that she 
+doyle_baskervilles_11_u	22	0.9545454545454546	21445	4937	on several occasions. 	on several occasions, 
+doyle_adventures_11_d	20	0.95	95	21108	 on either side of a	 on either side of h
+doyle_adventures_11_d	23	0.9565217391304348	718	34736	 in excellent spirits o	 in excellent spirits, 
+doyle_adventures_11_d	20	0.95	1208	24884	e which had been rec	e which had been pre
+doyle_adventures_11_d	22	1.0	1671	23320	 exceedingly complex. 	 exceedingly complex. 
+doyle_adventures_11_d	27	1.0	3533	48580	ck up an acquaintance with 	ck up an acquaintance with 
+doyle_adventures_11_d	20	0.95	4591	40295	e character of his s	e character of this 
+doyle_adventures_11_d	20	0.95	7296	6294	 understand that in 	 understand that it 
+doyle_adventures_11_d	21	0.9523809523809523	7754	44474	 the evening before h	 the evening before, 
+doyle_adventures_11_d	20	1.0	9165	8466	 it would be almost 	 it would be almost 
+doyle_adventures_11_d	20	0.95	12601	23246	 inclined to think t	 inclined to think? 
+doyle_adventures_11_d	21	0.9523809523809523	14200	48625	 that his master and 	 that his master had 
+doyle_adventures_11_d	20	0.95	16054	18857	 the investigation o	 the investigation i
+doyle_adventures_11_d	20	1.0	18485	12159	 an influence over h	 an influence over h
+doyle_adventures_11_d	22	0.9545454545454546	18976	21787	 seems to have been ca	 seems to have been a 
+doyle_adventures_11_d	20	0.95	19515	38263	 learned something o	 learned something! 
+doyle_adventures_11_d	25	1.0	19838	2165	 turned in an instant to 	 turned in an instant to 
+doyle_adventures_11_d	20	0.95	20560	35995	se. I do not know th	se. I do not know at
+doyle_scarlet_9_d	20	0.95	18775	7372	he endeavoured to ma	he endeavoured to pa

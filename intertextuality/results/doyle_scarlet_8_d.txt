@@ -1,0 +1,75 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_10_d	21	0.9523809523809523	4441	23935	 he seated himself in	 he seated himself an
+doyle_adventures_10_d	20	0.95	8597	2393	efully, pointing at 	efully, pointing to 
+doyle_adventures_10_d	21	0.9523809523809523	14448	33264	 throw up his hands, 	 throw up his hand, t
+doyle_adventures_10_d	20	0.95	14993	31665	 the breast of his v	 the breast of his f
+doyle_adventures_10_d	23	1.0	17184	39599	e of those who believe 	e of those who believe 
+doyle_adventures_10_d	20	1.0	18856	28384	. Then he turned to 	. Then he turned to 
+doyle_baskervilles_1_u	20	1.0	15821	3080	 an expression of in	 an expression of in
+doyle_baskervilles_1_u	23	0.9565217391304348	18596	5371	 could not have been mo	 could not have been on
+doyle_adventures_12_d	20	0.95	3190	32971	e projecting bones; 	e projecting bones. 
+doyle_adventures_12_d	20	0.95	4524	48516	ed upon the ground h	ed upon the ground. 
+doyle_adventures_12_d	22	0.9545454545454546	6704	9262	t there was somethin’ 	t there was something 
+doyle_adventures_12_d	22	0.9545454545454546	6704	36625	t there was somethin’ 	t there was something 
+doyle_adventures_12_d	21	0.9523809523809523	10273	32790	 the shadow of the bo	 the shadow of the co
+doyle_adventures_12_d	20	1.0	12125	38805	 out from under the 	 out from under the 
+doyle_adventures_12_d	20	0.95	15820	41946	d an expression of i	d an expression of t
+doyle_adventures_12_d	21	1.0	18596	24590	 could not have been 	 could not have been 
+doyle_adventures_12_d	21	1.0	18596	27622	 could not have been 	 could not have been 
+doyle_adventures_12_d	20	0.95	19191	18750	Will you come with u	Will you come with m
+doyle_baskervilles_3_u	20	1.0	14830	114	 showed that he was 	 showed that he was 
+doyle_baskervilles_12_u	23	1.0	14054	15939	 the precipitous slope 	 the precipitous slope 
+doyle_baskervilles_12_u	21	1.0	17066	19748	 “He appears to have 	 “He appears to have 
+doyle_baskervilles_12_u	20	1.0	18856	21740	. Then he turned to 	. Then he turned to 
+doyle_adventures_4_d	20	0.95	1743	36668	here is no sign of l	here is no sign of a
+doyle_adventures_4_d	20	0.95	3033	30489	nd it difficult to s	nd it difficult to g
+doyle_adventures_4_d	20	0.95	4751	13642	on the ground with s	on the ground, with 
+doyle_adventures_4_d	20	1.0	14830	42690	 showed that he was 	 showed that he was 
+doyle_adventures_4_d	21	1.0	18596	28419	 could not have been 	 could not have been 
+doyle_adventures_4_d	22	1.0	18596	39024	 could not have been m	 could not have been m
+doyle_baskervilles_4_u	22	0.9545454545454546	6704	558	t there was somethin’ 	t there was something 
+doyle_baskervilles_4_u	20	0.95	10709	19232	 his companion, and 	 his companion, had 
+doyle_baskervilles_4_u	22	1.0	18626	325	 thirty years of age, 	 thirty years of age, 
+doyle_adventures_3_d	20	0.95	728	29734	 characteristics of 	 characteristics to 
+doyle_adventures_3_d	21	0.9523809523809523	6705	18648	 there was somethin’ 	 there was something 
+doyle_adventures_3_d	21	0.9523809523809523	6705	19517	 there was somethin’ 	 there was something 
+doyle_adventures_3_d	21	1.0	15419	35048	 at the sight of the 	 at the sight of the 
+doyle_adventures_3_d	24	1.0	16775	23601	 he continued, glancing 	 he continued, glancing 
+doyle_adventures_3_d	22	1.0	18626	27182	 thirty years of age, 	 thirty years of age, 
+doyle_adventures_1_d	21	0.9523809523809523	6705	19678	 there was somethin’ 	 there was something 
+doyle_adventures_1_d	20	0.95	13656	24103	 appeared to be in c	 appeared to be in a
+doyle_adventures_1_d	21	0.9523809523809523	14021	22000	 their horses, and we	 their horses, and re
+doyle_adventures_1_d	24	1.0	16775	9633	 he continued, glancing 	 he continued, glancing 
+doyle_signoffour_11_d	20	0.95	10563	6838	 drooped over the ti	 drooped over the si
+doyle_baskervilles_6_u	20	0.95	1269	1898	s. These are the sol	s. These are the fol
+doyle_baskervilles_6_u	21	0.9523809523809523	2378	12143	ere and there there a	ere and there where a
+doyle_baskervilles_6_u	20	1.0	7487	15065	” “Do you mean that 	” “Do you mean that 
+doyle_baskervilles_6_u	21	0.9523809523809523	10273	12639	 the shadow of the bo	 the shadow of the po
+doyle_baskervilles_6_u	21	1.0	18596	18693	 could not have been 	 could not have been 
+doyle_baskervilles_2_u	21	0.9523809523809523	2842	12956	n the fourth of May, 	n the fourth of May S
+doyle_baskervilles_2_u	22	1.0	7349	18554	 over my shoulder and 	 over my shoulder and 
+doyle_baskervilles_2_u	20	1.0	13716	17099	 there are no other 	 there are no other 
+doyle_baskervilles_2_u	20	0.95	14021	5784	 their horses, and w	 their horses, and s
+doyle_adventures_5_d	20	0.95	1336	34240	d there can be no mo	d there can be no do
+doyle_adventures_5_d	21	0.9523809523809523	5363	14101	 showed that she had 	 showed that he had d
+doyle_adventures_5_d	20	0.95	18830	1241	 an account of the e	 an account of the a
+doyle_baskervilles_13_u	20	0.95	2079	18296	d there is nothing a	d there is nothing w
+doyle_baskervilles_13_u	20	0.95	2950	6470	 might have been the	 might have been tha
+doyle_baskervilles_13_u	20	1.0	5505	6854	s which covered the 	s which covered the 
+doyle_signoffour_9_d	24	1.0	11312	5213	 come to the conclusion 	 come to the conclusion 
+doyle_adventures_7_d	20	0.95	728	6124	 characteristics of 	 characteristic of h
+doyle_adventures_7_d	20	0.95	728	17298	 characteristics of 	 characteristic of t
+doyle_adventures_7_d	20	0.95	14487	11078	 with astonishment, 	 with astonishment. 
+doyle_adventures_7_d	29	0.9655172413793104	15622	33265	 staggered to his feet and lo	 staggered to his feet and cl
+doyle_baskervilles_11_u	20	0.95	2464	17049	t against the dull d	t against the dull g
+doyle_baskervilles_11_u	26	1.0	4074	22398	 which might indicate the 	 which might indicate the 
+doyle_baskervilles_11_u	22	0.9545454545454546	5363	23967	 showed that she had s	 showed that he had st
+doyle_baskervilles_11_u	20	1.0	16280	17484	 upon his shoulder, 	 upon his shoulder, 
+doyle_adventures_11_d	26	1.0	2942	22157	 that he might have been t	 that he might have been t
+doyle_adventures_11_d	21	0.9523809523809523	5363	44793	 showed that she had 	 showed that he had a
+doyle_adventures_11_d	20	0.95	7314	5132	 in this direction, 	 in this direction d
+doyle_adventures_11_d	20	1.0	14487	42007	 with astonishment, 	 with astonishment, 
+doyle_adventures_11_d	22	1.0	15418	18681	, at the sight of the 	, at the sight of the 
+doyle_scarlet_9_d	23	0.9565217391304348	8734	10099	,” said her companion, 	,” said her companion. 
+doyle_scarlet_9_d	20	0.95	14492	7014	 astonishment, and o	 astonishment, and e
+doyle_scarlet_9_d	20	0.95	16397	9417	 John Ferrier,” the 	 John Ferrier,” he r

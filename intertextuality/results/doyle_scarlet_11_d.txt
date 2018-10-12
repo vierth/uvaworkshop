@@ -1,0 +1,257 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_8_d	20	0.95	11830	1050	s as well that the s	s as well that the f
+doyle_adventures_8_d	20	0.95	13099	42035	 extinguished, and f	 extinguished, and a
+doyle_adventures_8_d	20	0.95	15307	45827	. The instant that t	. The instant that w
+doyle_signoffour_6_d	20	0.95	627	11739	 in possession of hi	 in possession of th
+doyle_signoffour_6_d	20	1.0	14042	12525	ed through into the 	ed through into the 
+doyle_scarlet_6_d	20	0.95	1113	1597	 Joseph Stangerson, 	 Joseph Stangerson. 
+doyle_scarlet_6_d	21	0.9523809523809523	1113	17748	 Joseph Stangerson, w	 Joseph Stangerson,” 
+doyle_scarlet_6_d	20	0.95	2292	13768	ing in the doorway, 	ing in the doorway l
+doyle_scarlet_6_d	20	0.95	2393	17499	e,” he said at last,	e,” he said at last-
+doyle_scarlet_6_d	22	0.9545454545454546	5521	15355	d said nothing to his 	d said nothing to him 
+doyle_scarlet_6_d	20	1.0	6022	17382	n the centre of the 	n the centre of the 
+doyle_scarlet_6_d	20	0.95	9535	6021	 a sigh of relief, F	 a sigh of relief, a
+doyle_scarlet_6_d	20	1.0	17642	16487	 perceived him, and 	 perceived him, and 
+doyle_scarlet_14_d	20	0.95	1113	9987	 Joseph Stangerson, 	 Joseph Stangerson. 
+doyle_scarlet_14_d	49	1.0	9980	13539	s he watched it he saw it writhe along the ground	s he watched it he saw it writhe along the ground
+doyle_scarlet_14_d	20	1.0	13776	209	 Jefferson Hope had 	 Jefferson Hope had 
+doyle_scarlet_4_d	20	0.95	696	13374	eaning back in the r	eaning back in the c
+doyle_scarlet_4_d	21	0.9523809523809523	10127	9745	 sprang to his feet, 	 sprang to his feet w
+doyle_scarlet_4_d	20	0.95	11082	3956	,” he said. “There a	,” he said. “There i
+doyle_scarlet_4_d	20	0.95	14006	1240	 the night, and then	 the night, and, the
+doyle_scarlet_4_d	22	0.9545454545454546	15386	9744	e sprang to his feet, 	e sprang to his feet w
+doyle_signoffour_4_d	20	1.0	6022	231	n the centre of the 	n the centre of the 
+doyle_signoffour_4_d	20	1.0	6022	1838	n the centre of the 	n the centre of the 
+doyle_signoffour_4_d	20	0.95	8778	14221	 for a few moments, 	 for a few moments. 
+doyle_signoffour_4_d	21	0.9523809523809523	11865	11870	sleep in the house.” 	sleep in the house. L
+doyle_signoffour_4_d	20	0.95	16258	117	, until he came to t	, until he came to a
+doyle_scarlet_10_d	20	0.95	1365	9835	all.” John Ferrier b	all.” John Ferrier u
+doyle_scarlet_10_d	21	0.9523809523809523	2393	6797	e,” he said at last, 	e,” he said at last. 
+doyle_scarlet_10_d	20	0.95	7560	3187	 knowledge of the mo	 knowledge of the or
+doyle_scarlet_10_d	22	1.0	8160	10086	 upon the wall of his 	 upon the wall of his 
+doyle_scarlet_10_d	20	1.0	8284	2155	 vague and terrible 	 vague and terrible 
+doyle_scarlet_10_d	25	1.0	10705	8856	,” her father answered. “	,” her father answered. “
+doyle_scarlet_10_d	20	0.95	13305	180	he thought of the ho	he thought of the yo
+doyle_scarlet_10_d	20	0.95	13776	67	 Jefferson Hope had 	 Jefferson Hope and 
+doyle_baskervilles_9_u	20	1.0	54	2306	 interview with the 	 interview with the 
+doyle_baskervilles_9_u	23	1.0	349	14191	 it was that he should 	 it was that he should 
+doyle_baskervilles_9_u	20	1.0	2394	26915	,” he said at last, 	,” he said at last, 
+doyle_baskervilles_9_u	22	1.0	5982	32457	ith a cry of surprise 	ith a cry of surprise 
+doyle_baskervilles_9_u	20	1.0	6022	19570	n the centre of the 	n the centre of the 
+doyle_baskervilles_9_u	22	0.9545454545454546	8523	24666	 the thought of his ow	 the thought of this w
+doyle_baskervilles_9_u	20	0.95	8741	6442	 listened intently. 	 listened intently, 
+doyle_baskervilles_9_u	20	0.95	8778	26880	 for a few moments, 	 for a few moments. 
+doyle_baskervilles_9_u	21	1.0	9927	32062	e figure was that of 	e figure was that of 
+doyle_baskervilles_9_u	21	0.9523809523809523	10127	30599	 sprang to his feet, 	 sprang to his feet a
+doyle_baskervilles_9_u	23	1.0	14600	28664	 within a few yards of 	 within a few yards of 
+doyle_baskervilles_9_u	22	1.0	14694	30387	e. At the same moment 	e. At the same moment 
+doyle_baskervilles_9_u	21	1.0	14695	30636	. At the same moment 	. At the same moment 
+doyle_baskervilles_9_u	28	0.9642857142857143	15345	16543	 died away in the distance, 	 died away in the distance. 
+doyle_baskervilles_9_u	26	0.9615384615384616	15386	30598	e sprang to his feet, and 	e sprang to his feet and t
+doyle_baskervilles_9_u	23	0.9565217391304348	16016	26144	 through the darkness, 	 through the darkness. 
+doyle_baskervilles_9_u	23	0.9565217391304348	16016	29906	 through the darkness, 	 through the darkness l
+doyle_baskervilles_9_u	20	1.0	16259	21817	 until he came to th	 until he came to th
+doyle_baskervilles_9_u	20	1.0	17210	6220	 between them and th	 between them and th
+doyle_scarlet_2_d	22	1.0	6650	8242	ccasionally they were 	ccasionally they were 
+doyle_scarlet_2_d	20	0.95	14928	9279	 who appeared to be 	 who appeared to me 
+doyle_scarlet_12_d	20	0.95	110	7519	 to Salt Lake City, 	 to Salt Lake City. 
+doyle_scarlet_12_d	22	0.9545454545454546	110	16574	 to Salt Lake City, an	 to Salt Lake City, ca
+doyle_scarlet_12_d	21	0.9523809523809523	463	10436	. As he approached hi	. As he approached, h
+doyle_scarlet_12_d	23	1.0	2533	14894	 The two young Mormons 	 The two young Mormons 
+doyle_scarlet_12_d	29	0.9655172413793104	3536	10365	 the clatter of horses’ hoofs	 the clatter of horse’s hoofs
+doyle_scarlet_12_d	20	1.0	3570	18369	 him that they were 	 him that they were 
+doyle_scarlet_12_d	30	0.9666666666666667	4222	16859	 the authority of the Elders. 	 the authority of the Elders, 
+doyle_scarlet_12_d	20	0.95	7139	8379	, but there was no n	, but there was no s
+doyle_scarlet_12_d	28	1.0	7560	173	 knowledge of the mountains 	 knowledge of the mountains 
+doyle_scarlet_12_d	23	1.0	8354	15888	what was to become of h	what was to become of h
+doyle_scarlet_12_d	20	0.95	11196	7937	 the young hunter an	 the young hunter ap
+doyle_scarlet_12_d	24	0.9583333333333334	11778	9601	 through the mountains. 	 through the mountains u
+doyle_scarlet_12_d	22	0.9545454545454546	11942	18923	 approaching journey, 	 approaching journey. 
+doyle_scarlet_12_d	24	1.0	12421	12431	,” said Jefferson Hope, 	,” said Jefferson Hope, 
+doyle_scarlet_12_d	22	1.0	12812	9601	 through the mountains	 through the mountains
+doyle_scarlet_12_d	23	1.0	13507	10782	 it was difficult to re	 it was difficult to re
+doyle_scarlet_12_d	20	1.0	13776	7594	 Jefferson Hope had 	 Jefferson Hope had 
+doyle_scarlet_12_d	23	0.9565217391304348	15367	8939	ance, Jefferson Hope sp	ance, Jefferson Hope po
+doyle_scarlet_12_d	20	0.95	15675	1482	Everything depends o	Everything depends u
+doyle_scarlet_12_d	20	0.95	17120	1147	 the hearts of the f	 the hearts of the t
+doyle_scarlet_12_d	25	1.0	17760	12431	,” said Jefferson Hope, w	,” said Jefferson Hope, w
+doyle_signoffour_2_d	20	0.95	690	7863	 was leaning back in	 was leaning back wi
+doyle_signoffour_2_d	21	0.9523809523809523	8494	6792	 upon the table and s	 upon the table, and 
+doyle_baskervilles_7_u	20	0.95	7139	1098	, but there was no n	, but there was no m
+doyle_baskervilles_7_u	20	0.95	7139	20471	, but there was no n	, but there was no r
+doyle_baskervilles_7_u	24	1.0	9891	10197	 first thought was that 	 first thought was that 
+doyle_baskervilles_7_u	20	0.95	13524	472	 to realize that the	 to realize that thi
+doyle_baskervilles_7_u	20	0.95	13607	1907	 set expression of t	 set expression of m
+doyle_baskervilles_7_u	20	0.95	17301	22939	, however, that they	, however, that ther
+doyle_signoffour_10_d	20	0.95	6881	14413	 at the sight of the	 at the sight of thi
+doyle_signoffour_10_d	20	1.0	7138	17282	n, but there was no 	n, but there was no 
+doyle_signoffour_10_d	21	0.9523809523809523	7808	131	e appeared to be no a	e appeared to be in a
+doyle_signoffour_10_d	23	0.9565217391304348	9568	10636	 to right and to left, 	 to right and to left o
+doyle_signoffour_10_d	23	1.0	10860	3975	 quite sharp enough to 	 quite sharp enough to 
+doyle_signoffour_10_d	21	1.0	14695	15617	. At the same moment 	. At the same moment 
+doyle_signoffour_10_d	20	1.0	14932	132	 appeared to be in a	 appeared to be in a
+doyle_baskervilles_5_u	20	0.95	6596	3221	 appeared upon the w	 appeared upon the s
+doyle_baskervilles_5_u	22	0.9545454545454546	10400	8668	ve had no time for bit	ve had no time, for it
+doyle_baskervilles_5_u	20	0.95	11024	10382	 hand and wrung it c	 hand and wrung it h
+doyle_signoffour_12_d	20	0.95	2776	50817	, and there is the w	, and there is the e
+doyle_signoffour_12_d	20	1.0	4501	11654	s given over to the 	s given over to the 
+doyle_signoffour_12_d	22	0.9545454545454546	7144	47466	 there was no news of 	 there was no news to 
+doyle_signoffour_12_d	21	1.0	7620	30691	 he knew that he was 	 he knew that he was 
+doyle_signoffour_12_d	20	0.95	7623	46563	 knew that he was po	 knew that he was go
+doyle_signoffour_12_d	20	1.0	8523	25454	 the thought of his 	 the thought of his 
+doyle_signoffour_12_d	27	1.0	9891	14738	 first thought was that the	 first thought was that the
+doyle_signoffour_12_d	20	0.95	11272	52642	 in this business I’	 in this business. I
+doyle_signoffour_12_d	20	1.0	14152	23715	 the shelter of the 	 the shelter of the 
+doyle_adventures_2_d	20	0.95	2776	10914	, and there is the w	, and there is the a
+doyle_adventures_2_d	20	1.0	6022	42007	n the centre of the 	n the centre of the 
+doyle_adventures_2_d	21	0.9523809523809523	10127	38145	 sprang to his feet, 	 sprang to his feet a
+doyle_adventures_2_d	27	0.9629629629629629	13509	29050	t was difficult to realize 	t was difficult to realise 
+doyle_adventures_2_d	20	0.95	15162	14297	 the other, and the 	 the others, and he 
+doyle_adventures_2_d	33	0.9696969696969697	15199	15481	ed away in different directions. 	ed away in different directions u
+doyle_adventures_2_d	23	0.9565217391304348	15386	38144	e sprang to his feet, a	e sprang to his feet ag
+doyle_adventures_2_d	20	0.95	15481	15359	 at the top of his s	 at the top of his v
+doyle_adventures_2_d	20	0.95	15616	19158	 from time to time. 	 from time to time t
+doyle_adventures_2_d	20	0.95	15948	13455	 which led to the mo	 which led to the of
+doyle_adventures_2_d	29	0.9655172413793104	18238	36105	 which he had heard in the ga	 which he had heard in the af
+doyle_baskervilles_14_u	20	0.95	627	16833	 in possession of hi	 in possession of th
+doyle_baskervilles_14_u	20	0.95	3565	12780	 told him that they 	 told him that the g
+doyle_baskervilles_14_u	20	0.95	3937	20785	 do not know what th	 do not know that th
+doyle_baskervilles_14_u	21	1.0	5849	19008	 he could never have 	 he could never have 
+doyle_baskervilles_14_u	21	1.0	6019	14125	. In the centre of th	. In the centre of th
+doyle_baskervilles_14_u	25	0.96	7587	3140	 which surrounded the set	 which surrounded the stu
+doyle_baskervilles_14_u	21	0.9523809523809523	13069	2661	 inside the house had	 inside the house, ha
+doyle_baskervilles_14_u	23	0.9565217391304348	16016	21575	 through the darkness, 	 through the darkness o
+doyle_baskervilles_10_u	28	1.0	23	488	 the morning which followed 	 the morning which followed 
+doyle_baskervilles_10_u	23	0.9565217391304348	18449	11600	 the solitary watcher l	 the solitary watcher, 
+doyle_adventures_6_d	21	0.9523809523809523	3937	42539	 do not know what the	 do not know that the
+doyle_adventures_6_d	21	0.9523809523809523	3937	47436	 do not know what the	 do not know that the
+doyle_adventures_6_d	20	0.95	4164	25054	t there had never be	t there had ever bef
+doyle_adventures_6_d	20	0.95	5985	32981	 a cry of surprise p	 a cry of surprise. 
+doyle_adventures_6_d	20	0.95	5985	46359	 a cry of surprise p	 a cry of surprise, 
+doyle_adventures_6_d	20	1.0	6881	21616	 at the sight of the	 at the sight of the
+doyle_adventures_6_d	22	0.9545454545454546	8494	17507	 upon the table and so	 upon the table and to
+doyle_adventures_6_d	21	0.9523809523809523	8494	37845	 upon the table and s	 upon the table, and 
+doyle_adventures_6_d	22	1.0	10434	2775	 eight-and-forty hours	 eight-and-forty hours
+doyle_adventures_6_d	21	1.0	13509	8503	t was difficult to re	t was difficult to re
+doyle_adventures_6_d	21	0.9523809523809523	15948	26978	 which led to the mou	 which led to the hou
+doyle_adventures_6_d	23	0.9565217391304348	16016	9042	 through the darkness, 	 through the darkness. 
+doyle_adventures_6_d	21	0.9523809523809523	16817	42434	. On the other hand a	. On the other hand, 
+doyle_signoffour_8_d	24	0.9583333333333334	8686	2360	 the door of the house. 	 the door of the house, 
+doyle_scarlet_8_d	23	1.0	1717	13807	, Brother Stangerson,” 	, Brother Stangerson,” 
+doyle_scarlet_8_d	23	1.0	1717	19423	, Brother Stangerson,” 	, Brother Stangerson,” 
+doyle_scarlet_8_d	20	1.0	6881	15419	 at the sight of the	 at the sight of the
+doyle_scarlet_8_d	20	0.95	7569	11836	e of the mountains w	e of the mountains, 
+doyle_scarlet_8_d	20	0.95	9707	4751	on the ground, with 	on the ground with s
+doyle_scarlet_8_d	25	1.0	10218	18670	 and resolute expression 	 and resolute expression 
+doyle_scarlet_8_d	21	0.9523809523809523	13017	18910	 with us,” he said wi	 with us,” he said, i
+doyle_scarlet_8_d	23	1.0	14928	13652	 who appeared to be in 	 who appeared to be in 
+doyle_scarlet_8_d	20	0.95	16497	14052	ng the precipitous a	ng the precipitous s
+doyle_scarlet_8_d	22	1.0	17371	17891	 They had reached the 	 They had reached the 
+doyle_scarlet_8_d	21	1.0	17509	8443	 which overlooked the	 which overlooked the
+doyle_adventures_10_d	22	0.9545454545454546	8494	1327	 upon the table and so	 upon the table and wo
+doyle_adventures_10_d	20	0.95	11095	42490	There are not many w	There are not many i
+doyle_adventures_10_d	21	0.9523809523809523	16817	15547	. On the other hand a	. On the other hand, 
+doyle_adventures_10_d	21	0.9523809523809523	17301	359	, however, that they 	, however, that the f
+doyle_adventures_10_d	21	0.9523809523809523	17788	24419	 his hand upon the ri	 his hand upon the ar
+doyle_baskervilles_1_u	22	0.9545454545454546	2776	8270	, and there is the win	, and there is the rin
+doyle_baskervilles_1_u	20	0.95	12095	7304	y experience that th	y experience that it
+doyle_adventures_12_d	27	0.9629629629629629	871	41917	 his hands in his pocket, w	 his hands in his pockets, 
+doyle_adventures_12_d	29	0.9655172413793104	3872	44936	t will not be long before he 	t will not be long before we 
+doyle_adventures_12_d	20	0.95	4777	14758	 the whole matter, t	 the whole matter to
+doyle_adventures_12_d	21	0.9523809523809523	7139	36462	, but there was no ne	, but there was no je
+doyle_adventures_12_d	20	1.0	7274	47738	 clattered down the 	 clattered down the 
+doyle_adventures_12_d	21	0.9523809523809523	8494	12321	 upon the table and s	 upon the table, and 
+doyle_adventures_12_d	20	0.95	8520	41383	 at the thought of h	 at the thought of s
+doyle_adventures_12_d	23	0.9565217391304348	12095	20471	y experience that the m	y experience, that the 
+doyle_adventures_12_d	21	0.9523809523809523	13611	41950	 expression of the yo	 expression of the mo
+doyle_baskervilles_3_u	20	0.95	3937	4212	 do not know what th	 do not know what to
+doyle_baskervilles_3_u	22	1.0	6935	220	 and his eyes had the 	 and his eyes had the 
+doyle_baskervilles_12_u	20	1.0	54	8781	 interview with the 	 interview with the 
+doyle_baskervilles_12_u	20	0.95	8686	10446	 the door of the hou	 the door of the hut
+doyle_baskervilles_12_u	20	1.0	15392	10391	ng to his feet, and 	ng to his feet, and 
+doyle_baskervilles_12_u	23	0.9565217391304348	16016	7730	 through the darkness, 	 through the darkness w
+doyle_baskervilles_12_u	23	0.9565217391304348	16016	13723	 through the darkness, 	 through the darkness. 
+doyle_baskervilles_12_u	20	1.0	17710	11004	 through the silent 	 through the silent 
+doyle_adventures_4_d	23	1.0	9704	13639	 upon the ground, with 	 upon the ground, with 
+doyle_adventures_4_d	20	1.0	13303	50368	 the thought of the 	 the thought of the 
+doyle_adventures_4_d	20	0.95	15616	45656	 from time to time. 	 from time to time, 
+doyle_adventures_4_d	22	1.0	16259	35783	 until he came to the 	 until he came to the 
+doyle_adventures_4_d	23	0.9565217391304348	16815	27495	er. On the other hand a	er. On the other hand, 
+doyle_adventures_4_d	21	0.9523809523809523	17301	7464	, however, that they 	, however, that the c
+doyle_baskervilles_4_u	20	0.95	352	6222	 was that he should 	 was that we should 
+doyle_baskervilles_4_u	30	0.9666666666666667	3872	11778	t will not be long before he c	t will not be long before the 
+doyle_baskervilles_4_u	21	0.9523809523809523	8494	1347	 upon the table and s	 upon the table, and 
+doyle_baskervilles_4_u	25	1.0	12646	16389	 through the side window 	 through the side window 
+doyle_baskervilles_4_u	21	1.0	17190	15722	creased the distance 	creased the distance 
+doyle_baskervilles_15_u	20	1.0	352	18321	 was that he should 	 was that he should 
+doyle_baskervilles_15_u	20	0.95	5858	14754	 never have known wh	 never have known th
+doyle_baskervilles_15_u	20	1.0	7045	13522	 the arrival of the 	 the arrival of the 
+doyle_baskervilles_15_u	20	1.0	8102	21981	 some way out of the	 some way out of the
+doyle_adventures_3_d	32	0.96875	866	31110	 with his hands in his pocket, w	 with his hands in his pockets, 
+doyle_adventures_3_d	25	1.0	3010	29976	et me know when you have 	et me know when you have 
+doyle_adventures_3_d	22	0.9545454545454546	4774	1293	 of the whole matter, 	 of the whole matter. 
+doyle_adventures_3_d	20	1.0	6022	2828	n the centre of the 	n the centre of the 
+doyle_adventures_3_d	20	1.0	6881	35048	 at the sight of the	 at the sight of the
+doyle_adventures_3_d	20	0.95	7560	37761	 knowledge of the mo	 knowledge of the wo
+doyle_adventures_3_d	20	1.0	8494	18775	 upon the table and 	 upon the table and 
+doyle_adventures_3_d	22	0.9545454545454546	10147	5867	 closed the door, and 	 closed the door and b
+doyle_adventures_3_d	26	0.9615384615384616	15481	35428	 at the top of his speed, 	 at the top of his speed d
+doyle_adventures_1_d	31	0.967741935483871	2555	45419	 stared at him in amazement. In	 stared at him in amazement. "I
+doyle_adventures_1_d	21	0.9523809523809523	5322	40293	at could have been. H	at could have been." 
+doyle_adventures_1_d	21	0.9523809523809523	7808	24102	e appeared to be no a	e appeared to be in a
+doyle_adventures_1_d	26	1.0	13502	14986	 that it was difficult to 	 that it was difficult to 
+doyle_adventures_1_d	20	1.0	14932	24103	 appeared to be in a	 appeared to be in a
+doyle_adventures_1_d	31	0.967741935483871	15201	27980	 away in different directions. 	 away in different directions, 
+doyle_adventures_1_d	20	0.95	16581	14315	 not accustomed to f	 not accustomed to d
+doyle_signoffour_11_d	21	1.0	8494	7313	 upon the table and s	 upon the table and s
+doyle_baskervilles_6_u	20	0.95	8723	13268	 into the hall and l	 into the hall, and 
+doyle_baskervilles_6_u	27	1.0	8737	18660	 and listened intently. The	 and listened intently. The
+doyle_baskervilles_6_u	21	1.0	8743	18666	istened intently. The	istened intently. The
+doyle_baskervilles_6_u	20	1.0	14321	3616	 two companions and 	 two companions and 
+doyle_baskervilles_2_u	28	0.9642857142857143	830	18489	 was standing in front of th	 was standing in front of hi
+doyle_baskervilles_2_u	24	0.9583333333333334	1183	1061	 stretched out His hand 	 stretched out his hand 
+doyle_baskervilles_2_u	20	1.0	13288	18910	e, however, and the 	e, however, and the 
+doyle_baskervilles_2_u	21	0.9523809523809523	13611	18597	 expression of the yo	 expression of the mo
+doyle_adventures_5_d	22	1.0	301	21997	 danger which threaten	 danger which threaten
+doyle_adventures_5_d	20	0.95	8177	7412	 his house, and the 	 his house, and ther
+doyle_adventures_5_d	26	0.9615384615384616	10575	35738	 devoured it voraciously. 	 devoured it voraciously, 
+doyle_baskervilles_13_u	22	1.0	48	15760	ed his interview with 	ed his interview with 
+doyle_baskervilles_13_u	24	1.0	7041	20279	 for the arrival of the 	 for the arrival of the 
+doyle_baskervilles_13_u	21	1.0	7962	12623	 what he regarded as 	 what he regarded as 
+doyle_baskervilles_13_u	20	0.95	18057	16227	 that that was the h	 that that was the p
+doyle_baskervilles_13_u	21	1.0	18295	12973	 with you,” said the 	 with you,” said the 
+doyle_signoffour_9_d	21	0.9523809523809523	7139	3297	, but there was no ne	, but there was none.
+doyle_signoffour_9_d	20	0.95	15616	4461	 from time to time. 	 from time to time h
+doyle_signoffour_9_d	21	0.9523809523809523	17301	8148	, however, that they 	, however, that the p
+doyle_adventures_7_d	20	0.95	627	3733	 in possession of hi	 in possession of th
+doyle_adventures_7_d	20	1.0	6022	11424	n the centre of the 	n the centre of the 
+doyle_adventures_7_d	23	0.9565217391304348	6022	29177	n the centre of the cei	n the centre of the cir
+doyle_adventures_7_d	22	0.9545454545454546	9532	20970	ith a sigh of relief, 	ith a sigh of relief. 
+doyle_adventures_7_d	21	0.9523809523809523	16817	8809	. On the other hand a	. On the other hand, 
+doyle_baskervilles_11_u	20	0.95	5538	12044	 his daughter, but t	 his daughter, but I
+doyle_baskervilles_11_u	21	1.0	5569	19506	 struck a chill into 	 struck a chill into 
+doyle_baskervilles_11_u	20	0.95	5919	9027	 next morning. They 	 next morning.” The 
+doyle_baskervilles_11_u	20	0.95	13686	14334	 had seen enough to 	 had seen enough of 
+doyle_baskervilles_11_u	22	0.9545454545454546	16816	11208	r. On the other hand a	r. On the other hand, 
+doyle_adventures_11_d	20	1.0	50	41690	 his interview with 	 his interview with 
+doyle_adventures_11_d	20	0.95	361	25917	 he should return. H	 he should return. W
+doyle_adventures_11_d	22	1.0	494	41876	 was surprised to see 	 was surprised to see 
+doyle_adventures_11_d	21	0.9523809523809523	866	277	 with his hands in hi	 with his hands in th
+doyle_adventures_11_d	24	0.9583333333333334	3137	17593	 with rage. “You have de	 with rage. 'You have de
+doyle_adventures_11_d	20	0.95	3937	31864	 do not know what th	 do not know what to
+doyle_adventures_11_d	20	0.95	4734	10425	ter, however, and af	ter, however, and ha
+doyle_adventures_11_d	20	0.95	6023	2498	 the centre of the c	 the centre of the r
+doyle_adventures_11_d	20	0.95	6596	43590	 appeared upon the w	 appeared upon the s
+doyle_adventures_11_d	20	1.0	6881	18682	 at the sight of the	 at the sight of the
+doyle_adventures_11_d	21	0.9523809523809523	7139	29798	, but there was no ne	, but there was no an
+doyle_adventures_11_d	20	0.95	7139	35790	, but there was no n	, but there was no s
+doyle_adventures_11_d	23	1.0	9803	2415	 against the wall with 	 against the wall with 
+doyle_adventures_11_d	22	1.0	10526	8921	 lying upon the table 	 lying upon the table 
+doyle_adventures_11_d	24	1.0	14599	31794	d within a few yards of 	d within a few yards of 
+doyle_adventures_11_d	20	0.95	14737	42147	e emerged from the g	e emerged from the r
+doyle_scarlet_9_d	20	0.95	110	10886	 to Salt Lake City, 	 to Salt Lake City i
+doyle_scarlet_9_d	23	0.9565217391304348	182	10822	 the Nevada Mountains, 	 the Nevada Mountains p
+doyle_scarlet_9_d	23	0.9565217391304348	6022	1501	n the centre of the cei	n the centre of the cit
+doyle_scarlet_9_d	21	1.0	13775	12455	, Jefferson Hope had 	, Jefferson Hope had 
+doyle_scarlet_9_d	30	1.0	14688	8747	istance. At the same moment a 	istance. At the same moment a 
+doyle_scarlet_9_d	20	0.95	17120	546	 the hearts of the f	 the hearts of the s

@@ -1,0 +1,140 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_baskervilles_13_u	22	0.9545454545454546	979	16060	 in connection with it	 in connection with th
+doyle_baskervilles_13_u	21	1.0	2006	15863	 circumstances which 	 circumstances which 
+doyle_baskervilles_13_u	20	0.95	3937	8885	 in his hand, and hi	 in his hand, and he
+doyle_baskervilles_13_u	20	1.0	9711	14289	. There was nothing 	. There was nothing 
+doyle_baskervilles_13_u	20	0.95	15784	19547	I should certainly s	I should certainly b
+doyle_baskervilles_13_u	20	0.95	18784	18526	d Sherlock Holmes. "	d Sherlock Holmes. “
+doyle_baskervilles_13_u	24	0.9583333333333334	18784	19877	d Sherlock Holmes. "You 	d Sherlock Holmes. “You 
+doyle_baskervilles_13_u	23	0.9565217391304348	29417	18522	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_baskervilles_13_u	23	0.9565217391304348	29417	19873	 said Sherlock Holmes, 	 said Sherlock Holmes. 
+doyle_baskervilles_13_u	20	1.0	33238	12596	 that he was deeply 	 that he was deeply 
+doyle_baskervilles_13_u	22	0.9545454545454546	34795	19536	, and that I should se	, and that I should ce
+doyle_baskervilles_13_u	21	1.0	38034	4518	I have no doubt that 	I have no doubt that 
+doyle_signoffour_9_d	20	0.95	69	3338	 Sherlock Holmes cas	 Sherlock Holmes has
+doyle_signoffour_9_d	21	0.9523809523809523	1631	3338	 Sherlock Holmes was 	 Sherlock Holmes has 
+doyle_signoffour_9_d	21	0.9523809523809523	2645	91	. Sherlock Holmes sat	. Sherlock Holmes sti
+doyle_signoffour_9_d	20	0.95	2645	3337	. Sherlock Holmes sa	. Sherlock Holmes ha
+doyle_signoffour_9_d	20	0.95	2645	11064	. Sherlock Holmes sa	. Sherlock Holmes is
+doyle_signoffour_9_d	20	0.95	2645	12076	. Sherlock Holmes sa	. Sherlock Holmes is
+doyle_signoffour_9_d	21	0.9523809523809523	3481	3338	 Sherlock Holmes was 	 Sherlock Holmes has 
+doyle_signoffour_9_d	24	0.9583333333333334	4035	14210	. He looked about him an	. He looked about him in
+doyle_signoffour_9_d	21	0.9523809523809523	4108	260	 that his face was pa	 that his face was da
+doyle_signoffour_9_d	20	0.95	4691	17517	." "That is easily g	." "That is easily m
+doyle_signoffour_9_d	21	0.9523809523809523	23249	91	. Sherlock Holmes sat	. Sherlock Holmes sti
+doyle_signoffour_9_d	20	0.95	23249	3337	. Sherlock Holmes sa	. Sherlock Holmes ha
+doyle_signoffour_9_d	20	0.95	23249	11064	. Sherlock Holmes sa	. Sherlock Holmes is
+doyle_signoffour_9_d	20	0.95	23249	12076	. Sherlock Holmes sa	. Sherlock Holmes is
+doyle_signoffour_9_d	20	0.95	23909	4812	," he answered. "The	," he answered. "Thi
+doyle_signoffour_9_d	22	0.9545454545454546	32462	3337	. Sherlock Holmes was 	. Sherlock Holmes has 
+doyle_signoffour_9_d	20	1.0	33633	7960	s quite impossible t	s quite impossible t
+doyle_signoffour_9_d	20	0.95	35520	3105	 evening before I re	 evening before I le
+doyle_signoffour_9_d	22	0.9545454545454546	35562	3337	. Sherlock Holmes had 	. Sherlock Holmes has 
+doyle_signoffour_9_d	20	0.95	35562	14281	. Sherlock Holmes ha	. Sherlock Holmes he
+doyle_adventures_7_d	21	0.9523809523809523	915	12908	ve some account of it	ve some account of th
+doyle_adventures_7_d	50	0.96	961	909	t there are points in connection with it which nev	t there are points in connection with it which are
+doyle_adventures_7_d	24	0.9583333333333334	1255	2141	 the adventure of the Pa	 the adventure of the ma
+doyle_adventures_7_d	22	1.0	2645	11627	. Sherlock Holmes sat 	. Sherlock Holmes sat 
+doyle_adventures_7_d	21	0.9523809523809523	3479	10889	." Sherlock Holmes wa	." Sherlock Holmes ha
+doyle_adventures_7_d	20	0.95	3479	21431	." Sherlock Holmes w	." Sherlock Holmes g
+doyle_adventures_7_d	21	0.9523809523809523	3479	31288	." Sherlock Holmes wa	." Sherlock Holmes ha
+doyle_adventures_7_d	20	0.95	4443	24835	," said Holmes. "The	," said Holmes. The 
+doyle_adventures_7_d	20	1.0	5250	2426	I beg that you will 	I beg that you will 
+doyle_adventures_7_d	20	0.95	9954	10563	 in one hand, and a 	 in one hand and a g
+doyle_adventures_7_d	23	0.9565217391304348	10280	32524	to the room. The fire w	to the room. "The fire 
+doyle_adventures_7_d	20	0.95	12280	11822	 as though it were n	 as though it were p
+doyle_adventures_7_d	20	1.0	12630	39632	here was no sign of 	here was no sign of 
+doyle_adventures_7_d	20	0.95	12905	8560	 out of his way to m	 out of his way to t
+doyle_adventures_7_d	20	0.95	12987	3736	 possession of the e	 possession of the f
+doyle_adventures_7_d	20	1.0	13515	9194	 examination of the 	 examination of the 
+doyle_adventures_7_d	22	1.0	15267	3039	ng over his shoulder. 	ng over his shoulder. 
+doyle_adventures_7_d	22	1.0	16326	36065	 it seemed to me that 	 it seemed to me that 
+doyle_adventures_7_d	21	0.9523809523809523	18414	28002	.'" "What have you do	.'" "What have you to
+doyle_adventures_7_d	20	0.95	20595	19441	 is undoubtedly my u	 is undoubtedly my h
+doyle_adventures_7_d	25	1.0	22340	10401	 think that there can be 	 think that there can be 
+doyle_adventures_7_d	22	1.0	23249	11627	. Sherlock Holmes sat 	. Sherlock Holmes sat 
+doyle_adventures_7_d	21	0.9523809523809523	24010	8313	?" Sherlock Holmes cl	?" Sherlock Holmes la
+doyle_adventures_7_d	22	0.9545454545454546	24010	28031	?" Sherlock Holmes clo	?" Sherlock Holmes loo
+doyle_adventures_7_d	22	1.0	26816	28617	 the idea that he was 	 the idea that he was 
+doyle_adventures_7_d	20	0.95	27383	1837	. We have already a 	. We have already ha
+doyle_adventures_7_d	20	0.95	27421	20394	 no doubt that the p	 no doubt that the g
+doyle_adventures_7_d	24	1.0	29416	1405	" said Sherlock Holmes, 	" said Sherlock Holmes, 
+doyle_adventures_7_d	24	0.9583333333333334	31707	12612	, if I remember right, '	, if I remember aright, 
+doyle_adventures_7_d	20	0.95	32462	11627	. Sherlock Holmes wa	. Sherlock Holmes sa
+doyle_adventures_7_d	21	1.0	32521	30456	. "You will excuse me	. "You will excuse me
+doyle_adventures_7_d	23	1.0	33577	4544	 that, in spite of the 	 that, in spite of the 
+doyle_adventures_7_d	20	0.95	34254	20394	 no doubt that the d	 no doubt that the g
+doyle_adventures_7_d	24	0.9583333333333334	34983	32402	 and unclasping of his l	 and unclaspings of his 
+doyle_adventures_7_d	20	0.95	35256	28658	. Well, Watson, we s	. Well, Watson, we a
+doyle_adventures_7_d	20	0.95	35562	11627	. Sherlock Holmes ha	. Sherlock Holmes sa
+doyle_adventures_7_d	20	0.95	35563	31290	 Sherlock Holmes had	 Sherlock Holmes hai
+doyle_adventures_7_d	20	0.95	36777	39096	ll have the others, 	ll have the other, a
+doyle_adventures_7_d	24	0.9583333333333334	38033	2194	 I have no doubt that sh	 I have no doubt that th
+doyle_adventures_7_d	21	1.0	38034	7483	I have no doubt that 	I have no doubt that 
+doyle_baskervilles_11_u	25	1.0	450	3727	t is the object of these 	t is the object of these 
+doyle_baskervilles_11_u	20	0.95	4151	16175	 like those of a man	 like those of an an
+doyle_baskervilles_11_u	20	1.0	6305	10096	 at the time of the 	 at the time of the 
+doyle_baskervilles_11_u	22	0.9545454545454546	11907	2696	man, and that he was n	man, and that she was 
+doyle_baskervilles_11_u	20	1.0	14101	23967	 showed that he had 	 showed that he had 
+doyle_baskervilles_11_u	21	1.0	20191	23010	s which lay amid the 	s which lay amid the 
+doyle_baskervilles_11_u	20	0.95	22340	12915	 think that there ca	 think that there ar
+doyle_baskervilles_11_u	21	0.9523809523809523	27152	4247	s of those letters?" 	s of those letters?” 
+doyle_baskervilles_11_u	20	0.95	31301	12999	 with their papers. 	 with their papers a
+doyle_baskervilles_11_u	21	0.9523809523809523	32363	22872	 the sun was shining 	 the sun was sinking 
+doyle_baskervilles_11_u	24	0.9583333333333334	34369	13880	 the attention of the au	 the attention of the pu
+doyle_baskervilles_11_u	22	0.9545454545454546	35515	1005	n the evening before I	n the evening before, 
+doyle_adventures_11_d	20	0.95	571	36211	 beginnings without 	 beginning without y
+doyle_adventures_11_d	22	1.0	2645	21231	. Sherlock Holmes sat 	. Sherlock Holmes sat 
+doyle_adventures_11_d	20	0.95	2646	39024	 Sherlock Holmes sat	 Sherlock Holmes rat
+doyle_adventures_11_d	20	1.0	2674	43195	 at one side of the 	 at one side of the 
+doyle_adventures_11_d	20	0.95	3479	30680	." Sherlock Holmes w	." Sherlock Holmes t
+doyle_adventures_11_d	21	1.0	4332	37526	 that I have brought 	 that I have brought 
+doyle_adventures_11_d	21	0.9523809523809523	4759	8175	I have heard of you, 	I have heard of you. 
+doyle_adventures_11_d	20	0.95	5135	4962	 the number of your 	 the number of our d
+doyle_adventures_11_d	20	1.0	5250	16305	I beg that you will 	I beg that you will 
+doyle_adventures_11_d	22	0.9545454545454546	5250	31297	I beg that you will dr	I beg that you will br
+doyle_adventures_11_d	20	0.95	7757	14328	 I was a youngster o	 I was a youngster I
+doyle_adventures_11_d	28	1.0	8761	8927	 upon the table in front of 	 upon the table in front of 
+doyle_adventures_11_d	26	0.9615384615384616	8823	35866	common thing for him to re	common thing for him to be
+doyle_adventures_11_d	23	0.9565217391304348	11795	10129	 out of the house and t	 out of the house, and 
+doyle_adventures_11_d	20	1.0	12630	35797	here was no sign of 	here was no sign of 
+doyle_adventures_11_d	21	0.9523809523809523	12987	7195	 possession of the es	 possessions of the e
+doyle_adventures_11_d	28	1.0	13507	30208	 careful examination of the 	 careful examination of the 
+doyle_adventures_11_d	20	1.0	14101	44793	 showed that he had 	 showed that he had 
+doyle_adventures_11_d	21	0.9523809523809523	20046	30938	t upon the table. "I 	t upon the table. It 
+doyle_adventures_11_d	20	0.95	20150	43484	 observed that the s	 observed that the c
+doyle_adventures_11_d	20	0.95	20312	23246	 inclined to think t	 inclined to think? 
+doyle_adventures_11_d	22	0.9545454545454546	21836	50579	I think that we may ga	I think that we may sa
+doyle_adventures_11_d	21	1.0	22331	26151	 I do not think that 	 I do not think that 
+doyle_adventures_11_d	22	1.0	23249	21231	. Sherlock Holmes sat 	. Sherlock Holmes sat 
+doyle_adventures_11_d	20	0.95	23250	39024	 Sherlock Holmes sat	 Sherlock Holmes rat
+doyle_adventures_11_d	20	0.95	24464	10065	 thoroughly understo	 thoroughly understa
+doyle_adventures_11_d	20	0.95	27420	15855	e no doubt that the 	e no doubt that she 
+doyle_adventures_11_d	20	0.95	27420	41276	e no doubt that the 	e no doubt that she 
+doyle_adventures_11_d	20	1.0	28935	15925	 I think that it is 	 I think that it is 
+doyle_adventures_11_d	22	0.9545454545454546	28966	24541	 that there must be mo	 that there must be so
+doyle_adventures_11_d	24	0.9583333333333334	29416	39018	" said Sherlock Holmes, 	" said Sherlock Holmes r
+doyle_adventures_11_d	22	1.0	31258	22814	 the disappearance of 	 the disappearance of 
+doyle_adventures_11_d	21	1.0	31361	30769	It is no wonder that 	It is no wonder that 
+doyle_adventures_11_d	21	0.9523809523809523	32343	18186	 in the morning, and 	 in the morning and m
+doyle_adventures_11_d	23	0.9565217391304348	32343	26406	 in the morning, and th	 in the morning, and it
+doyle_adventures_11_d	20	0.95	32462	21231	. Sherlock Holmes wa	. Sherlock Holmes sa
+doyle_adventures_11_d	20	0.95	32503	36040	t when I came down. 	t when I came down t
+doyle_adventures_11_d	22	0.9545454545454546	32521	36190	. "You will excuse me 	. "You will excuse my 
+doyle_adventures_11_d	20	0.95	32523	36192	"You will excuse me 	"You will excuse my 
+doyle_adventures_11_d	20	1.0	33373	33145	etween nine and ten 	etween nine and ten 
+doyle_adventures_11_d	20	0.95	34253	15855	e no doubt that the 	e no doubt that she 
+doyle_adventures_11_d	20	0.95	34253	41276	e no doubt that the 	e no doubt that she 
+doyle_adventures_11_d	25	0.96	34937	35596	 upon his sallow cheeks a	 upon his sallow cheeks. 
+doyle_adventures_11_d	21	0.9523809523809523	35516	44474	 the evening before I	 the evening before, 
+doyle_adventures_11_d	20	0.95	35562	21231	. Sherlock Holmes ha	. Sherlock Holmes sa
+doyle_adventures_11_d	20	0.95	35686	34542	 the sideboard, and 	 the sideboard, sand
+doyle_adventures_11_d	20	0.95	37570	46324	 I found that the ba	 I found that the pa
+doyle_adventures_11_d	21	1.0	37646	47834	 became a certainty. 	 became a certainty. 
+doyle_adventures_11_d	20	0.95	37838	28673	 that she had been t	 that she had been o
+doyle_adventures_11_d	22	1.0	38033	10911	 I have no doubt that 	 I have no doubt that 
+doyle_adventures_11_d	26	1.0	38033	15849	 I have no doubt that she 	 I have no doubt that she 
+doyle_adventures_11_d	26	1.0	38033	41270	 I have no doubt that she 	 I have no doubt that she 
+doyle_scarlet_9_d	23	0.9565217391304348	15267	9362	ng over his shoulder. "	ng over his shoulders. 
+doyle_scarlet_9_d	22	0.9545454545454546	29185	3947	 determination. Their 	 determination. There 
+doyle_scarlet_9_d	20	0.95	32349	5988	e morning, and the s	e morning, and the L

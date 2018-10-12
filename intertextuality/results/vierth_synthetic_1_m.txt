@@ -1,0 +1,9 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+vierth_synthetic_3_m	43	0.9534883720930233	1090	418	s a few different variations across all of 	s a few different variations across all dif
+doyle_scarlet_11_d	20	0.95	919	17210	 between them, and h	 between them and th
+doyle_scarlet_11_d	20	0.95	2062	17210	 between them, and h	 between them and th
+vierth_synthetic_2_m	104	0.96	1046	339	. This is a synthetic text that only contains a few different variations across all of the lines.The pro	. This is a synthetic text that only contains a few different variations across all of the lines. Cather
+doyle_baskervilles_9_u	21	0.9523809523809523	919	6220	 between them, and ha	 between them and tha
+doyle_baskervilles_9_u	21	0.9523809523809523	2062	6220	 between them, and ha	 between them and tha
+doyle_adventures_1_d	22	0.9545454545454546	919	23266	 between them, and has	 between them, and wha
+doyle_adventures_1_d	22	0.9545454545454546	2062	23266	 between them, and has	 between them, and wha

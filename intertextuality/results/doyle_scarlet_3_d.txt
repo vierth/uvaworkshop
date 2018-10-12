@@ -1,0 +1,554 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_signoffour_3_d	38	1.0	5136	5402	 business upon which we were engaged, 	 business upon which we were engaged, 
+doyle_signoffour_3_d	20	0.95	11600	7811	. Sherlock Holmes ap	. Sherlock Holmes wa
+doyle_signoffour_3_d	20	0.95	17401	8404	 said my companion, 	 said my companion. 
+doyle_signoffour_3_d	23	0.9565217391304348	21044	1877	 said Sherlock Holmes c	 said Sherlock Holmes, 
+doyle_signoffour_1_d	22	0.9545454545454546	746	1696	 answered, brusquely; 	 answered, brusquely. 
+doyle_signoffour_1_d	20	1.0	1605	12992	 me to believe that 	 me to believe that 
+doyle_signoffour_1_d	23	1.0	2136	6078	 is the letter which I 	 is the letter which I 
+doyle_signoffour_1_d	20	1.0	5019	7507	 difference between 	 difference between 
+doyle_signoffour_1_d	24	0.9583333333333334	7381	528	 of satisfaction. There 	 of satisfaction. Three 
+doyle_signoffour_1_d	20	0.95	10231	11681	 staring up at the d	 staring up at the c
+doyle_signoffour_1_d	20	1.0	12677	6609	s necessary for the 	s necessary for the 
+doyle_signoffour_1_d	20	0.95	19307	12693	 with considerable c	 with considerable b
+doyle_signoffour_1_d	23	0.9565217391304348	21044	6499	 said Sherlock Holmes c	 said Sherlock Holmes, 
+doyle_scarlet_1_d	20	1.0	2183	1	 MR. SHERLOCK HOLMES	 MR. SHERLOCK HOLMES
+doyle_scarlet_1_d	21	0.9523809523809523	8795	12323	ked Sherlock Holmes. 	ked Sherlock Holmes, 
+doyle_scarlet_1_d	21	1.0	11934	11201	 has been committed. 	 has been committed. 
+doyle_scarlet_1_d	23	1.0	15667	11593	ed as he spoke, and he 	ed as he spoke, and he 
+doyle_scarlet_1_d	20	0.95	15668	12534	d as he spoke, and h	d as he spoke, and I
+doyle_scarlet_1_d	31	1.0	16294	10591	. “What do you think of that?” 	. “What do you think of that?” 
+doyle_scarlet_1_d	21	1.0	17258	9063	, Mr. Sherlock Holmes	, Mr. Sherlock Holmes
+doyle_scarlet_1_d	21	0.9523809523809523	17776	10260	.” As he spoke, he wh	.” As he spoke, he th
+doyle_scarlet_1_d	20	0.95	18645	13287	, and occasionally a	, and occasionally d
+doyle_scarlet_1_d	26	0.9615384615384616	19527	10591	. “What do you think of it	. “What do you think of th
+doyle_scarlet_1_d	28	1.0	20335	12429	,” he continued, turning to 	,” he continued, turning to 
+doyle_baskervilles_8_u	24	0.9583333333333334	1608	2372	 to believe that he had 	 to believe that he has 
+doyle_baskervilles_8_u	27	1.0	2339	12576	 about two in the morning, 	 about two in the morning, 
+doyle_baskervilles_8_u	20	0.95	15196	123	. Sherlock Holmes ch	. Sherlock Holmes wh
+doyle_baskervilles_8_u	22	0.9545454545454546	17259	120	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes w
+doyle_baskervilles_8_u	22	0.9545454545454546	18987	5807	 he appeared to be sat	 he appeared to be str
+doyle_scarlet_11_d	22	0.9545454545454546	264	17301	, however, that the wh	, however, that they w
+doyle_scarlet_11_d	20	0.95	484	6934	, and his eyes had a	, and his eyes had t
+doyle_scarlet_11_d	20	0.95	4035	4777	 the whole matter, y	 the whole matter, t
+doyle_scarlet_11_d	24	0.9583333333333334	7760	8686	 the door of the house w	 the door of the house. 
+doyle_scarlet_11_d	20	0.95	8501	9703	e upon the ground, t	e upon the ground, w
+doyle_scarlet_11_d	21	1.0	10587	16372	 was placed upon the 	 was placed upon the 
+doyle_scarlet_11_d	20	0.95	11181	14932	 appeared to me in a	 appeared to be in a
+doyle_scarlet_11_d	20	0.95	12764	11082	,” he said. “There i	,” he said. “There a
+doyle_scarlet_11_d	20	0.95	14096	1113	 Joseph Stangerson u	 Joseph Stangerson, 
+doyle_scarlet_11_d	22	0.9545454545454546	15978	9800	 up against the wall. 	 up against the wall w
+doyle_scarlet_11_d	27	0.9629629629629629	17986	9679	 lying flat upon his face. 	 lying flat upon his face u
+doyle_scarlet_11_d	22	1.0	18582	17197	 the distance between 	 the distance between 
+doyle_adventures_8_d	21	0.9523809523809523	1608	22035	 to believe that he h	 to believe that the 
+doyle_adventures_8_d	20	0.95	1618	51687	e that he had been a	e that he had been i
+doyle_adventures_8_d	29	0.9655172413793104	5145	27442	 upon which we were engaged, 	 upon which we were engaged. 
+doyle_adventures_8_d	24	0.9583333333333334	8792	21385	 asked Sherlock Holmes. 	 asked Sherlock Holmes, 
+doyle_adventures_8_d	20	0.95	11062	49725	e appearance, which 	e appearance which s
+doyle_adventures_8_d	20	0.95	11600	3733	. Sherlock Holmes ap	. Sherlock Holmes ra
+doyle_adventures_8_d	25	1.0	12372	50111	 I have already remarked 	 I have already remarked 
+doyle_adventures_8_d	25	0.96	14399	17397	 that this unfortunate ma	 that this unfortunate la
+doyle_adventures_8_d	23	1.0	15601	31471	 a careful examination 	 a careful examination 
+doyle_adventures_8_d	22	0.9545454545454546	16298	21349	hat do you think of th	hat do you think of it
+doyle_adventures_8_d	21	0.9523809523809523	16728	1449	 on the mantelpiece. 	 on the mantelpiece s
+doyle_adventures_8_d	20	0.95	17401	23612	 said my companion, 	 said my companion q
+doyle_adventures_8_d	22	1.0	17737	36611	 with your permission 	 with your permission 
+doyle_adventures_8_d	24	0.9583333333333334	19531	21349	hat do you think of it, 	hat do you think of it a
+doyle_adventures_8_d	20	1.0	19884	5713	I shall be happy to 	I shall be happy to 
+doyle_signoffour_6_d	20	0.95	12134	5661	. There is nothing n	. There is nothing m
+doyle_signoffour_6_d	35	1.0	12777	5663	There is nothing more to be learned	There is nothing more to be learned
+doyle_signoffour_6_d	23	1.0	13174	14495	 the palm of his hand. 	 the palm of his hand. 
+doyle_signoffour_6_d	20	0.95	13341	503	 complicates matters	 complicate matters.
+doyle_signoffour_6_d	21	0.9523809523809523	15405	64	, rubbing his hands i	, rubbing his hands, 
+doyle_signoffour_6_d	23	1.0	16297	10965	What do you think of th	What do you think of th
+doyle_signoffour_6_d	22	0.9545454545454546	17259	9774	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes, 
+doyle_signoffour_6_d	22	0.9545454545454546	17801	6245	d a tape measure and a	d a tape measure, and 
+doyle_signoffour_6_d	23	0.9565217391304348	19530	10965	What do you think of it	What do you think of th
+doyle_signoffour_6_d	23	0.9565217391304348	20533	14245	 coarse, square-toed bo	 coarse, square-toed so
+doyle_signoffour_6_d	23	0.9565217391304348	21044	4724	 said Sherlock Holmes c	 said Sherlock Holmes, 
+doyle_signoffour_6_d	23	0.9565217391304348	21044	14722	 said Sherlock Holmes c	 said Sherlock Holmes, 
+doyle_scarlet_6_d	21	0.9523809523809523	279	5619	 the whole thing was 	 the whole thing as c
+doyle_scarlet_6_d	20	0.95	2283	15687	 the Brixton Road. O	 the Brixton Road. W
+doyle_scarlet_6_d	23	0.9565217391304348	2854	15989	 into the empty house; 	 into the empty house. 
+doyle_scarlet_6_d	20	0.95	3971	5525	 “My dear fellow, wh	 “My dear fellow,” h
+doyle_scarlet_6_d	20	0.95	4764	15687	 the Brixton Road. I	 the Brixton Road. W
+doyle_scarlet_6_d	20	0.95	5516	15686	s the Brixton Road, 	s the Brixton Road. 
+doyle_scarlet_6_d	21	1.0	8796	8223	ed Sherlock Holmes. “	ed Sherlock Holmes. “
+doyle_scarlet_6_d	20	1.0	9478	538	 the absence of all 	 the absence of all 
+doyle_scarlet_6_d	20	0.95	11600	3099	. Sherlock Holmes ap	. Sherlock Holmes an
+doyle_scarlet_6_d	20	0.95	11600	5999	. Sherlock Holmes ap	. Sherlock Holmes ga
+doyle_scarlet_6_d	21	1.0	12784	15022	s nothing more to be 	s nothing more to be 
+doyle_scarlet_6_d	31	0.967741935483871	13895	8726	 Enoch J. Drebber of Cleveland,	 Enoch J. Drebber, of Cleveland
+doyle_scarlet_6_d	20	0.95	14096	1597	 Joseph Stangerson u	 Joseph Stangerson. 
+doyle_scarlet_6_d	21	0.9523809523809523	14188	1597	 Joseph Stangerson.” 	 Joseph Stangerson. T
+doyle_scarlet_6_d	22	0.9545454545454546	14188	17708	 Joseph Stangerson.” “	 Joseph Stangerson?” “
+doyle_scarlet_6_d	21	0.9523809523809523	14188	17748	 Joseph Stangerson.” 	 Joseph Stangerson,” 
+doyle_scarlet_6_d	20	0.95	15285	16795	 Lestrade, who had b	 Lestrade, who had s
+doyle_scarlet_6_d	20	0.95	15285	16944	 Lestrade, who had b	 Lestrade, who had a
+doyle_scarlet_6_d	23	0.9565217391304348	17258	6445	, Mr. Sherlock Holmes. 	, Mr. Sherlock Holmes, 
+doyle_scarlet_6_d	23	0.9565217391304348	17258	8570	, Mr. Sherlock Holmes. 	, Mr. Sherlock Holmes, 
+doyle_scarlet_6_d	21	1.0	17400	3911	” said my companion, 	” said my companion, 
+doyle_scarlet_6_d	20	0.95	18708	17527	 incomprehensible ma	 incomprehensible af
+doyle_scarlet_6_d	20	0.95	18987	17328	 he appeared to be s	 he appeared to be e
+doyle_scarlet_6_d	22	1.0	20901	3262	 Lestrade and Gregson 	 Lestrade and Gregson 
+doyle_scarlet_6_d	25	0.96	21042	14347	,” said Sherlock Holmes c	,” said Sherlock Holmes, 
+doyle_scarlet_14_d	28	1.0	2	12271	THE LAURISTON GARDEN MYSTERY	THE LAURISTON GARDEN MYSTERY
+doyle_scarlet_14_d	26	0.9615384615384616	1608	8504	 to believe that he had be	 to believe that he had ce
+doyle_scarlet_14_d	22	0.9545454545454546	5235	185	 the matter in hand,” 	 the matter in hand, a
+doyle_scarlet_14_d	20	0.95	6950	7306	 the circumstances, 	 the circumstances c
+doyle_scarlet_14_d	21	0.9523809523809523	7177	3328	ed slowly down the pa	ed slowly down the ga
+doyle_scarlet_14_d	20	0.95	8796	11220	ed Sherlock Holmes. 	ed Sherlock Holmes w
+doyle_scarlet_14_d	20	1.0	10177	396	 stretched upon the 	 stretched upon the 
+doyle_scarlet_14_d	20	0.95	11971	7306	 the circumstances a	 the circumstances c
+doyle_scarlet_14_d	75	0.96	12202	12543	As he spoke, his nimble fingers were flying here, there, and everywhere, fe	As he spoke, his nimble fingers were flying here, there, and everywhere.”] 
+doyle_scarlet_14_d	30	0.9666666666666667	12530	4802	 sniffed the dead man’s lips, 	 sniffed the dead man’s lips I
+doyle_scarlet_14_d	20	0.95	14096	9987	 Joseph Stangerson u	 Joseph Stangerson. 
+doyle_scarlet_14_d	21	0.9523809523809523	14188	9987	 Joseph Stangerson.” 	 Joseph Stangerson. T
+doyle_scarlet_14_d	20	0.95	14810	7306	 the circumstances, 	 the circumstances c
+doyle_scarlet_14_d	23	1.0	14954	3461	 appeared to you to be 	 appeared to you to be 
+doyle_scarlet_14_d	23	1.0	15553	7904	 which would have been 	 which would have been 
+doyle_scarlet_14_d	31	1.0	15600	6478	e a careful examination of the 	e a careful examination of the 
+doyle_scarlet_14_d	22	0.9545454545454546	17259	10862	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes, 
+doyle_scarlet_14_d	113	0.99	18865	11691	e examined with his glass the word upon the wall, going over every letter of it with the most minute exactness. T	e examined with his glass the word upon the wall, going over every letter of it with the most minute exactness.” 
+doyle_scarlet_14_d	21	1.0	19229	575	Gregson and Lestrade 	Gregson and Lestrade 
+doyle_scarlet_14_d	20	0.95	19435	1289	 Sherlock Holmes’ sm	 Sherlock Holmes, sm
+doyle_scarlet_14_d	21	0.9523809523809523	20572	6631	 Trichinopoly cigar. 	 Trichinopoly cigar a
+doyle_scarlet_14_d	20	0.95	20747	6178	y the murderer had a	y the murderer had u
+doyle_scarlet_14_d	23	0.9565217391304348	20901	10777	 Lestrade and Gregson g	 Lestrade and Gregson. 
+doyle_scarlet_14_d	25	0.96	21042	1282	,” said Sherlock Holmes c	,” said Sherlock Holmes, 
+doyle_scarlet_4_d	20	0.95	2237	1233	 during the night at	 during the night, a
+doyle_scarlet_4_d	23	0.9565217391304348	2257	66	 3, Lauriston Gardens, 	 3, Lauriston Gardens. 
+doyle_scarlet_4_d	20	0.95	2260	8188	 Lauriston Gardens, 	 Lauriston Gardens w
+doyle_scarlet_4_d	20	0.95	2283	7845	 the Brixton Road. O	 the Brixton Road. I
+doyle_scarlet_4_d	26	1.0	4764	7845	 the Brixton Road. It was 	 the Brixton Road. It was 
+doyle_scarlet_4_d	23	0.9565217391304348	5750	66	 3, Lauriston Gardens w	 3, Lauriston Gardens. 
+doyle_scarlet_4_d	20	1.0	5753	8188	 Lauriston Gardens w	 Lauriston Gardens w
+doyle_scarlet_4_d	20	1.0	6758	8649	at Sherlock Holmes w	at Sherlock Holmes w
+doyle_scarlet_4_d	20	0.95	7019	5379	ed up and down the p	ed up and down the r
+doyle_scarlet_4_d	26	1.0	8790	10831	?” asked Sherlock Holmes. 	?” asked Sherlock Holmes. 
+doyle_scarlet_4_d	22	1.0	12764	3956	,” he said. “There is 	,” he said. “There is 
+doyle_scarlet_4_d	20	0.95	16728	9497	 on the mantelpiece.	 on the mantelpiece-
+doyle_scarlet_4_d	20	0.95	17263	10839	 Sherlock Holmes. Yo	 Sherlock Holmes. Jo
+doyle_scarlet_4_d	22	1.0	19228	3074	 Gregson and Lestrade 	 Gregson and Lestrade 
+doyle_scarlet_4_d	20	0.95	19433	8649	at Sherlock Holmes’ 	at Sherlock Holmes w
+doyle_scarlet_4_d	21	0.9523809523809523	20221	12108	Come along, Doctor,” 	Come along, Doctor.” 
+doyle_scarlet_4_d	21	0.9523809523809523	20281	5149	I’ll tell you one thi	I’ll tell you one oth
+doyle_signoffour_4_d	20	1.0	1619	7268	 that he had been a 	 that he had been a 
+doyle_signoffour_4_d	22	1.0	9267	17195	 which the mysterious 	 which the mysterious 
+doyle_signoffour_4_d	20	0.95	10535	17723	 collar and cuffs. A	 collar and cuffs. T
+doyle_signoffour_4_d	21	0.9523809523809523	10799	13018	d an expression of ho	d an expression of co
+doyle_signoffour_4_d	20	0.95	11599	14570	e. Sherlock Holmes a	e. Sherlock Holmes l
+doyle_signoffour_4_d	21	1.0	12778	5068	here is nothing more 	here is nothing more 
+doyle_signoffour_4_d	20	0.95	15195	14570	e. Sherlock Holmes c	e. Sherlock Holmes l
+doyle_signoffour_4_d	22	0.9545454545454546	17259	2081	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes, 
+doyle_scarlet_10_d	20	0.95	9333	4298	 followed him with t	 followed him with a
+doyle_scarlet_10_d	22	1.0	13489	9773	There’s nothing to be 	There’s nothing to be 
+doyle_baskervilles_9_u	21	1.0	2349	1988	 in the morning, and 	 in the morning, and 
+doyle_baskervilles_9_u	20	0.95	2352	13062	 the morning, and as	 the morning, and af
+doyle_baskervilles_9_u	26	0.9615384615384616	6944	4111	 under the circumstances, 	 under the circumstances e
+doyle_baskervilles_9_u	20	0.95	8591	3206	 rubbed his hands in	 rubbed his hands wi
+doyle_baskervilles_9_u	20	0.95	10149	32720	 motionless figure w	 motionless figure. 
+doyle_baskervilles_9_u	20	0.95	11971	4117	 the circumstances a	 the circumstances e
+doyle_baskervilles_9_u	20	0.95	12134	28483	. There is nothing n	. There is nothing s
+doyle_baskervilles_9_u	20	0.95	14810	4117	 the circumstances, 	 the circumstances e
+doyle_baskervilles_9_u	20	0.95	18987	7623	 he appeared to be s	 he appeared to be m
+doyle_scarlet_2_d	31	0.967741935483871	683	18873	 retired sergeant of Marines.” 	 retired sergeant of Marines,” 
+doyle_scarlet_2_d	23	0.9565217391304348	928	18881	 sergeant of Marines?” 	 sergeant of Marines,” 
+doyle_scarlet_2_d	20	0.95	5387	14456	 you have all the ev	 you have all the de
+doyle_scarlet_2_d	23	1.0	6754	10257	d that Sherlock Holmes 	d that Sherlock Holmes 
+doyle_scarlet_2_d	27	1.0	8790	12984	?” asked Sherlock Holmes. “	?” asked Sherlock Holmes. “
+doyle_scarlet_2_d	20	1.0	8797	18907	d Sherlock Holmes. “	d Sherlock Holmes. “
+doyle_scarlet_2_d	20	0.95	11404	3198	d my companion and m	d my companion, and 
+doyle_scarlet_2_d	20	1.0	11722	18624	 asked, pointing to 	 asked, pointing to 
+doyle_scarlet_2_d	20	0.95	14948	1214	 which appeared to y	 which appeared to t
+doyle_scarlet_2_d	28	1.0	15518	5634	 of the highest importance, 	 of the highest importance, 
+doyle_scarlet_2_d	20	0.95	16345	16016	 with the air of a s	 with the air of a m
+doyle_scarlet_2_d	20	0.95	16845	1254	est portion of the w	est portions of the 
+doyle_scarlet_2_d	20	1.0	17259	19250	 Mr. Sherlock Holmes	 Mr. Sherlock Holmes
+doyle_scarlet_2_d	20	0.95	18645	1181	, and occasionally a	, and occasionally i
+doyle_scarlet_2_d	23	0.9565217391304348	19430	10258	 that Sherlock Holmes’ 	 that Sherlock Holmes h
+doyle_scarlet_2_d	21	0.9523809523809523	19944	13375	 I should like to spe	 I should like to see
+doyle_scarlet_2_d	25	0.96	21042	18901	,” said Sherlock Holmes c	,” said Sherlock Holmes. 
+doyle_scarlet_12_d	21	1.0	13092	11065	 here,” he cried. “It	 here,” he cried. “It
+doyle_signoffour_2_d	20	0.95	8797	5148	d Sherlock Holmes. “	d Sherlock Holmes. "
+doyle_signoffour_2_d	23	0.9565217391304348	21044	5144	 said Sherlock Holmes c	 said Sherlock Holmes. 
+doyle_baskervilles_7_u	20	0.95	264	22939	, however, that the 	, however, that ther
+doyle_baskervilles_7_u	21	0.9523809523809523	6350	19798	he whole place was ve	he whole place was me
+doyle_baskervilles_7_u	20	0.95	6950	2450	 the circumstances, 	 the circumstances w
+doyle_baskervilles_7_u	20	0.95	11971	2450	 the circumstances a	 the circumstances w
+doyle_baskervilles_7_u	20	0.95	14810	2450	 the circumstances, 	 the circumstances w
+doyle_baskervilles_7_u	22	0.9545454545454546	15253	17385	 about to make some re	 about to make some ex
+doyle_baskervilles_7_u	21	1.0	16294	14153	. “What do you think 	. “What do you think 
+doyle_baskervilles_7_u	20	1.0	17259	8180	 Mr. Sherlock Holmes	 Mr. Sherlock Holmes
+doyle_baskervilles_7_u	22	0.9545454545454546	17259	8650	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes i
+doyle_baskervilles_7_u	21	1.0	19527	14153	. “What do you think 	. “What do you think 
+doyle_signoffour_10_d	20	1.0	5117	13732	 and the melancholy 	 and the melancholy 
+doyle_signoffour_10_d	20	0.95	8399	890	 Holmes glanced at m	 Holmes glanced at h
+doyle_signoffour_10_d	21	0.9523809523809523	11181	132	 appeared to me in a 	 appeared to be in a 
+doyle_signoffour_10_d	20	0.95	15348	7737	 this conversation i	 this conversation h
+doyle_signoffour_10_d	21	1.0	15555	7187	hich would have been 	hich would have been 
+doyle_signoffour_10_d	20	0.95	16345	629	 with the air of a s	 with the air of a b
+doyle_baskervilles_5_u	21	0.9523809523809523	1690	3955	” said Holmes, though	” said Holmes thought
+doyle_baskervilles_5_u	22	0.9545454545454546	3974	1964	y dear fellow, what do	y dear fellow, what on
+doyle_baskervilles_5_u	21	1.0	8424	7299	 raised his eyebrows 	 raised his eyebrows 
+doyle_baskervilles_5_u	20	1.0	8797	11455	d Sherlock Holmes. “	d Sherlock Holmes. “
+doyle_baskervilles_5_u	20	0.95	8798	15108	 Sherlock Holmes. “N	 Sherlock Holmes.” N
+doyle_baskervilles_5_u	20	0.95	12134	12950	. There is nothing n	. There is nothing m
+doyle_baskervilles_5_u	24	0.9583333333333334	12777	12952	There is nothing more to	There is nothing more st
+doyle_baskervilles_5_u	25	0.96	15382	3222	appeared upon the scene, 	appeared upon the scene. 
+doyle_baskervilles_5_u	23	0.9565217391304348	17259	15104	 Mr. Sherlock Holmes. Y	 Mr. Sherlock Holmes.” 
+doyle_baskervilles_5_u	23	0.9565217391304348	17259	16704	 Mr. Sherlock Holmes. Y	 Mr. Sherlock Holmes.’ 
+doyle_baskervilles_5_u	20	1.0	17259	16866	 Mr. Sherlock Holmes	 Mr. Sherlock Holmes
+doyle_baskervilles_5_u	21	1.0	20020	13147	 his name and address	 his name and address
+doyle_baskervilles_5_u	24	0.9583333333333334	21043	11450	” said Sherlock Holmes c	” said Sherlock Holmes. 
+doyle_signoffour_12_d	22	0.9545454545454546	1466	51473	 the way in which he h	 the way in which she 
+doyle_signoffour_12_d	22	0.9545454545454546	2344	14283	t two in the morning, 	t two in the morning t
+doyle_signoffour_12_d	20	0.95	8797	49490	d Sherlock Holmes. “	d Sherlock Holmes. "
+doyle_signoffour_12_d	20	0.95	10868	22987	 I have never seen u	 I have never seen s
+doyle_signoffour_12_d	20	0.95	10868	25236	 I have never seen u	 I have never seen a
+doyle_signoffour_12_d	20	1.0	11599	26421	e. Sherlock Holmes a	e. Sherlock Holmes a
+doyle_signoffour_12_d	20	0.95	12134	49560	. There is nothing n	. There is nothing a
+doyle_signoffour_12_d	20	0.95	15195	26421	e. Sherlock Holmes c	e. Sherlock Holmes a
+doyle_signoffour_12_d	23	0.9565217391304348	21044	49486	 said Sherlock Holmes c	 said Sherlock Holmes. 
+doyle_signoffour_12_d	23	0.9565217391304348	21044	52745	 said Sherlock Holmes c	 said Sherlock Holmes, 
+doyle_adventures_2_d	20	0.95	1608	31612	 to believe that he 	 to believe that we 
+doyle_adventures_2_d	21	0.9523809523809523	3284	36268	 my friend remarked; 	 my friend remarked. 
+doyle_adventures_2_d	21	0.9523809523809523	5330	25521	 he answered. “It is 	 he answered. "It is 
+doyle_adventures_2_d	24	1.0	8792	8072	 asked Sherlock Holmes. 	 asked Sherlock Holmes. 
+doyle_adventures_2_d	20	1.0	9889	40581	 that the light was 	 that the light was 
+doyle_adventures_2_d	20	0.95	11178	41205	 it appeared to me i	 it appeared to me t
+doyle_adventures_2_d	26	1.0	11279	28785	 one of the main arteries 	 one of the main arteries 
+doyle_adventures_2_d	20	0.95	11600	20684	. Sherlock Holmes ap	. Sherlock Holmes an
+doyle_adventures_2_d	21	1.0	11934	2358	 has been committed. 	 has been committed. 
+doyle_adventures_2_d	20	1.0	13341	31693	 complicates matters	 complicates matters
+doyle_adventures_2_d	23	1.0	14478	46745	 inquiries as to this m	 inquiries as to this m
+doyle_adventures_2_d	21	0.9523809523809523	15559	10749	 would have been over	 would have been very
+doyle_adventures_2_d	20	1.0	16729	26030	on the mantelpiece. 	on the mantelpiece. 
+doyle_adventures_2_d	23	0.9565217391304348	17258	51	, Mr. Sherlock Holmes. 	, Mr. Sherlock Holmes, 
+doyle_adventures_2_d	21	1.0	17258	7620	, Mr. Sherlock Holmes	, Mr. Sherlock Holmes
+doyle_adventures_2_d	20	0.95	18645	2274	, and occasionally a	, and occasionally, 
+doyle_adventures_2_d	26	1.0	19045	38178	 his glass in his pocket. 	 his glass in his pocket. 
+doyle_adventures_2_d	20	0.95	19709	16243	 that it would be a 	 that it would be al
+doyle_adventures_2_d	20	1.0	19884	22942	I shall be happy to 	I shall be happy to 
+doyle_adventures_2_d	33	0.9696969696969697	19884	24871	I shall be happy to give you any 	I shall be happy to give you an o
+doyle_adventures_2_d	23	0.9565217391304348	21044	34755	 said Sherlock Holmes c	 said Sherlock Holmes, 
+doyle_baskervilles_14_u	20	0.95	7284	8429	d upon the ground. T	d upon the ground. I
+doyle_baskervilles_14_u	21	0.9523809523809523	7381	15263	 of satisfaction. The	 of satisfaction. “Th
+doyle_baskervilles_14_u	20	0.95	8269	2661	 inside the house,” 	 inside the house, h
+doyle_baskervilles_14_u	20	0.95	9223	5815	 the dining-room, wh	 the dining-room whe
+doyle_baskervilles_14_u	20	1.0	10272	14444	t was that of a man 	t was that of a man 
+doyle_baskervilles_14_u	22	0.9545454545454546	16329	2021	d the detective, with 	d the detective with a
+doyle_baskervilles_10_u	20	0.95	1618	10508	e that he had been a	e that he had been v
+doyle_baskervilles_10_u	24	0.9583333333333334	8645	18876	 have done all that can 	 have done all that man 
+doyle_baskervilles_10_u	23	0.9565217391304348	8798	138	 Sherlock Holmes. “No, 	 Sherlock Holmes. Now, 
+doyle_baskervilles_10_u	20	0.95	14868	10635	 information which c	 information which I
+doyle_baskervilles_10_u	22	1.0	16298	9939	hat do you think of th	hat do you think of th
+doyle_baskervilles_10_u	20	0.95	17263	138	 Sherlock Holmes. Yo	 Sherlock Holmes. No
+doyle_baskervilles_10_u	22	0.9545454545454546	19531	9939	hat do you think of it	hat do you think of th
+doyle_baskervilles_10_u	20	1.0	20086	4512	ance,” he said. “He 	ance,” he said. “He 
+doyle_adventures_6_d	20	0.95	1606	17398	me to believe that h	me to believe that M
+doyle_adventures_6_d	29	0.9655172413793104	2408	16222	ed that something was amiss. 	ed that something was amiss w
+doyle_adventures_6_d	20	0.95	2464	17275	 in the front room, 	 in the front room d
+doyle_adventures_6_d	21	0.9523809523809523	2464	18386	 in the front room, w	 in the front room we
+doyle_adventures_6_d	26	0.9615384615384616	5557	31169	, if I am not very much mi	, if I am not very much in
+doyle_adventures_6_d	21	1.0	10470	34362	 coat and waistcoat, 	 coat and waistcoat, 
+doyle_adventures_6_d	21	0.9523809523809523	10829	3719	 as it seemed to me, 	 as it seemed to me a
+doyle_adventures_6_d	24	1.0	11256	17939	, which looked out upon 	, which looked out upon 
+doyle_adventures_6_d	21	0.9523809523809523	11599	33959	e. Sherlock Holmes ap	e. Sherlock Holmes wa
+doyle_adventures_6_d	20	0.95	11600	37344	. Sherlock Holmes ap	. Sherlock Holmes wa
+doyle_adventures_6_d	23	1.0	11658	29599	 examined it intently. 	 examined it intently. 
+doyle_adventures_6_d	20	0.95	11683	30680	ou are sure that the	ou are sure that thi
+doyle_adventures_6_d	20	0.95	11694	42493	 that there is no wo	 that there is no po
+doyle_adventures_6_d	20	1.0	11933	41975	r has been committed	r has been committed
+doyle_adventures_6_d	20	0.95	14114	31018	 upon the fly-leaf. 	 upon the fly-leaf o
+doyle_adventures_6_d	20	0.95	15195	33959	e. Sherlock Holmes c	e. Sherlock Holmes w
+doyle_adventures_6_d	23	0.9565217391304348	15213	35505	 chuckled to himself, a	 chuckled to himself as
+doyle_adventures_6_d	21	0.9523809523809523	15215	35507	huckled to himself, a	huckled to himself as
+doyle_adventures_6_d	28	1.0	15299	17266	 had been in the front room 	 had been in the front room 
+doyle_adventures_6_d	21	1.0	15307	18385	n in the front room w	n in the front room w
+doyle_adventures_6_d	28	1.0	15603	21836	 careful examination of the 	 careful examination of the 
+doyle_adventures_6_d	20	0.95	16345	12610	 with the air of a s	 with the air of a m
+doyle_adventures_6_d	21	1.0	17258	28357	, Mr. Sherlock Holmes	, Mr. Sherlock Holmes
+doyle_adventures_6_d	20	0.95	17401	26057	 said my companion, 	 said my companion. 
+doyle_adventures_6_d	20	0.95	18059	25170	e appeared to have f	e appeared to have b
+doyle_adventures_6_d	20	0.95	19945	38554	I should like to spe	I should like to see
+doyle_adventures_6_d	21	1.0	20475	21257	 in the prime of life	 in the prime of life
+doyle_signoffour_8_d	25	0.96	7760	2360	 the door of the house we	 the door of the house, w
+doyle_signoffour_8_d	20	0.95	11600	10244	. Sherlock Holmes ap	. Sherlock Holmes an
+doyle_signoffour_8_d	23	0.9565217391304348	16297	11881	What do you think of th	What do you think of it
+doyle_signoffour_8_d	22	0.9545454545454546	17259	10241	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes a
+doyle_signoffour_8_d	23	1.0	19530	11881	What do you think of it	What do you think of it
+doyle_scarlet_8_d	20	0.95	5328	9392	,” he answered. “It 	,” he answered. “I h
+doyle_scarlet_8_d	20	0.95	6521	14682	, and against this w	, and against this b
+doyle_scarlet_8_d	21	1.0	6671	3890	 in the vain hope of 	 in the vain hope of 
+doyle_scarlet_8_d	21	0.9523809523809523	7282	4523	ted upon the ground. 	ted upon the ground h
+doyle_scarlet_8_d	20	0.95	10799	15820	d an expression of h	d an expression of i
+doyle_adventures_10_d	20	1.0	264	359	, however, that the 	, however, that the 
+doyle_adventures_10_d	24	1.0	581	41984	ow in the world did you 	ow in the world did you 
+doyle_adventures_10_d	20	0.95	1619	10461	 that he had been a 	 that he had seen a 
+doyle_adventures_10_d	27	1.0	2040	8168	 a little out of the common	 a little out of the common
+doyle_adventures_10_d	30	0.9666666666666667	2176	2994	MY DEAR MR. SHERLOCK HOLMES,--	MY DEAR MR. SHERLOCK HOLMES:--
+doyle_adventures_10_d	22	0.9545454545454546	3196	3642	. Yours faithfully, “T	. Yours faithfully, ST
+doyle_adventures_10_d	21	0.9523809523809523	7381	27069	 of satisfaction. The	 of satisfaction. "Th
+doyle_adventures_10_d	26	0.9615384615384616	8420	19780	 and raised his eyebrows s	 and raised his eyebrows. 
+doyle_adventures_10_d	20	0.95	8797	39515	d Sherlock Holmes. “	d Sherlock Holmes. "
+doyle_adventures_10_d	20	1.0	14837	38249	d that we should be 	d that we should be 
+doyle_adventures_10_d	23	1.0	14864	13903	 any information which 	 any information which 
+doyle_adventures_10_d	21	0.9523809523809523	15405	29680	, rubbing his hands i	, rubbing his hands. 
+doyle_adventures_10_d	28	1.0	15518	42174	 of the highest importance, 	 of the highest importance, 
+doyle_adventures_10_d	21	0.9523809523809523	16759	17403	 at the time, and if 	 at the time, and it 
+doyle_adventures_10_d	25	1.0	17736	39312	t with your permission I 	t with your permission I 
+doyle_adventures_10_d	20	0.95	18645	8236	, and occasionally a	, and occasionally d
+doyle_adventures_10_d	21	0.9523809523809523	19709	7427	 that it would be a p	 that it would be at 
+doyle_adventures_10_d	23	0.9565217391304348	21044	22795	 said Sherlock Holmes c	 said Sherlock Holmes, 
+doyle_adventures_10_d	23	0.9565217391304348	21044	39511	 said Sherlock Holmes c	 said Sherlock Holmes. 
+doyle_baskervilles_1_u	20	0.95	3971	8134	 “My dear fellow, wh	 “My dear fellow, ho
+doyle_baskervilles_1_u	20	0.95	6760	10293	 Sherlock Holmes wou	 Sherlock Holmes who
+doyle_baskervilles_1_u	20	0.95	7366	9323	 an exclamation of s	 an exclamation of j
+doyle_baskervilles_1_u	22	0.9545454545454546	12687	11485	y for the purposes of 	y for the purpose of e
+doyle_baskervilles_1_u	20	0.95	15196	10292	. Sherlock Holmes ch	. Sherlock Holmes wh
+doyle_baskervilles_1_u	22	0.9545454545454546	17259	1	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes M
+doyle_baskervilles_1_u	22	0.9545454545454546	17259	10289	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes w
+doyle_adventures_12_d	23	1.0	1020	10569	. If you were asked to 	. If you were asked to 
+doyle_adventures_12_d	20	0.95	1611	52796	 believe that he had	 believe that she ha
+doyle_adventures_12_d	23	1.0	2136	14580	 is the letter which I 	 is the letter which I 
+doyle_adventures_12_d	22	0.9545454545454546	2410	32758	 that something was am	 that something was mo
+doyle_adventures_12_d	21	0.9523809523809523	3005	50206	 left everything _in 	 left everything in M
+doyle_adventures_12_d	21	1.0	3195	14536	n. Yours faithfully, 	n. Yours faithfully, 
+doyle_adventures_12_d	22	1.0	3974	3541	y dear fellow, what do	y dear fellow, what do
+doyle_adventures_12_d	20	0.95	6950	15929	 the circumstances, 	 the circumstances y
+doyle_adventures_12_d	20	0.95	7019	41893	ed up and down the p	ed up and down the r
+doyle_adventures_12_d	20	1.0	7283	48516	ed upon the ground. 	ed upon the ground. 
+doyle_adventures_12_d	20	0.95	7759	47259	t the door of the ho	t the door of the ro
+doyle_adventures_12_d	21	0.9523809523809523	8795	88	ked Sherlock Holmes. 	ked Sherlock Holmes, 
+doyle_adventures_12_d	21	0.9523809523809523	10799	41946	d an expression of ho	d an expression of th
+doyle_adventures_12_d	21	1.0	10829	36177	 as it seemed to me, 	 as it seemed to me, 
+doyle_adventures_12_d	20	0.95	11600	2479	. Sherlock Holmes ap	. Sherlock Holmes ha
+doyle_adventures_12_d	20	0.95	11971	15929	 the circumstances a	 the circumstances y
+doyle_adventures_12_d	20	0.95	12876	5083	y entered the room, 	y entered the room. 
+doyle_adventures_12_d	20	0.95	14810	15929	 the circumstances, 	 the circumstances y
+doyle_adventures_12_d	20	0.95	14868	21894	 information which c	 information which w
+doyle_adventures_12_d	20	0.95	14948	4793	 which appeared to y	 which appeared to b
+doyle_adventures_12_d	20	0.95	15196	2479	. Sherlock Holmes ch	. Sherlock Holmes ha
+doyle_adventures_12_d	23	0.9565217391304348	18383	38734	s backwards and forward	s backward and forward 
+doyle_adventures_12_d	21	0.9523809523809523	19307	52821	 with considerable cu	 with considerable su
+doyle_adventures_12_d	20	0.95	19434	47413	t Sherlock Holmes’ s	t Sherlock Holmes sp
+doyle_adventures_12_d	21	0.9523809523809523	19662	26063	 remarked my friend. 	 remarked my friend, 
+doyle_adventures_12_d	21	0.9523809523809523	19709	47135	 that it would be a p	 that it would be as 
+doyle_adventures_12_d	20	1.0	19884	5604	I shall be happy to 	I shall be happy to 
+doyle_adventures_12_d	20	0.95	19944	14734	 I should like to sp	 I should like to su
+doyle_adventures_12_d	21	0.9523809523809523	19944	14981	 I should like to spe	 I should like to see
+doyle_baskervilles_3_u	20	0.95	1619	5251	 that he had been a 	 that he had been fa
+doyle_baskervilles_3_u	20	1.0	11617	716	 approached the body	 approached the body
+doyle_baskervilles_3_u	21	0.9523809523809523	11934	13054	 has been committed. 	 has been committed a
+doyle_baskervilles_3_u	21	0.9523809523809523	16847	14037	t portion of the wall	t portion of the alle
+doyle_baskervilles_12_u	23	0.9565217391304348	3646	9447	. “Surely there is not 	. “Surely there is no n
+doyle_baskervilles_12_u	20	1.0	3969	3311	.” “My dear fellow, 	.” “My dear fellow, 
+doyle_baskervilles_12_u	21	0.9523809523809523	5330	9577	 he answered. “It is 	 he answered: “It is 
+doyle_baskervilles_12_u	20	0.95	7366	13084	 an exclamation of s	 an exclamation of h
+doyle_baskervilles_12_u	21	0.9523809523809523	7759	10445	t the door of the hou	t the door of the hut
+doyle_baskervilles_12_u	21	1.0	8502	12666	 upon the ground, the	 upon the ground, the
+doyle_baskervilles_12_u	22	1.0	11617	15965	 approached the body, 	 approached the body, 
+doyle_baskervilles_12_u	26	1.0	13238	16648	. There could be no doubt 	. There could be no doubt 
+doyle_baskervilles_12_u	20	1.0	14814	8322	 circumstances, and 	 circumstances, and 
+doyle_baskervilles_12_u	21	1.0	15966	13058	 and held it up again	 and held it up again
+doyle_baskervilles_12_u	21	1.0	16294	20937	. “What do you think 	. “What do you think 
+doyle_baskervilles_12_u	21	1.0	17258	20966	, Mr. Sherlock Holmes	, Mr. Sherlock Holmes
+doyle_baskervilles_12_u	20	0.95	17851	4770	s from his pocket. W	s from his pocket. “
+doyle_baskervilles_12_u	21	1.0	19527	20937	. “What do you think 	. “What do you think 
+doyle_adventures_4_d	21	1.0	263	7463	d, however, that the 	d, however, that the 
+doyle_adventures_4_d	22	0.9545454545454546	279	25612	 the whole thing was a	 the whole thing was! 
+doyle_adventures_4_d	20	0.95	5570	30775	 very much mistaken.	 very much mistaken 
+doyle_adventures_4_d	26	1.0	6944	10667	 under the circumstances, 	 under the circumstances, 
+doyle_adventures_4_d	20	0.95	7021	1185	 up and down the pav	 up and down the pla
+doyle_adventures_4_d	20	0.95	8797	20159	d Sherlock Holmes. “	d Sherlock Holmes. "
+doyle_adventures_4_d	20	0.95	11368	13155	 standing by the doo	 standing by the poo
+doyle_adventures_4_d	20	0.95	11600	1157	. Sherlock Holmes ap	. Sherlock Holmes wa
+doyle_adventures_4_d	20	0.95	11600	31525	. Sherlock Holmes ap	. Sherlock Holmes wa
+doyle_adventures_4_d	21	0.9523809523809523	11694	11023	 that there is no wou	 that there is no dou
+doyle_adventures_4_d	20	0.95	11971	10442	 the circumstances a	 the circumstances w
+doyle_adventures_4_d	21	0.9523809523809523	11971	10673	 the circumstances at	 the circumstances, a
+doyle_adventures_4_d	22	1.0	12777	8210	There is nothing more 	There is nothing more 
+doyle_adventures_4_d	20	0.95	14810	10442	 the circumstances, 	 the circumstances w
+doyle_adventures_4_d	24	1.0	14810	10673	 the circumstances, and 	 the circumstances, and 
+doyle_adventures_4_d	20	0.95	15196	718	. Sherlock Holmes ch	. Sherlock Holmes' c
+doyle_adventures_4_d	21	1.0	15611	16242	 examination of the w	 examination of the w
+doyle_adventures_4_d	20	1.0	15611	40538	 examination of the 	 examination of the 
+doyle_adventures_4_d	20	0.95	16044	9826	e remarked that the 	e remarked that he w
+doyle_adventures_4_d	20	0.95	16758	5014	t at the time, and i	t at the time, and t
+doyle_adventures_4_d	22	1.0	17257	19558	h, Mr. Sherlock Holmes	h, Mr. Sherlock Holmes
+doyle_adventures_4_d	27	0.9629629629629629	17263	20160	 Sherlock Holmes. You may b	 Sherlock Holmes. "You may 
+doyle_adventures_4_d	22	0.9545454545454546	18694	7374	 in an equally incompr	 in an equally uncompr
+doyle_adventures_4_d	20	0.95	19055	36904	 in his pocket. “The	 in his pocket. Ther
+doyle_adventures_4_d	20	0.95	19308	15219	with considerable cu	with considerable co
+doyle_adventures_4_d	21	1.0	20862	36943	 indications, but the	 indications, but the
+doyle_adventures_4_d	23	0.9565217391304348	21044	20155	 said Sherlock Holmes c	 said Sherlock Holmes. 
+doyle_baskervilles_4_u	20	0.95	578	8557	 “How in the world d	 “How in the world c
+doyle_baskervilles_4_u	20	1.0	3489	4008	air of professional 	air of professional 
+doyle_baskervilles_4_u	20	1.0	3969	20024	.” “My dear fellow, 	.” “My dear fellow, 
+doyle_baskervilles_4_u	20	0.95	4460	9997	 have nothing else. 	 have nothing else t
+doyle_baskervilles_4_u	22	0.9545454545454546	5010	5613	, and the difference b	, and the differences 
+doyle_baskervilles_4_u	20	1.0	8797	3010	d Sherlock Holmes. “	d Sherlock Holmes. “
+doyle_baskervilles_4_u	20	1.0	8797	11707	d Sherlock Holmes. “	d Sherlock Holmes. “
+doyle_baskervilles_4_u	23	0.9565217391304348	15345	19187	ing this conversation i	ing this conversation, 
+doyle_baskervilles_4_u	21	1.0	15404	3871	e, rubbing his hands 	e, rubbing his hands 
+doyle_baskervilles_4_u	27	1.0	16295	3809	 “What do you think of that	 “What do you think of that
+doyle_baskervilles_4_u	23	0.9565217391304348	17258	766	, Mr. Sherlock Holmes. 	, Mr. Sherlock Holmes, 
+doyle_baskervilles_4_u	23	1.0	17736	3070	t with your permission 	t with your permission 
+doyle_baskervilles_4_u	25	0.96	19528	3809	 “What do you think of it	 “What do you think of th
+doyle_baskervilles_4_u	20	0.95	20731	19596	n all probability th	n all probability it
+doyle_baskervilles_4_u	25	0.96	21042	3004	,” said Sherlock Holmes c	,” said Sherlock Holmes. 
+doyle_baskervilles_4_u	25	0.96	21042	11701	,” said Sherlock Holmes c	,” said Sherlock Holmes. 
+doyle_baskervilles_15_u	21	1.0	1466	4542	 the way in which he 	 the way in which he 
+doyle_baskervilles_15_u	21	0.9523809523809523	13251	18448	 be no doubt that tha	 be no doubt that Sta
+doyle_baskervilles_15_u	20	1.0	14941	12269	y point which appear	y point which appear
+doyle_baskervilles_15_u	21	0.9523809523809523	17202	6921	thing to do with it. 	thing to do with it, 
+doyle_baskervilles_15_u	20	0.95	19307	5634	 with considerable c	 with considerable f
+doyle_adventures_3_d	23	1.0	2092	22885	Would you mind reading 	Would you mind reading 
+doyle_adventures_3_d	21	0.9523809523809523	4242	2701	or, and acknowledges 	or, and acknowledge t
+doyle_adventures_3_d	24	0.9583333333333334	8792	7055	 asked Sherlock Holmes. 	 asked Sherlock Holmes, 
+doyle_adventures_3_d	20	0.95	10868	15657	 I have never seen u	 I have never seen o
+doyle_adventures_3_d	20	0.95	11081	33030	 was increased by hi	 was increased by th
+doyle_adventures_3_d	20	0.95	11600	18868	. Sherlock Holmes ap	. Sherlock Holmes sa
+doyle_adventures_3_d	21	0.9523809523809523	12563	21553	 then glanced at the 	 then glanced at her 
+doyle_adventures_3_d	28	1.0	14256	12601	to be left till called for. 	to be left till called for. 
+doyle_adventures_3_d	20	0.95	19709	11900	 that it would be a 	 that it would be sa
+doyle_adventures_3_d	20	1.0	19709	25377	 that it would be a 	 that it would be a 
+doyle_adventures_3_d	22	1.0	21044	38	 said Sherlock Holmes 	 said Sherlock Holmes 
+doyle_adventures_1_d	30	1.0	2176	42765	MY DEAR MR. SHERLOCK HOLMES,--	MY DEAR MR. SHERLOCK HOLMES,--
+doyle_adventures_1_d	20	0.95	2546	36345	, well dressed, and 	, well dressed and i
+doyle_adventures_1_d	49	0.9591836734693877	5345	7446	It is a capital mistake to theorize before you ha	It is a capital mistake to theorize before one ha
+doyle_adventures_1_d	21	0.9523809523809523	6795	26017	 hurried into the hou	 hurried into the chu
+doyle_adventures_1_d	20	0.95	7019	13719	ed up and down the p	ed up and down the r
+doyle_adventures_1_d	24	1.0	9231	37758	ing-room, which was the 	ing-room, which was the 
+doyle_adventures_1_d	27	0.9629629629629629	11074	33689	, which was increased by hi	, which was increased by th
+doyle_adventures_1_d	21	0.9523809523809523	11181	24103	 appeared to me in a 	 appeared to be in a 
+doyle_adventures_1_d	21	0.9523809523809523	11682	17485	You are sure that the	You are sure that she
+doyle_adventures_1_d	24	1.0	12366	19467	 which I have already re	 which I have already re
+doyle_adventures_1_d	22	0.9545454545454546	12688	14513	 for the purposes of o	 for the purpose of co
+doyle_adventures_1_d	28	1.0	13169	45256	 upon the palm of his hand. 	 upon the palm of his hand. 
+doyle_adventures_1_d	28	0.9642857142857143	14257	42609	o be left till called for. T	o be left till called for." 
+doyle_adventures_1_d	26	0.9615384615384616	15213	4676	 chuckled to himself, and 	 chuckled to himself and r
+doyle_adventures_1_d	20	0.95	16345	24213	 with the air of a s	 with the air of a m
+doyle_adventures_1_d	22	1.0	17259	43684	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes. 
+doyle_adventures_1_d	22	0.9545454545454546	17259	44345	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes, 
+doyle_adventures_1_d	22	0.9545454545454546	17259	45874	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes w
+doyle_adventures_1_d	21	0.9523809523809523	18987	11314	 he appeared to be sa	 he appeared to be a 
+doyle_adventures_1_d	20	0.95	19716	9971	t would be a pity fo	t would be a pity to
+doyle_adventures_1_d	25	0.96	20184	18607	 Holmes took a note of th	 Holmes took a note of it
+doyle_adventures_1_d	20	1.0	20930	34008	 at each other with 	 at each other with 
+doyle_adventures_1_d	20	0.95	21165	8336	 is the German for ‘	 is the German for '
+doyle_signoffour_11_d	20	0.95	8797	8138	d Sherlock Holmes. “	d Sherlock Holmes. W
+doyle_baskervilles_6_u	20	0.95	7366	7579	 an exclamation of s	 an exclamation of d
+doyle_baskervilles_6_u	24	0.9583333333333334	9223	16406	 the dining-room, which 	 the dining-room which o
+doyle_baskervilles_6_u	21	1.0	9253	13336	e apartment in which 	e apartment in which 
+doyle_baskervilles_6_u	23	0.9565217391304348	10829	7977	 as it seemed to me, of	 as it seemed to me, fo
+doyle_baskervilles_6_u	20	0.95	10868	4125	 I have never seen u	 I have never seen a
+doyle_baskervilles_6_u	22	0.9545454545454546	17259	135	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes d
+doyle_baskervilles_2_u	24	1.0	454	9564	 had finished reading th	 had finished reading th
+doyle_baskervilles_2_u	20	1.0	1817	20371	 that there were no 	 that there were no 
+doyle_baskervilles_2_u	22	0.9545454545454546	1817	20854	 that there were no cr	 that there were no tr
+doyle_baskervilles_2_u	20	0.95	8797	15617	d Sherlock Holmes. “	d Sherlock Holmes, “
+doyle_baskervilles_2_u	20	0.95	10800	18594	 an expression of ho	 an expression of th
+doyle_baskervilles_2_u	20	0.95	11989	12654	 attendant on the de	 attendant of the de
+doyle_baskervilles_2_u	20	0.95	12877	114	 entered the room, a	 entered the room,” 
+doyle_baskervilles_2_u	22	1.0	17259	9674	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes. 
+doyle_baskervilles_2_u	22	1.0	17739	1841	ith your permission I 	ith your permission I 
+doyle_baskervilles_2_u	20	0.95	19055	15479	 in his pocket. “The	 in his pocket. “Tho
+doyle_baskervilles_2_u	25	0.96	21042	15611	,” said Sherlock Holmes c	,” said Sherlock Holmes, 
+doyle_adventures_5_d	21	1.0	2349	32343	 in the morning, and 	 in the morning, and 
+doyle_adventures_5_d	25	1.0	5014	28309	d the difference between 	d the difference between 
+doyle_adventures_5_d	20	1.0	8796	18783	ed Sherlock Holmes. 	ed Sherlock Holmes. 
+doyle_adventures_5_d	21	0.9523809523809523	11599	23248	e. Sherlock Holmes ap	e. Sherlock Holmes sa
+doyle_adventures_5_d	20	0.95	11600	32462	. Sherlock Holmes ap	. Sherlock Holmes wa
+doyle_adventures_5_d	20	0.95	11600	35562	. Sherlock Holmes ap	. Sherlock Holmes ha
+doyle_adventures_5_d	20	0.95	12134	32126	. There is nothing n	. There is nothing m
+doyle_adventures_5_d	28	1.0	12777	32128	There is nothing more to be 	There is nothing more to be 
+doyle_adventures_5_d	20	1.0	13251	27418	 be no doubt that th	 be no doubt that th
+doyle_adventures_5_d	20	1.0	13251	34251	 be no doubt that th	 be no doubt that th
+doyle_adventures_5_d	20	0.95	15195	23248	e. Sherlock Holmes c	e. Sherlock Holmes s
+doyle_adventures_5_d	20	0.95	15196	35562	. Sherlock Holmes ch	. Sherlock Holmes ha
+doyle_adventures_5_d	37	0.972972972972973	15596	13500	 made a careful examination of the wa	 made a careful examination of the at
+doyle_adventures_5_d	20	0.95	16098	20225	 this particular cor	 this particular col
+doyle_adventures_5_d	24	0.9583333333333334	16983	27478	s that the writer was go	s that the writer was on
+doyle_adventures_5_d	24	0.9583333333333334	17263	18785	 Sherlock Holmes. You ma	 Sherlock Holmes. "You m
+doyle_adventures_5_d	20	0.95	20410	38721	, and the murderer w	, and the murderers 
+doyle_adventures_5_d	23	0.9565217391304348	21044	29417	 said Sherlock Holmes c	 said Sherlock Holmes, 
+doyle_baskervilles_13_u	20	0.95	265	14138	 however, that the w	 however, that he wo
+doyle_baskervilles_13_u	20	1.0	1212	8524	 on the back of the 	 on the back of the 
+doyle_baskervilles_13_u	20	1.0	3969	12193	.” “My dear fellow, 	.” “My dear fellow, 
+doyle_baskervilles_13_u	20	0.95	6950	15859	 the circumstances, 	 the circumstances w
+doyle_baskervilles_13_u	20	0.95	8591	10792	 rubbed his hands in	 rubbed his hands wi
+doyle_baskervilles_13_u	21	1.0	8739	7306	e for such things.” “	e for such things.” “
+doyle_baskervilles_13_u	20	1.0	8797	18526	d Sherlock Holmes. “	d Sherlock Holmes. “
+doyle_baskervilles_13_u	22	0.9545454545454546	8797	19877	d Sherlock Holmes. “No	d Sherlock Holmes. “Yo
+doyle_baskervilles_13_u	20	0.95	11971	15859	 the circumstances a	 the circumstances w
+doyle_baskervilles_13_u	20	0.95	14459	5270	 “Have you made any 	 “Have you made anyt
+doyle_baskervilles_13_u	20	0.95	14810	15859	 the circumstances, 	 the circumstances w
+doyle_baskervilles_13_u	20	0.95	14838	11957	 that we should be g	 that we should be m
+doyle_baskervilles_13_u	24	1.0	15970	8905	 held it up against the 	 held it up against the 
+doyle_baskervilles_13_u	22	1.0	17197	5792	 something to do with 	 something to do with 
+doyle_baskervilles_13_u	23	0.9565217391304348	17263	19878	 Sherlock Holmes. You m	 Sherlock Holmes. “You 
+doyle_baskervilles_13_u	20	0.95	17851	17278	s from his pocket. W	s from his pocket. “
+doyle_baskervilles_13_u	25	0.96	21042	18520	,” said Sherlock Holmes c	,” said Sherlock Holmes. 
+doyle_baskervilles_13_u	25	0.96	21042	19871	,” said Sherlock Holmes c	,” said Sherlock Holmes. 
+doyle_signoffour_9_d	21	1.0	263	8147	d, however, that the 	d, however, that the 
+doyle_signoffour_9_d	21	0.9523809523809523	1608	7820	 to believe that he h	 to believe that the 
+doyle_signoffour_9_d	20	0.95	11600	3337	. Sherlock Holmes ap	. Sherlock Holmes ha
+doyle_signoffour_9_d	20	0.95	15196	3337	. Sherlock Holmes ch	. Sherlock Holmes ha
+doyle_signoffour_9_d	20	0.95	15196	14281	. Sherlock Holmes ch	. Sherlock Holmes he
+doyle_signoffour_9_d	22	0.9545454545454546	17259	3334	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes h
+doyle_signoffour_9_d	22	0.9545454545454546	17259	12073	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes i
+doyle_signoffour_9_d	22	0.9545454545454546	17259	14278	 Mr. Sherlock Holmes. 	 Mr. Sherlock Holmes h
+doyle_signoffour_9_d	21	1.0	19709	17808	 that it would be a p	 that it would be a p
+doyle_adventures_7_d	20	1.0	596	7589	 did you deduce that	 did you deduce that
+doyle_adventures_7_d	20	0.95	1605	26713	 me to believe that 	 me to believe that.
+doyle_adventures_7_d	20	0.95	1691	14767	 said Holmes, though	 said Holmes thought
+doyle_adventures_7_d	20	0.95	1922	2295	 the commissionaire 	 the commissionaire?
+doyle_adventures_7_d	21	0.9523809523809523	1922	10977	 the commissionaire h	 the commissionaire, 
+doyle_adventures_7_d	24	1.0	1922	16837	 the commissionaire had 	 the commissionaire had 
+doyle_adventures_7_d	20	0.95	2283	36661	 the Brixton Road. O	 the Brixton Road. M
+doyle_adventures_7_d	20	0.95	3062	7435	 you are unable to c	 you are unable to s
+doyle_adventures_7_d	20	0.95	4764	36661	 the Brixton Road. I	 the Brixton Road. M
+doyle_adventures_7_d	20	0.95	7521	7443	 unable to see how m	 unable to see how t
+doyle_adventures_7_d	24	0.9583333333333334	7686	20389	I had no doubt that he c	I had no doubt that the 
+doyle_adventures_7_d	20	0.95	8049	24962	, pointing at the pa	, pointing at the ba
+doyle_adventures_7_d	20	0.95	11600	11627	. Sherlock Holmes ap	. Sherlock Holmes sa
+doyle_adventures_7_d	21	0.9523809523809523	12688	650	 for the purposes of 	 for the purpose of e
+doyle_adventures_7_d	24	0.9583333333333334	14404	35034	 this unfortunate man wa	 this unfortunate man ar
+doyle_adventures_7_d	20	1.0	15611	9194	 examination of the 	 examination of the 
+doyle_adventures_7_d	20	0.95	16345	28156	 with the air of a s	 with the air of a m
+doyle_adventures_7_d	25	0.96	17737	21322	 with your permission I s	 with your permission, I 
+doyle_adventures_7_d	21	0.9523809523809523	19944	18424	 I should like to spe	 I should like to see
+doyle_adventures_7_d	23	0.9565217391304348	21044	1406	 said Sherlock Holmes c	 said Sherlock Holmes, 
+doyle_baskervilles_11_u	20	1.0	2410	9911	 that something was 	 that something was 
+doyle_baskervilles_11_u	20	0.95	5637	12644	 a hundred yards or 	 a hundred yards of 
+doyle_baskervilles_11_u	20	1.0	12774	2944	. “There is nothing 	. “There is nothing 
+doyle_baskervilles_11_u	28	0.9642857142857143	16297	12684	What do you think of that?” 	What do you think of that? W
+doyle_baskervilles_11_u	20	1.0	16431	23785	 the darkest corner 	 the darkest corner 
+doyle_baskervilles_11_u	23	0.9565217391304348	19530	12684	What do you think of it	What do you think of th
+doyle_adventures_11_d	25	1.0	2341	16628	bout two in the morning, 	bout two in the morning, 
+doyle_adventures_11_d	22	0.9545454545454546	2349	18186	 in the morning, and a	 in the morning and ma
+doyle_adventures_11_d	21	1.0	2349	26406	 in the morning, and 	 in the morning, and 
+doyle_adventures_11_d	22	0.9545454545454546	5637	45941	 a hundred yards or so	 a hundred yards or mo
+doyle_adventures_11_d	20	0.95	8502	442	 upon the ground, th	 upon the ground, sh
+doyle_adventures_11_d	20	0.95	9221	25870	to the dining-room, 	to the dining-room a
+doyle_adventures_11_d	22	1.0	10426	1093	. He was dressed in a 	. He was dressed in a 
+doyle_adventures_11_d	20	0.95	11600	2521	. Sherlock Holmes ap	. Sherlock Holmes pu
+doyle_adventures_11_d	20	0.95	11600	21231	. Sherlock Holmes ap	. Sherlock Holmes sa
+doyle_adventures_11_d	32	0.96875	13238	9057	. There could be no doubt that t	. There could be no doubt that, 
+doyle_adventures_11_d	21	0.9523809523809523	13239	47526	 There could be no do	 There could be no po
+doyle_adventures_11_d	20	0.95	14936	16339	on any point which a	on any point which I
+doyle_adventures_11_d	23	1.0	14954	23268	 appeared to you to be 	 appeared to you to be 
+doyle_adventures_11_d	21	1.0	14956	23270	ppeared to you to be 	ppeared to you to be 
+doyle_adventures_11_d	23	1.0	15382	43591	appeared upon the scene	appeared upon the scene
+doyle_adventures_11_d	21	0.9523809523809523	15405	1718	, rubbing his hands i	, rubbing his hands. 
+doyle_adventures_11_d	28	1.0	15603	30208	 careful examination of the 	 careful examination of the 
+doyle_adventures_11_d	20	0.95	16345	5777	 with the air of a s	 with the air of a m
+doyle_adventures_11_d	20	1.0	16474	22953	 thought of looking 	 thought of looking 
+doyle_adventures_11_d	21	0.9523809523809523	17739	32332	ith your permission I	ith your permission, 
+doyle_adventures_11_d	22	0.9545454545454546	19709	9400	 that it would be a pi	 that it would be an i
+doyle_adventures_11_d	20	1.0	19884	33165	I shall be happy to 	I shall be happy to 
+doyle_adventures_11_d	22	1.0	21044	39019	 said Sherlock Holmes 	 said Sherlock Holmes 
+doyle_scarlet_9_d	20	0.95	1451	12770	t have observed the 	t have observed thes
+doyle_scarlet_9_d	20	0.95	8062	13070	 the pathway. “If a 	 the pathway. “I am 

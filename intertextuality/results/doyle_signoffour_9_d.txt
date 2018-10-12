@@ -1,0 +1,36 @@
+TargetTitle	Length	ratio	Source place	Target place	Analysis text	Target text
+doyle_adventures_7_d	22	0.9545454545454546	90	11626	d. Sherlock Holmes sti	d. Sherlock Holmes sat
+doyle_adventures_7_d	21	0.9523809523809523	459	7532	 confess that I am su	 confess that I am un
+doyle_adventures_7_d	20	0.95	3337	11627	. Sherlock Holmes ha	. Sherlock Holmes sa
+doyle_adventures_7_d	20	0.95	3338	31290	 Sherlock Holmes has	 Sherlock Holmes hai
+doyle_adventures_7_d	22	0.9545454545454546	8343	1703	ts may be expected at 	ts may be expected to 
+doyle_adventures_7_d	21	1.0	8660	15491	 an advertisement in 	 an advertisement in 
+doyle_adventures_7_d	20	0.95	11064	11627	. Sherlock Holmes is	. Sherlock Holmes sa
+doyle_adventures_7_d	20	0.95	11671	39272	 in the middle of it	 in the middle of th
+doyle_adventures_7_d	20	0.95	12076	11627	. Sherlock Holmes is	. Sherlock Holmes sa
+doyle_adventures_7_d	20	1.0	12663	28408	 out of his pocket, 	 out of his pocket, 
+doyle_adventures_7_d	22	0.9545454545454546	13689	18858	 buttoned up to his th	 buttoned up to his ch
+doyle_adventures_7_d	20	0.95	13945	30293	, and I could see li	, and I could see in
+doyle_adventures_7_d	20	0.95	17095	12820	 evidence against th	 evidence against hi
+doyle_baskervilles_11_u	23	0.9565217391304348	6506	9492	 hours of the morning I	 hours of the morning. 
+doyle_baskervilles_11_u	21	0.9523809523809523	7694	8525	d that there was a fr	d that there was a pr
+doyle_baskervilles_11_u	20	0.95	11671	19658	 in the middle of it	 in the middle of th
+doyle_baskervilles_11_u	20	0.95	17359	18393	ou will help me to t	ou will help me to e
+doyle_adventures_11_d	21	0.9523809523809523	91	21231	. Sherlock Holmes sti	. Sherlock Holmes sat
+doyle_adventures_11_d	23	0.9565217391304348	2106	47584	, however, there was en	, however, there was an
+doyle_adventures_11_d	20	0.95	3337	21231	. Sherlock Holmes ha	. Sherlock Holmes sa
+doyle_adventures_11_d	20	0.95	4228	36360	," I answered. "I ha	," I answered. "I sh
+doyle_adventures_11_d	27	1.0	6571	35701	 which told me that he was 	 which told me that he was 
+doyle_adventures_11_d	21	0.9523809523809523	6845	36233	, Watson," said he. "	, Watson," said he, "
+doyle_adventures_11_d	21	0.9523809523809523	7587	35011	 before I get back." 	 before I get back. D
+doyle_adventures_11_d	20	0.95	7613	31839	 heard nothing of hi	 heard nothing of it
+doyle_adventures_11_d	22	0.9545454545454546	8606	38742	 down upon the table, 	 down upon the table. 
+doyle_adventures_11_d	25	0.96	10243	6812	, on the other hand, I ha	, on the other hand, I am
+doyle_adventures_11_d	20	0.95	11064	21231	. Sherlock Holmes is	. Sherlock Holmes sa
+doyle_adventures_11_d	24	0.9583333333333334	11976	29863	I should be very glad of	I should be very glad no
+doyle_adventures_11_d	20	0.95	12076	21231	. Sherlock Holmes is	. Sherlock Holmes sa
+doyle_adventures_11_d	20	0.95	12556	33218	 I understand that h	 I understand that y
+doyle_adventures_11_d	21	0.9523809523809523	17808	9400	 that it would be a p	 that it would be an 
+doyle_adventures_11_d	21	1.0	18514	39580	 interview with him, 	 interview with him, 
+doyle_adventures_11_d	22	1.0	18779	39577	 an interview with him	 an interview with him
+doyle_scarlet_9_d	20	0.95	12281	11727	t that he could not 	t that he would not 
